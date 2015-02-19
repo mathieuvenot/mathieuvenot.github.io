@@ -229,6 +229,18 @@ line-height: 3.6em;
 }
 
 
+#stacks_in_182_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_23_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
 #stacks_in_7_page2 {
 	line-height: 0.750000em;
 	text-transform: uppercase;
@@ -242,12 +254,6 @@ line-height: 3.6em;
 }
 
 #stacks_in_86_page2 {
-	line-height: 0.750000em;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-#stacks_in_23_page2 {
 	line-height: 0.750000em;
 	text-transform: uppercase;
 	font-weight: bold;
