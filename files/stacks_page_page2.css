@@ -362,13 +362,11 @@ body ol.flex-control-nav {
 }
 }
 @media screen and (max-width: 480px) {
-	#stacks_in_192_page2 .flex-direction-nav{display: none;}
+	#stacks_in_192_page2 .flex-direction-nav,.sflexslider .flex-caption{display: none !important;}
 }
 
 
 /* Edit Mode UI  */
-
-
 
 
 #stacks_in_192_page2 {
