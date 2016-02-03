@@ -374,8 +374,138 @@ body ol.flex-control-nav {
 	padding:  3px;
 }
 
-#stacks_in_167_page2 {
+#stacks_in_565_page2 {
 	margin: 50px 0px 0px 0px;
+}
+
+#stacks_in_586_page2 .cleanResponse3_L {
+	float:left;
+	width:32%;
+	margin: 0 0 10px 0;
+
+}
+
+#stacks_in_586_page2 .cleanResponse3_R {
+	float:right;
+	width:32%;
+	margin: 0 0 10px 0;
+}
+
+#stacks_in_586_page2 .cleanResponse3_M {
+	float: left;
+	margin:0  2% 10px 2%;
+	width:32%;
+}
+
+@media (max-width: 800px){
+
+	#stacks_in_586_page2 .cleanResponse3_L.cleanResp1 {
+		float: left;
+		width:49%;
+		margin:0 1% 10px 0;
+	}
+	
+	
+	#stacks_in_586_page2 .cleanResponse3_M.cleanResp1 {
+		float: left;
+		width:49%;
+		margin:0 0 10px 1%;
+	}
+	
+	#stacks_in_586_page2 .cleanResponse3_R.cleanResp1 {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	/*  ============ LARGE TOP ================== */
+	
+	#stacks_in_586_page2 .cleanResponse3_L.cleanResp2 {
+		float: left;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	
+	
+	#stacks_in_586_page2 .cleanResponse3_M.cleanResp2 {
+		float: left;
+		width:49%;
+		margin:0 1% 10px 0;
+	}
+	
+	#stacks_in_586_page2 .cleanResponse3_R.cleanResp2 {
+		float: left;
+		width:49%;
+		margin:0 0 10px 1%;
+	}
+	
+	/*  ============ EVEN ================== */
+	
+	#stacks_in_586_page2 .cleanResponse3_L.cleanResp3 {
+	}
+	
+	
+	#stacks_in_586_page2 .cleanResponse3_M.cleanResp3 {
+	}
+	
+	#stacks_in_586_page2 .cleanResponse3_R.cleanResp3 {
+	}
+	
+}
+
+
+
+
+@media (max-width: 600px){
+	
+	#stacks_in_586_page2 .cleanResponse3_L {
+		float: left !important;
+		width:100% !important;
+		margin:0 0 10px 0!important;
+	}
+	
+	#stacks_in_586_page2 .cleanResponse3_R {
+		float: left !important;
+		width:100%!important;
+		margin:0 0 10px 0!important;
+	}
+	
+	#stacks_in_586_page2 .cleanResponse3_M {
+		float: left !important;
+		width:100%!important;
+		margin:0 0 10px 0!important;
+	}
+	
+	
+}
+
+
+#stacks_in_593_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_625_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_605_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_615_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_167_page2 {
+	margin: 25px 0px 0px 0px;
 }
 
 #stacks_in_260_page2 .cleanResponse3_L {
