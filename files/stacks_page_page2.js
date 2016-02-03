@@ -125,7 +125,7 @@ $(function() {
 				slideshowSpeed:4000,
 				animationSpeed:1000,
 				randomize:true,
-				controlNav:true,
+				controlNav:false,
 				directionNav:false,
 				prevText: "",
 				nextText: "",
