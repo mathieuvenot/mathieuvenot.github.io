@@ -1,4 +1,46 @@
-<!DOCTYPE html>
+<?php
+	// Start session.
+	session_start();
+	
+	// Set a key, checked in mailer, prevents against spammers trying to hijack the mailer.
+	$security_token = $_SESSION['security_token'] = uniqid(rand());
+	
+	if ( ! isset($_SESSION['formMessage'])) {
+		$_SESSION['formMessage'] = 'Fill in the form below to send me an email.';	
+	}
+	
+	if ( ! isset($_SESSION['formFooter'])) {
+		$_SESSION['formFooter'] = ' ';
+	}
+	
+	if ( ! isset($_SESSION['form'])) {
+		$_SESSION['form'] = array();
+	}
+	
+	function check($field, $type = '', $value = '') {
+		$string = "";
+		if (isset($_SESSION['form'][$field])) {
+			switch($type) {
+				case 'checkbox':
+					$string = 'checked="checked"';
+					break;
+				case 'radio':
+					if($_SESSION['form'][$field] === $value) {
+						$string = 'checked="checked"';
+					}
+					break;
+				case 'select':
+					if($_SESSION['form'][$field] === $value) {
+						$string = 'selected="selected"';
+					}
+					break;
+				default:
+					$string = $_SESSION['form'][$field];
+			}
+		}
+		return $string;
+	}
+?><!DOCTYPE html>
 <!--[if IE 7 ]><html lang="en" class="ie7"><![endif]-->
 <!--[if IE 8 ]><html lang="en" class="ie8"><![endif]-->
 <!--[if IE 9 ]><html lang="en" class="ie9"><![endif]-->
@@ -10,11 +52,12 @@
 		<meta id="res" name="viewport" content="initial-scale=1 maximum-scale=1"/>
 		
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="RapidWeaver" />
 		<link rel="icon" href="http://mathieuvenot.github.io/favicon.ico" type="image/x-icon" />
 		<link rel="shortcut icon" href="http://mathieuvenot.github.io/favicon.ico" type="image/x-icon" />
 		<link rel="apple-touch-icon" href="http://mathieuvenot.github.io/apple-touch-icon.png" />
 		
-		<title>3D Scanning | Mathieu Venot</title>
+		<title>Contact Form | Mathieu Venot</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/47089/SocialIconsNCD/style-cf.css">
 		<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
@@ -24,47 +67,26 @@
 		
 		
 		<!--[if lt IE 9]><script src="../../rw_common/themes/canvas/ie.js"></script><![endif]-->
-				<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks.css' />
-		<!--[if lte IE 7]>
-			<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks_ie.css' />
-		<![endif]-->
-		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page22.css' />
-		<script type='text/javascript' charset='utf-8' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
-		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page22.js'></script>
-
+		
 		
 		<style type="text/css" media="all">body{ background-image: url(../../resources/Other_Ressources/Site-Ressources/Background02E.jpg); }
 
 
-
-img {
-filter: grayscale(12%);
--webkit-filter: grayscale(12%);
-opacity:0.88;
-filter:alpha(opacity=88);
+header img {
+filter: grayscale(20%);
+-webkit-filter: grayscale(20%);
+opacity:0.8;
+filter:alpha(opacity=80);
 -moz-transition: background-color .4s ease-in-out;
 -webkit-transition: all .4s ease-in-out;
 -o-transition: all .4s ease-in-out;
 -ms-transition: all .4s ease-in-out;
 transition: all .4s ease-in-out;
 }
-img:hover {
+header img:hover {
 filter: grayscale(0%);
 -webkit-filter: grayscale(0%);
-filter: none;
-opacity:1.0;
-filter:alpha(opacity=100);
-}
-header img {
-filter: grayscale(20%);
--webkit-filter: grayscale(20%);
-opacity:0.8;
-filter:alpha(opacity=80);
-}
-.superflex img{
-filter: grayscale(0%);
--webkit-filter: grayscale(0%);
-filter: none;
+filter:none;
 opacity:1.0;
 filter:alpha(opacity=100);
 }</style>
@@ -85,7 +107,7 @@ filter:alpha(opacity=100);
 			<div id="wrapper">
 				<div>
 					<nav>
-						<ul id="n"><li><a href="../../" rel="">Home</a></li><li><a href="../../blog/" rel="">Work In Progress</a></li><li><a class="currentAncestor" href="../../code-4/" rel="">- - - Services</a><ul id="n"><li><a href="../../code-4/page21/" rel="">3D Design</a></li><li><a href="../../code-4/page7/" rel="">3D Printing</a></li><li><a class="current" href="./" rel="">3D Scanning</a></li><li><a href="../../code-4/page24/" rel="">Digital Teaching</a></li></ul></li><li><a href="../../code/" rel="">- - - Ressources</a><ul id="n"><li><a href="../../code/styled-2/" rel="">About | Resume</a></li><li><a href="../../code/contact-form/" rel="">Contact Form</a></li><li><a href="../../code/styled/" rel="">Links</a></li></ul></li></ul>
+						<ul id="n"><li><a href="../../" rel="">Home</a></li><li><a href="../../blog/" rel="">Work In Progress</a></li><li><a href="../../code-4/" rel="">- - - Services</a><ul id="n"><li><a href="../../code-4/page21/" rel="">3D Design</a></li><li><a href="../../code-4/page7/" rel="">3D Printing</a></li><li><a href="../../code-4/page22/" rel="">3D Scanning</a></li><li><a href="../../code-4/page24/" rel="">Digital Teaching</a></li></ul></li><li><a class="currentAncestor" href="../../code/" rel="">- - - Ressources</a><ul id="n"><li><a href="../../code/styled-2/" rel="">About | Resume</a></li><li><a class="current" href="./" rel="">Contact Form</a></li><li><a href="../../code/styled/" rel="">Links</a></li></ul></li></ul>
 						<ol><div class="clear"></div></ol>
 					</nav>
 				</div><!-- div -->
@@ -108,38 +130,36 @@ filter:alpha(opacity=100);
 								</header>
 								<section id="e">
 								 
+<div class="message-text"><?php echo $_SESSION['formMessage']; unset($_SESSION['formMessage']); ?></div><br />
 
-<!-- Stacks v1215 --><div id='stacks_out_139_page22' class='stacks_top'><div id='stacks_in_139_page22' class=''><div id='stacks_out_142_page22' class='stacks_out'><div id='stacks_in_142_page22' class='stacks_in text_stack'><span style="font:12px Verdana, sans-serif; font-weight:bold; color:#4B4B4B;font-weight:bold; ">// 3D SCANNING</span><span style="font:12px Verdana, sans-serif; "><br /></span><span style="font:12px Verdana, sans-serif; "><br />I can make 3D scanning on demand, mainly for medium object - body & room scales.<br /><br />Scanner : Microsoft Kinect & Photogrammetry<br />Dimensions : 0.5m3 to 10m3<br />Software preferences : Skanect<br />Pricing : 40&euro;/hour<br /><br />Contact : </span><a href="mailto:mat.venot+nca_s@gmail.com" target="_tab">mat.venot+nca_s@gmail.com</a></div></div><div id='stacks_out_490_page22' class='stacks_out'><div id='stacks_in_490_page22' class='stacks_in com_nickcatesdesign_stacks_superflex_base_stack'>
-<div id="stacks_in_490_page22" class="superflex" data-ncdp='superflex' data-ncdv='207' data-ncdt='stack'>
-	<div class="sf-loader"><div class="sf-spinner"></div><hr>// LOADING</div>
-	<div class="sflexslider carousel">
-	
-		<ul class="slides"><div id='stacks_out_563_page22' class='stacks_out'><div id='stacks_in_563_page22' class='stacks_in com_nickcatesdesign_stacks_superflex_slide_stack'><li class='sf-slide'>
-	
-	
-	<div class='img'><div class='centered_image' ><img class='imageStyle' src='files/stacks_image_564.png' width='1200' height='674' alt='Stacks Image 564' /></div></div>
-	<p class='flex-caption'></p>
-</li></div></div><div id='stacks_out_584_page22' class='stacks_out'><div id='stacks_in_584_page22' class='stacks_in com_nickcatesdesign_stacks_superflex_slide_stack'><li class='sf-slide'>
-	
-	
-	<div class='img'><div class='centered_image' ><img class='imageStyle' src='files/stacks_image_585.png' width='1200' height='674' alt='Stacks Image 585' /></div></div>
-	<p class='flex-caption'></p>
-</li></div></div><div id='stacks_out_589_page22' class='stacks_out'><div id='stacks_in_589_page22' class='stacks_in com_nickcatesdesign_stacks_superflex_slide_stack'><li class='sf-slide'>
-	
-	
-	<div class='img'><div class='centered_image' ><img class='imageStyle' src='files/stacks_image_590.png' width='1200' height='674' alt='Stacks Image 590' /></div></div>
-	<p class='flex-caption'></p>
-</li></div></div></ul>
+<form class="rw-contact-form" action="./files/mailer.php" method="post" enctype="multipart/form-data">
+	 <div>
+		<label>Your Name</label> *<br />
+		<input class="form-input-field" type="text" value="<?php echo check('element0'); ?>" name="form[element0]" size="40"/><br /><br />
+
+		<label>Your Email</label> *<br />
+		<input class="form-input-field" type="text" value="<?php echo check('element1'); ?>" name="form[element1]" size="40"/><br /><br />
+
+		<label>Subject</label> *<br />
+		<input class="form-input-field" type="text" value="<?php echo check('element2'); ?>" name="form[element2]" size="40"/><br /><br />
+
+		<label>Message</label> *<br />
+		<textarea class="form-input-field" name="form[element3]" rows="8" cols="38"><?php echo check('element3'); ?></textarea><br /><br />
+
+		<div style="display: none;">
+			<label>Spam Protection: Please don't fill this in:</label>
+			<textarea name="comment" rows="1" cols="1"></textarea>
+		</div>
+		<input type="hidden" name="form_token" value="<?php echo $security_token; ?>" />
+		<input class="form-input-button" type="reset" name="resetButton" value="Clear" />
+		<input class="form-input-button" type="submit" name="submitButton" value="Send" />
 	</div>
-</div>
-</div></div></div></div>
+</form>
 
+<br />
+<div class="form-footer"><?php echo $_SESSION['formFooter']; unset($_SESSION['formFooter']); ?></div><br />
 
-
-<!-- End of Stacks Content -->
-
-
-
+<?php unset($_SESSION['form']); ?>
 								 <div class="clear"></div>
 								 <h3 id="side"></h3>
 								 <a class="social-email social-import" href="mailto:mat.venot+nca@gmail.com" target="_tab"></a>
