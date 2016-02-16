@@ -480,6 +480,12 @@ body ol.flex-control-nav {
 }
 
 
+#stacks_in_586_page2 {
+	border: solid #999999;
+	border-width: 0px 0px 1px 0px;
+	padding: 0px 0px 5px 0px;
+}
+
 #stacks_in_593_page2 {
 	line-height: 0.750000em;
 	text-transform: uppercase;
@@ -616,6 +622,24 @@ body ol.flex-control-nav {
 	font-weight: bold;
 }
 
+#stacks_in_256_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_265_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#stacks_in_623_page2 {
+	line-height: 0.750000em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
 #stacks_in_285_page2 {
 	line-height: 0.750000em;
 	text-transform: uppercase;
@@ -629,18 +653,6 @@ body ol.flex-control-nav {
 }
 
 #stacks_in_226_page2 {
-	line-height: 0.750000em;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-#stacks_in_256_page2 {
-	line-height: 0.750000em;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-#stacks_in_265_page2 {
 	line-height: 0.750000em;
 	text-transform: uppercase;
 	font-weight: bold;
