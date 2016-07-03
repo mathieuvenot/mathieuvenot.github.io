@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000018;
-	background-color: #54AE82;
+	color: #00000D;
+	background-color: #337077;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1207px;
+	min-height: 825px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -27,15 +27,14 @@
 
 #page_position_content
 {
-	margin-top: -793px;
-	margin-bottom: -521px;
+	margin-top: -2675px;
 	width: 0.01px;/* should not cover content below */
 }
 
 #pu874
 {
 	width: 0.01px;
-	padding-bottom: 2793px;
+	padding-bottom: 3500px;
 	margin-left: -100px;
 }
 
@@ -43,7 +42,7 @@
 {
 	z-index: 2;
 	width: 81px;
-	height: 2000px;
+	height: 3500px;
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
@@ -53,7 +52,7 @@
 {
 	z-index: 3;
 	width: 81px;
-	height: 2000px;
+	height: 820px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -388,7 +387,7 @@
 {
 	width: 0.01px;
 	margin-left: 449px;
-	margin-top: -1990px;
+	margin-top: -815px;
 }
 
 #u5308-6
@@ -433,8 +432,8 @@
 	height: 17px;
 	padding-bottom: 1233px;
 	margin-left: 112px;
-	top: -1843px;
-	margin-bottom: -1250px;
+	top: -668px;
+	margin-bottom: -668px;
 	position: relative;
 }
 
@@ -3327,7 +3326,7 @@
 {
 	width: 0.01px;
 	margin-left: 307px;
-	margin-top: -1843px;
+	margin-top: -1250px;
 }
 
 #u4234
@@ -3462,8 +3461,7 @@
 	width: 790px;
 	min-height: 20px;
 	margin-left: 112px;
-	top: -538px;
-	margin-bottom: -20px;
+	margin-top: 52px;
 	position: relative;
 }
 

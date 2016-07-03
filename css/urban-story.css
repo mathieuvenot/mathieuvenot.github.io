@@ -1,7 +1,7 @@
 .version.urban_story /* version checker */
 {
-	color: #00000C;
-	background-color: #240903;
+	color: #0000F8;
+	background-color: #84AD7F;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 825px;
+	min-height: 824.7500000000164px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -21,21 +21,21 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -793px;
-	margin-bottom: -407px;
+	margin-top: -2675px;
 	width: 0.01px;/* should not cover content below */
 }
 
 #pu874
 {
 	width: 0.01px;
-	padding-bottom: 2793px;
+	padding-bottom: 3500px;
 	margin-left: -100px;
 }
 
@@ -43,7 +43,7 @@
 {
 	z-index: 2;
 	width: 81px;
-	height: 2000px;
+	height: 3500px;
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
@@ -53,7 +53,7 @@
 {
 	z-index: 3;
 	width: 81px;
-	height: 2000px;
+	height: 820px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -371,7 +371,7 @@
 {
 	width: 0.01px;
 	margin-left: 112px;
-	margin-top: -1990px;
+	margin-top: -815px;
 }
 
 #u14391
@@ -456,7 +456,7 @@
 	width: 0.01px;
 	height: 441px;
 	margin-left: 120px;
-	top: -1846px;
+	top: -671px;
 	margin-bottom: -441px;
 	position: relative;
 }
@@ -665,7 +665,7 @@
 	border-color: transparent;
 	background-color: #CACACA;
 	margin-left: 121px;
-	top: -1407px;
+	top: -232px;
 	margin-bottom: -1px;
 	position: relative;
 }
@@ -684,7 +684,7 @@
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	margin-left: 126px;
-	top: -1360px;
+	top: -185px;
 	margin-bottom: -48px;
 	position: relative;
 }
@@ -713,7 +713,7 @@
 	border-color: transparent;
 	background-color: #545454;
 	margin-left: 126px;
-	top: -1307px;
+	top: -132px;
 	margin-bottom: -1px;
 	position: relative;
 }
@@ -722,7 +722,7 @@
 {
 	width: 0.01px;
 	margin-left: 126px;
-	margin-top: -1307px;
+	margin-top: -132px;
 }
 
 #u14388-67
@@ -795,7 +795,7 @@
 	width: 0.01px;
 	padding-bottom: 84px;
 	margin-left: -87px;
-	margin-top: -894px;
+	margin-top: -798px;
 }
 
 #u5342
@@ -879,8 +879,7 @@
 	width: 790px;
 	min-height: 20px;
 	margin-left: 112px;
-	top: -423px;
-	margin-bottom: -20px;
+	margin-top: 51px;
 	position: relative;
 }
 

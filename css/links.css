@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000E1;
-	background-color: #21D182;
+	color: #000019;
+	background-color: #A5F6CB;
 }
 
 #muse_css_mq
@@ -27,15 +27,14 @@
 
 #page_position_content
 {
-	margin-top: -793px;
-	margin-bottom: -1101px;
+	margin-top: -2675px;
 	width: 0.01px;/* should not cover content below */
 }
 
 #pu874
 {
 	width: 0.01px;
-	padding-bottom: 2793px;
+	padding-bottom: 3500px;
 	margin-left: -100px;
 }
 
@@ -43,7 +42,7 @@
 {
 	z-index: 2;
 	width: 81px;
-	height: 2000px;
+	height: 3500px;
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
@@ -53,7 +52,7 @@
 {
 	z-index: 3;
 	width: 81px;
-	height: 2000px;
+	height: 820px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -388,7 +387,7 @@
 {
 	width: 0.01px;
 	margin-left: 449px;
-	margin-top: -1990px;
+	margin-top: -815px;
 }
 
 #u5308-6
@@ -435,8 +434,8 @@
 	text-align: left;
 	font-family: cabin, sans-serif;
 	margin-left: 169px;
-	top: -1883px;
-	margin-bottom: -710px;
+	top: -708px;
+	margin-bottom: -708px;
 	position: relative;
 }
 
@@ -460,6 +459,32 @@
 	font-weight: 400;
 }
 
+#pu5342
+{
+	width: 0.01px;
+	padding-bottom: 84px;
+	margin-left: -87px;
+	margin-top: -103px;
+}
+
+#u5342
+{
+	z-index: 15;
+	width: 22px;
+	position: fixed;
+	bottom: 17px;
+	left: 15px;
+}
+
+#u5371
+{
+	z-index: 17;
+	width: 22px;
+	position: fixed;
+	bottom: 47px;
+	left: 15px;
+}
+
 #u5393
 {
 	z-index: 19;
@@ -472,6 +497,31 @@
 #u5393:hover
 {
 	width: 26px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5349
+{
+	z-index: 21;
+	width: 22px;
+	position: fixed;
+	bottom: 17px;
+	left: 45px;
+}
+
+#u5364
+{
+	z-index: 23;
+	width: 22px;
+	position: fixed;
+	bottom: 47px;
+	left: 45px;
+}
+
+#u5342:hover,#u5371:hover,#u5349:hover,#u5364:hover
+{
+	width: 22px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -492,57 +542,13 @@
 	margin: 0px;
 }
 
-#u5371
-{
-	z-index: 17;
-	width: 22px;
-	position: fixed;
-	bottom: 47px;
-	left: 15px;
-}
-
-#u5364
-{
-	z-index: 23;
-	width: 22px;
-	position: fixed;
-	bottom: 47px;
-	left: 45px;
-}
-
-#u5342
-{
-	z-index: 15;
-	width: 22px;
-	position: fixed;
-	bottom: 17px;
-	left: 15px;
-}
-
-#u5349
-{
-	z-index: 21;
-	width: 22px;
-	position: fixed;
-	bottom: 17px;
-	left: 45px;
-}
-
-#u5371:hover,#u5364:hover,#u5342:hover,#u5349:hover
-{
-	width: 22px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u2802-4
 {
 	z-index: 5;
 	width: 790px;
 	min-height: 20px;
 	margin-left: 112px;
-	top: -1118px;
-	margin-bottom: -20px;
+	margin-top: 52px;
 	position: relative;
 }
 
