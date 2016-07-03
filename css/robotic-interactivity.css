@@ -1,7 +1,7 @@
 .version.robotic_interactivity /* version checker */
 {
-	color: #0000F7;
-	background-color: #A24528;
+	color: #00001E;
+	background-color: #C114F6;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 824.7500000000168px;
+	min-height: 824.7499999999997px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -28,22 +28,133 @@
 
 #page_position_content
 {
-	margin-top: -2675px;
 	width: 0.01px;/* should not cover content below */
+}
+
+#u17086
+{
+	z-index: 20;
+	min-height: 70px;
+	padding-bottom: 12px;
+}
+
+#u17086_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+}
+
+#u12039
+{
+	z-index: 84;
+	width: 17px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 212px;
+}
+
+#u12044-4
+{
+	z-index: 80;
+	width: 82px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #979797;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-align: center;
+	line-height: 1.4;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 234px;
+}
+
+#u12041
+{
+	z-index: 86;
+	width: 17px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 321px;
+}
+
+#u5308-6
+{
+	z-index: 72;
+	width: 300px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 549px;
+}
+
+#u2049
+{
+	z-index: 78;
+	width: 224px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 879px;
+}
+
+#u2049:hover
+{
+	width: 224px;
+	height: 60px;
+	min-height: 0px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u2049.MuseLinkActive
+{
+	width: 224px;
+	height: 60px;
+	min-height: 0px;
+	margin: 10px -10000px 0px 0px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u17086-bw
+{
+	z-index: 20;
+	min-height: 70px;
 }
 
 #pu874
 {
 	width: 0.01px;
-	padding-bottom: 3500px;
+	padding-bottom: 825px;
 	margin-left: -100px;
+	margin-top: -82px;
 }
 
 #u874
 {
 	z-index: 2;
 	width: 81px;
-	height: 3500px;
+	height: 825px;
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
@@ -377,96 +488,6 @@
 	margin: 4px 0px 0px;
 }
 
-#u17086
-{
-	z-index: 20;
-	width: 4250px;
-	padding-bottom: 12px;
-	left: -1264px;
-	top: -825px;
-	margin-bottom: -82px;
-	position: relative;
-}
-
-#u12039
-{
-	z-index: 84;
-	width: 17px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
-	left: 1376px;
-}
-
-#u12044-4
-{
-	z-index: 80;
-	width: 82px;
-	min-height: 21px;
-	background-color: transparent;
-	font-size: 12px;
-	letter-spacing: 1px;
-	color: #979797;
-	text-align: center;
-	line-height: 1.4;
-	font-family: asap, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
-	left: 1398px;
-}
-
-#u12041
-{
-	z-index: 86;
-	width: 17px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
-	left: 1485px;
-}
-
-#u5308-6
-{
-	z-index: 72;
-	width: 300px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 1713px;
-}
-
-#u2049
-{
-	z-index: 78;
-	width: 224px;
-	height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 2043px;
-}
-
-#u2049:hover
-{
-	width: 224px;
-	height: 60px;
-	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
-}
-
-#u2049.MuseLinkActive
-{
-	width: 224px;
-	height: 60px;
-	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
-}
-
 #pamphletu12026
 {
 	z-index: 123;
@@ -745,9 +766,9 @@
 	width: 405px;
 	min-height: 229px;
 	background-color: transparent;
+	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	color: #8A8A8A;
 	text-align: left;
 	line-height: 1.4;
 	font-family: cabin, sans-serif;
@@ -763,9 +784,9 @@
 	width: 234px;
 	min-height: 118px;
 	background-color: transparent;
+	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	color: #8A8A8A;
 	text-align: justify;
 	line-height: 1.59;
 	font-family: cabin, sans-serif;
