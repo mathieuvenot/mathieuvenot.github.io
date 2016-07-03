@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #6260A9;
+	color: #000003;
+	background-color: #BB4223;
 }
 
 #muse_css_mq
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -906,9 +906,9 @@
 	width: 91px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
+	color: #979797;
 	text-align: left;
 	line-height: 1.4;
 	font-family: lekton, monospace;
@@ -1273,7 +1273,7 @@
 
 .html
 {
-	background: #FFFFFF url("../images/header_w.jpg") repeat-x left top scroll;
+	background-color: #F6F6F6;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.dixievr /* version checker */
 {
-	color: #00000E;
-	background-color: #E3C0CD;
+	color: #0000E7;
+	background-color: #DAC4D4;
 }
 
 #muse_css_mq
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -560,7 +560,7 @@
 
 .html
 {
-	background: #F6F6F6 url("../images/white_header_peace.jpg") repeat-x left top scroll;
+	background-color: #F6F6F6;
 }
 
 body

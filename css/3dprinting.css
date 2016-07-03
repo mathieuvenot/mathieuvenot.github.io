@@ -1,7 +1,7 @@
 .version._3dprinting /* version checker */
 {
-	color: #000001;
-	background-color: #804E98;
+	color: #00000C;
+	background-color: #2CBC77;
 }
 
 #muse_css_mq
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -609,7 +609,7 @@
 
 .html
 {
-	background: #F6F6F6 url("../images/white_header_peace.jpg") repeat-x left top scroll;
+	background-color: #F6F6F6;
 }
 
 body

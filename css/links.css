@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000E6;
-	background-color: #2871B8;
+	color: #00001B;
+	background-color: #791038;
 }
 
 #muse_css_mq
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -564,7 +564,7 @@
 
 .html
 {
-	background: #F6F6F6 url("../images/white_header_peace.jpg") repeat-x left top scroll;
+	background-color: #F6F6F6;
 }
 
 body
