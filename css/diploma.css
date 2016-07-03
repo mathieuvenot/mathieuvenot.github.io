@@ -1,7 +1,7 @@
 .version.diploma /* version checker */
 {
-	color: #0000ED;
-	background-color: #4EA1F4;
+	color: #000000;
+	background-color: #B6B7D1;
 }
 
 #muse_css_mq
@@ -64,11 +64,11 @@
 	width: 82px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -713,9 +713,9 @@
 	background-color: transparent;
 	color: #8A8A8A;
 	letter-spacing: 1px;
+	line-height: 1.4;
 	text-transform: none;
 	text-align: left;
-	line-height: 1.4;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	margin-left: 126px;
@@ -766,10 +766,10 @@
 	width: 405px;
 	min-height: 229px;
 	background-color: transparent;
-	color: #8A8A8A;
 	letter-spacing: 1px;
-	text-align: left;
 	line-height: 1.4;
+	color: #8A8A8A;
+	text-align: left;
 	font-family: cabin, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -800,11 +800,11 @@
 	width: 234px;
 	min-height: 118px;
 	background-color: transparent;
-	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: justify;
 	line-height: 1.59;
+	color: #8A8A8A;
+	text-align: justify;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	position: relative;

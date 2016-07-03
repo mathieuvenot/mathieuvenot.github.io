@@ -1,7 +1,7 @@
 .version.augmented_reality___immersion_in_3d_virtual_worlds /* version checker */
 {
-	color: #000018;
-	background-color: #E05FEB;
+	color: #0000EC;
+	background-color: #FD00B4;
 }
 
 #muse_css_mq
@@ -64,11 +64,11 @@
 	width: 82px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -713,9 +713,9 @@
 	background-color: transparent;
 	color: #8A8A8A;
 	letter-spacing: 1px;
+	line-height: 1.4;
 	text-transform: none;
 	text-align: left;
-	line-height: 1.4;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	margin-left: 126px;
@@ -766,11 +766,11 @@
 	width: 405px;
 	min-height: 229px;
 	background-color: transparent;
-	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: left;
 	line-height: 1.4;
+	color: #8A8A8A;
+	text-align: left;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -784,11 +784,11 @@
 	width: 234px;
 	min-height: 118px;
 	background-color: transparent;
-	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: justify;
 	line-height: 1.59;
+	color: #8A8A8A;
+	text-align: justify;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	position: relative;

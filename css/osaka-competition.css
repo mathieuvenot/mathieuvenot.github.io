@@ -1,7 +1,7 @@
 .version.osaka_competition /* version checker */
 {
-	color: #000001;
-	background-color: #D75574;
+	color: #00001E;
+	background-color: #065478;
 }
 
 #muse_css_mq
@@ -64,11 +64,11 @@
 	width: 82px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -503,9 +503,9 @@
 	background-color: transparent;
 	color: #8A8A8A;
 	letter-spacing: 1px;
+	line-height: 1.4;
 	text-transform: none;
 	text-align: left;
-	line-height: 1.4;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -762,11 +762,11 @@
 	width: 328px;
 	min-height: 75px;
 	background-color: transparent;
-	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: justify;
 	line-height: 1.59;
+	color: #8A8A8A;
+	text-align: justify;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	margin-left: 649px;
@@ -801,11 +801,11 @@
 	width: 312px;
 	min-height: 260px;
 	background-color: transparent;
-	color: #8A8A8A;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: left;
 	line-height: 1.4;
+	color: #8A8A8A;
+	text-align: left;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	margin-left: 649px;

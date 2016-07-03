@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00000C;
-	background-color: #57FDCA;
+	color: #0000F4;
+	background-color: #787611;
 }
 
 #muse_css_mq
@@ -47,10 +47,10 @@
 	width: 201px;
 	min-height: 22px;
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 1.4;
 	color: #979797;
 	text-align: right;
-	line-height: 1.4;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -592,11 +592,11 @@
 	width: 83px;
 	min-height: 17px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -657,11 +657,11 @@
 	width: 81px;
 	min-height: 15px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -712,11 +712,11 @@
 	width: 71px;
 	min-height: 11px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -774,11 +774,11 @@
 	width: 58px;
 	min-height: 17px;
 	background-color: transparent;
-	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	text-align: center;
 	line-height: 1.4;
+	color: #979797;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 400;
 	position: relative;

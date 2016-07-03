@@ -1,7 +1,7 @@
 .version._3dprinting /* version checker */
 {
-	color: #0000E6;
-	background-color: #9185DF;
+	color: #00001E;
+	background-color: #8004F3;
 }
 
 #muse_css_mq
@@ -53,10 +53,10 @@
 	width: 201px;
 	min-height: 22px;
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 1.4;
 	color: #979797;
 	text-align: right;
-	line-height: 1.4;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -486,8 +486,8 @@
 	width: 701px;
 	min-height: 228px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 1.27;
+	text-align: left;
 	font-family: cabin, sans-serif;
 	margin-left: 169px;
 	top: -321px;
@@ -616,9 +616,9 @@
 	width: 701px;
 	min-height: 60px;
 	background-color: transparent;
+	line-height: 1.27;
 	color: #7F7F7F;
 	text-align: left;
-	line-height: 1.27;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	margin-left: 169px;

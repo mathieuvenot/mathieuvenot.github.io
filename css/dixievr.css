@@ -1,7 +1,7 @@
 .version.dixievr /* version checker */
 {
-	color: #0000F5;
-	background-color: #258626;
+	color: #0000E5;
+	background-color: #6D78FD;
 }
 
 #muse_css_mq
@@ -53,10 +53,10 @@
 	width: 201px;
 	min-height: 22px;
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 1.4;
 	color: #979797;
 	text-align: right;
-	line-height: 1.4;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -486,9 +486,9 @@
 	width: 701px;
 	min-height: 125px;
 	background-color: transparent;
+	line-height: 1.27;
 	color: #7F7F7F;
 	text-align: left;
-	line-height: 1.27;
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	margin-left: 169px;

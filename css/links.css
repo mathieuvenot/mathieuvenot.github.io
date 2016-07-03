@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #00001C;
-	background-color: #3ACE6D;
+	color: #0000F8;
+	background-color: #68EA85;
 }
 
 #muse_css_mq
@@ -398,10 +398,10 @@
 	width: 201px;
 	min-height: 22px;
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 1.4;
 	color: #979797;
 	text-align: right;
-	line-height: 1.4;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
