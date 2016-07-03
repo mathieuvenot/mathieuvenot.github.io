@@ -1,7 +1,7 @@
 .version.freelance /* version checker */
 {
-	color: #0000E6;
-	background-color: #365C13;
+	color: #000002;
+	background-color: #7E16A5;
 }
 
 #muse_css_mq
@@ -31,11 +31,100 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#u17086
+{
+	z-index: 20;
+	min-height: 70px;
+	padding-bottom: 12px;
+}
+
+#u17086_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+}
+
+#u5760-4
+{
+	z-index: 79;
+	width: 201px;
+	min-height: 22px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #979797;
+	text-align: right;
+	line-height: 1.4;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 150px;
+}
+
+#u5308-6
+{
+	z-index: 72;
+	width: 300px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 549px;
+}
+
+#u2049
+{
+	z-index: 78;
+	width: 224px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 879px;
+}
+
+#u2049:hover
+{
+	width: 224px;
+	height: 60px;
+	min-height: 0px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u2049.MuseLinkActive
+{
+	width: 224px;
+	height: 60px;
+	min-height: 0px;
+	margin: 10px -10000px 0px 0px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u17086-bw
+{
+	z-index: 20;
+	min-height: 70px;
+}
+
 #pu874
 {
 	width: 0.01px;
 	padding-bottom: 825px;
 	margin-left: -100px;
+	margin-top: -82px;
 }
 
 #u874
@@ -374,95 +463,6 @@
 	min-height: 12px;
 	width: 64px;
 	margin: 4px 0px 0px;
-}
-
-#u5760-4
-{
-	z-index: 79;
-	width: 201px;
-	min-height: 22px;
-	background-color: transparent;
-	letter-spacing: 1px;
-	color: #979797;
-	text-align: left;
-	line-height: 1.4;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-	position: fixed;
-	top: 35px;
-	left: 150px;
-}
-
-#u17086
-{
-	z-index: 20;
-	min-height: 70px;
-	padding-bottom: 12px;
-}
-
-#u17086_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	position: relative;
-	width: 960px;
-	left: -100px;
-	margin-bottom: -82px;
-}
-
-#u5308-6
-{
-	z-index: 72;
-	width: 300px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 549px;
-}
-
-#u2049
-{
-	z-index: 78;
-	width: 224px;
-	height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 879px;
-}
-
-#u2049:hover
-{
-	width: 224px;
-	height: 60px;
-	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
-}
-
-#u2049.MuseLinkActive
-{
-	width: 224px;
-	height: 60px;
-	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
-}
-
-#u17086-bw
-{
-	z-index: 20;
-	min-height: 70px;
-	margin-top: -825px;
 }
 
 #u5756

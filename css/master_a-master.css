@@ -1,3 +1,53 @@
+#u17086
+{
+	background-color: #F1F1F1;
+}
+
+#u5308-6
+{
+	background-color: transparent;
+	text-align: right;
+}
+
+#u5308-2
+{
+	font-size: 30px;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+}
+
+#u5308-4
+{
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+#u2049
+{
+	-webkit-transition-duration: 0.5s;
+	-webkit-transition-delay: 0.2s;
+	-webkit-transition-timing-function: linear;
+	transition-duration: 0.5s;
+	transition-delay: 0.2s;
+	transition-timing-function: linear;
+	background: transparent url("../images/1637_1637%20-%20copy%20-%20copy-u2049-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2049:hover
+{
+	background: transparent url("../images/1637_1637%20-%20copy%20-%20copyn-u2049-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2049.MuseLinkActive
+{
+	background: transparent url("../images/1637_1637%20-%20copy%20-%20copy-u2049-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u874,#u875
 {
 	border-width: 0px;
@@ -8,6 +58,13 @@
 #u17082
 {
 	background-color: #222324;
+}
+
+.ImgHover,#menuu2448
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
 }
 
 #u2493,#u2494
@@ -284,63 +341,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u17086
-{
-	background-color: #F1F1F1;
-}
-
-#u5308-6
-{
-	background-color: transparent;
-	text-align: right;
-}
-
-#u5308-2
-{
-	font-size: 30px;
-	font-family: questrial, sans-serif;
-	font-weight: 400;
-}
-
-#u5308-4
-{
-	font-size: 14px;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
-	font-style: italic;
-}
-
-#u2049
-{
-	-webkit-transition-duration: 0.5s;
-	-webkit-transition-delay: 0.2s;
-	-webkit-transition-timing-function: linear;
-	transition-duration: 0.5s;
-	transition-delay: 0.2s;
-	transition-timing-function: linear;
-	background: transparent url("../images/1637_1637%20-%20copy%20-%20copy-u2049-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u2049:hover
-{
-	background: transparent url("../images/1637_1637%20-%20copy%20-%20copyn-u2049-r-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u2049.MuseLinkActive
-{
-	background: transparent url("../images/1637_1637%20-%20copy%20-%20copy-u2049-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#menuu2448,.ImgHover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 }
 
 .social

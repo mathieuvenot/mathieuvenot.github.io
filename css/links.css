@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000EC;
-	background-color: #F316C9;
+	color: #00001C;
+	background-color: #3ACE6D;
 }
 
 #muse_css_mq
@@ -375,23 +375,6 @@
 	margin: 4px 0px 0px;
 }
 
-#u5864-4
-{
-	z-index: 79;
-	width: 201px;
-	min-height: 22px;
-	background-color: transparent;
-	letter-spacing: 1px;
-	color: #979797;
-	text-align: left;
-	line-height: 1.4;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-	position: fixed;
-	top: 35px;
-	left: 150px;
-}
-
 #u17086
 {
 	z-index: 20;
@@ -407,6 +390,24 @@
 	width: 960px;
 	left: -100px;
 	margin-bottom: -82px;
+}
+
+#u5864-4
+{
+	z-index: 79;
+	width: 201px;
+	min-height: 22px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #979797;
+	text-align: right;
+	line-height: 1.4;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 150px;
 }
 
 #u5308-6
