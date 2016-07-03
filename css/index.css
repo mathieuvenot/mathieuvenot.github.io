@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #70C202;
+	color: #0000EF;
+	background-color: #170F68;
 }
 
 #muse_css_mq
@@ -13,44 +13,47 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 824.5999999999999px;
+	min-height: 825px;
 	background-image: none;
 	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.ImgHover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
 #page_position_content
 {
-	margin-bottom: -3px;
+	margin-top: -793px;
+	margin-bottom: -1175px;
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu875
+#pu874
 {
 	width: 0.01px;
-	padding-bottom: 700px;
+	padding-bottom: 2793px;
 	margin-left: -100px;
+}
+
+#u874
+{
+	z-index: 2;
+	width: 81px;
+	height: 2000px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
 }
 
 #u875
 {
 	z-index: 3;
 	width: 81px;
-	height: 700px;
+	height: 2000px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -368,7 +371,7 @@
 {
 	width: 0.01px;
 	margin-left: 449px;
-	margin-top: -690px;
+	margin-top: -1990px;
 }
 
 #u5308-6
@@ -412,7 +415,7 @@
 	width: 0.01px;
 	height: 297px;
 	margin-left: 112px;
-	top: -597px;
+	top: -1897px;
 	margin-bottom: -297px;
 	position: relative;
 }
@@ -885,7 +888,7 @@
 {
 	width: 0.01px;
 	margin-left: 114px;
-	margin-top: -273px;
+	margin-top: -1573px;
 }
 
 #u1025-4
@@ -894,9 +897,9 @@
 	width: 91px;
 	min-height: 19px;
 	background-color: transparent;
+	color: #979797;
 	font-size: 12px;
 	letter-spacing: 1px;
-	color: #979797;
 	text-align: left;
 	line-height: 1.4;
 	font-family: lekton, monospace;
@@ -923,7 +926,7 @@
 {
 	width: 0.01px;
 	margin-left: 112px;
-	margin-top: -237px;
+	margin-top: -1537px;
 }
 
 #ppu3439
@@ -1165,16 +1168,6 @@
 	background-color: rgba(38,38,38,0.48);
 }
 
-#u874
-{
-	z-index: 2;
-	width: 81px;
-	height: 700px;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-}
-
 #u5393
 {
 	z-index: 19;
@@ -1256,7 +1249,8 @@
 	width: 790px;
 	min-height: 20px;
 	margin-left: 112px;
-	margin-top: 57px;
+	top: -1192px;
+	margin-bottom: -20px;
 	position: relative;
 }
 

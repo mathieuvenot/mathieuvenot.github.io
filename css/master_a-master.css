@@ -1,3 +1,10 @@
+#u874,#u875
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #222324;
+}
+
 #u2493,#u2494
 {
 	background-color: transparent;
@@ -326,15 +333,10 @@
 	background-color: transparent;
 }
 
-#u875,#u874
+.social
 {
 	border-width: 0px;
-	border-color: transparent;
-	background-color: #222324;
-}
-
-#u5393
-{
+	border-color: #000000;
 	background-color: transparent;
 }
 
@@ -345,21 +347,11 @@
 	filter: alpha(opacity=78);
 }
 
-#u5393:hover,#u5386
-{
-	background-color: transparent;
-}
-
 #u5386_img
 {
 	opacity: 0.78;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
 	filter: alpha(opacity=78);
-}
-
-#u5386:hover,#u5371
-{
-	background-color: transparent;
 }
 
 #u5371_img
@@ -369,21 +361,11 @@
 	filter: alpha(opacity=78);
 }
 
-#u5371:hover,#u5364
-{
-	background-color: transparent;
-}
-
 #u5364_img
 {
 	opacity: 0.78;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
 	filter: alpha(opacity=78);
-}
-
-#u5364:hover,#u5342
-{
-	background-color: transparent;
 }
 
 #u5342_img
@@ -393,12 +375,7 @@
 	filter: alpha(opacity=78);
 }
 
-#u5342:hover,#u5349
-{
-	background-color: transparent;
-}
-
-#u5349:hover
+#u5393:hover,#u5386:hover,#u5371:hover,#u5364:hover,#u5342:hover,#u5349:hover
 {
 	background-color: transparent;
 }

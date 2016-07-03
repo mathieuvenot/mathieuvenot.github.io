@@ -1,7 +1,7 @@
 .version.freelance /* version checker */
 {
-	color: #0000EE;
-	background-color: #3372D9;
+	color: #0000F7;
+	background-color: #3A6363;
 }
 
 #muse_css_mq
@@ -16,8 +16,8 @@
 	min-height: 825px;
 	background-image: none;
 	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -25,31 +25,35 @@
 	margin-right: auto;
 }
 
-.ImgHover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
 #page_position_content
 {
-	margin-bottom: -4px;
+	margin-top: -793px;
+	margin-bottom: -1125px;
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu875
+#pu874
 {
 	width: 0.01px;
-	padding-bottom: 700px;
+	padding-bottom: 2793px;
 	margin-left: -100px;
+}
+
+#u874
+{
+	z-index: 2;
+	width: 81px;
+	height: 2000px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
 }
 
 #u875
 {
 	z-index: 3;
 	width: 81px;
-	height: 700px;
+	height: 2000px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -376,7 +380,7 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
-	top: 33px;
+	top: 35px;
 	left: 150px;
 }
 
@@ -384,7 +388,7 @@
 {
 	width: 0.01px;
 	margin-left: 449px;
-	margin-top: -690px;
+	margin-top: -1990px;
 }
 
 #u5308-6
@@ -430,7 +434,7 @@
 	border-width: 0px;
 	border-color: transparent;
 	margin-left: 169px;
-	top: -583px;
+	top: -1883px;
 	margin-bottom: -350px;
 	position: relative;
 	background: transparent url("../images/stacks_image_543.jpg") no-repeat left center;
@@ -448,8 +452,8 @@
 	font-family: cabin, sans-serif;
 	font-weight: 400;
 	margin-left: 169px;
-	top: -216px;
-	margin-bottom: -216px;
+	top: -1516px;
+	margin-bottom: -319px;
 	position: relative;
 }
 
@@ -462,16 +466,6 @@
 #u5762-6,#u5762-9,#u5762-12,#u5762-20,#u5762-23,#u5762-31,#u5762-34,#u5762-37
 {
 	color: #8D8D8D;
-}
-
-#u874
-{
-	z-index: 2;
-	width: 81px;
-	height: 700px;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
 }
 
 #u5393
@@ -555,7 +549,8 @@
 	width: 790px;
 	min-height: 20px;
 	margin-left: 112px;
-	margin-top: 56px;
+	top: -1141px;
+	margin-bottom: -20px;
 	position: relative;
 }
 
