@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E9;
-	background-color: #FA961E;
+	color: #0000F9;
+	background-color: #3981D8;
 }
 
 #muse_css_mq
@@ -467,15 +467,18 @@
 #pu17069
 {
 	width: 0.01px;
-	margin-left: 118px;
+	margin-left: 112px;
 	margin-top: -713px;
 }
 
 #u17069
 {
 	z-index: 79;
-	width: 815px;
-	background-color: #000000;
+	width: 828px;
+	background: transparent url("../images/u17069-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, color-stop(36%, rgba(0,0,0,0.25)),to(rgba(221,221,221,0.25)));
+	background: -webkit-linear-gradient(left,rgba(0,0,0,0.25) 36%,rgba(221,221,221,0.25) );
+	background: linear-gradient(to right,rgba(0,0,0,0.25) 36%,rgba(221,221,221,0.25) );
 	padding-bottom: 2px;
 	position: relative;
 	margin-right: -10000px;
@@ -489,7 +492,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 2px;
-	left: 314px;
+	left: 320px;
 }
 
 #u17031:hover
@@ -515,7 +518,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	left: 350px;
+	left: 356px;
 }
 
 #u17037:hover
@@ -541,7 +544,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 383px;
+	left: 389px;
 }
 
 #u17029_img
@@ -559,7 +562,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 415px;
+	left: 421px;
 }
 
 #u17035_img
@@ -577,7 +580,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 447px;
+	left: 453px;
 }
 
 #u17027_img
@@ -595,7 +598,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 479px;
+	left: 485px;
 }
 
 #u17029:hover,#u17035:hover,#u17027:hover,#u17033:hover
@@ -630,6 +633,22 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
+	left: 6px;
+}
+
+#u11336-2
+{
+	font-size: 15px;
+	color: #F6F6F6;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u11336-3
+{
+	color: #F6F6F6;
+	font-family: cabin, sans-serif;
+	font-weight: 400;
 }
 
 #u11333-14
@@ -642,10 +661,10 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 585px;
+	left: 591px;
 }
 
-#u11336-2,#u11333-2
+#u11333-2
 {
 	font-size: 15px;
 	color: #8D8D8D;
@@ -728,7 +747,7 @@
 	font-weight: 400;
 }
 
-#u11336-3,#u11336-5,#u11336-14,#u11336-16,#u11333-3,#u11333-5,#u11333-10,#u11333-12,#u11339-8,#u11339-14,#u11339-16,#u11339-17,#u11339-21,#u11339-25,#u11339-28,#u11339-32,#u11339-36,#u11339-40,#u11339-43,#u11339-47,#u11339-50,#u11339-54,#u11339-63,#u11339-67,#u11339-70,#u11339-74,#u11339-79,#u11339-83,#u11339-86,#u11339-90,#u11339-97,#u11339-101,#u11339-104,#u11339-108,#u11339-115,#u11339-119,#u11339-122,#u11339-126,#u11339-129,#u11339-133,#u11339-137,#u11339-144,#u11339-148,#u11339-151,#u11339-155,#u11339-158,#u11339-162,#u11339-168,#u11339-172,#u11339-176,#u11339-180,#u11339-184,#u11339-188,#u11339-189,#u11339-195,#u11339-197,#u11339-201,#u11339-205,#u11339-209,#u11339-213,#u11339-217,#u11339-218,#u11339-221,#u11339-225,#u11339-229,#u11339-233,#u11339-234,#u11339-238,#u11339-244,#u11339-248
+#u11336-5,#u11336-14,#u11336-16,#u11333-3,#u11333-5,#u11333-10,#u11333-12,#u11339-8,#u11339-14,#u11339-16,#u11339-17,#u11339-21,#u11339-25,#u11339-28,#u11339-32,#u11339-36,#u11339-40,#u11339-43,#u11339-47,#u11339-50,#u11339-54,#u11339-63,#u11339-67,#u11339-70,#u11339-74,#u11339-79,#u11339-83,#u11339-86,#u11339-90,#u11339-97,#u11339-101,#u11339-104,#u11339-108,#u11339-115,#u11339-119,#u11339-122,#u11339-126,#u11339-129,#u11339-133,#u11339-137,#u11339-144,#u11339-148,#u11339-151,#u11339-155,#u11339-158,#u11339-162,#u11339-168,#u11339-172,#u11339-176,#u11339-180,#u11339-184,#u11339-188,#u11339-189,#u11339-195,#u11339-197,#u11339-201,#u11339-205,#u11339-209,#u11339-213,#u11339-217,#u11339-218,#u11339-221,#u11339-225,#u11339-229,#u11339-233,#u11339-234,#u11339-238,#u11339-244,#u11339-248
 {
 	color: #7F7F7F;
 	font-family: cabin, sans-serif;

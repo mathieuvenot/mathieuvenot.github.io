@@ -350,14 +350,7 @@
 	background-color: transparent;
 }
 
-#u5393_img
-{
-	opacity: 0.78;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
-	filter: alpha(opacity=78);
-}
-
-#u5386_img
+#u5342_img
 {
 	opacity: 0.78;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
@@ -371,23 +364,11 @@
 	filter: alpha(opacity=78);
 }
 
-#u5364_img
+#u5393_img
 {
 	opacity: 0.78;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
 	filter: alpha(opacity=78);
-}
-
-#u5342_img
-{
-	opacity: 0.78;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
-	filter: alpha(opacity=78);
-}
-
-#u5393:hover,#u5386:hover,#u5371:hover,#u5364:hover,#u5342:hover,#u5349:hover
-{
-	background-color: transparent;
 }
 
 #u5349_img
@@ -397,7 +378,26 @@
 	filter: alpha(opacity=78);
 }
 
-#u5393_img:hover,#u5386_img:hover,#u5371_img:hover,#u5364_img:hover,#u5342_img:hover,#u5349_img:hover
+#u5364_img
+{
+	opacity: 0.78;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
+	filter: alpha(opacity=78);
+}
+
+#u5342:hover,#u5371:hover,#u5393:hover,#u5349:hover,#u5364:hover,#u5386:hover
+{
+	background-color: transparent;
+}
+
+#u5386_img
+{
+	opacity: 0.78;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
+	filter: alpha(opacity=78);
+}
+
+#u5342_img:hover,#u5371_img:hover,#u5393_img:hover,#u5349_img:hover,#u5364_img:hover,#u5386_img:hover
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
