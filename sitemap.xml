@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -194,13 +194,25 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/resume.html</loc>
-    <lastmod>2016-07-18</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mathieuvenot.com/portfolio.html</loc>
     <lastmod>2016-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_259.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_272.png</loc>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -271,7 +283,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_236.jpg</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -283,7 +295,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_259.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -373,12 +385,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_236.jpg</loc>
-    <lastmod>2016-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_219.jpg</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,6 +392,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/stacks_image_217.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_215.jpg</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -553,7 +565,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -565,7 +577,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
     <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

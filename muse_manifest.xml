@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469101458627">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469101776172">
   <folder name="css">
     <file name="site_global.css" crc="3851503477"/>
-    <file name="master_a-master.css" crc="391736917" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
+    <file name="master_a-master.css" crc="223322811" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
     <file name="portfolio.css" crc="4213897240" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="311521473" ref="portfolio"/>
     <file name="robotic---control.css" crc="3937971139" ref="robotic---control"/>
@@ -34,7 +34,7 @@
     <file name="iefonts_3dprinting.css" crc="299193729" ref="3dprinting"/>
     <file name="digital-design-literacy-3.css" crc="479020799" ref="digital-design-literacy-3"/>
     <file name="iefonts_digital-design-literacy-3.css" crc="391989765" ref="digital-design-literacy-3"/>
-    <file name="resume.css" crc="3873160836" ref="resume"/>
+    <file name="resume.css" crc="4135781060" ref="resume"/>
     <file name="iefonts_resume.css" crc="107138554" ref="resume"/>
     <file name="machine-vision.css" crc="3970718676" ref="machine-vision"/>
     <file name="iefonts_machine-vision.css" crc="151367538" ref="machine-vision"/>
@@ -66,7 +66,7 @@
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="17992170" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="freelance.css" crc="479069648" ref="freelance"/>
     <file name="iefonts_freelance.css" crc="365627684" ref="freelance"/>
-    <file name="index.css" crc="3993989996" ref="index"/>
+    <file name="index.css" crc="376939801" ref="index"/>
     <file name="iefonts_index.css" crc="509828958" ref="index"/>
     <file name="digital-design-literacy-1.css" crc="107008389" ref="digital-design-literacy-1"/>
     <file name="iefonts_digital-design-literacy-1.css" crc="308761141" ref="digital-design-literacy-1"/>
@@ -141,13 +141,13 @@
     <file name="stacks_image_209.jpg" crc="472448060" seo="true" ref="index"/>
     <file name="stacks_image_211733x297.jpg" crc="4200109160" seo="true" ref="index"/>
     <file name="stacks_image_213.jpg" crc="4179527313" seo="true" ref="index"/>
-    <file name="stacks_image_215.jpg" crc="25779307" ref="index:portfolio"/>
+    <file name="stacks_image_215.jpg" crc="25779307" ref="index:portfolio" seo="true"/>
     <file name="stacks_image_217.jpg" crc="4093467657" seo="true" ref="index"/>
     <file name="stacks_image_219.jpg" crc="4224972609" seo="true" ref="index"/>
     <file name="stacks_image_236.jpg" crc="3861970320" seo="true" ref="index"/>
     <file name="stacks_image_239.jpg" crc="380255195" seo="true" ref="index"/>
     <file name="stacks_image_259.jpg" crc="142210490" seo="true" ref="index"/>
-    <file name="stacks_image_272.png" crc="518279521" ref="index:portfolio"/>
+    <file name="stacks_image_272.png" crc="518279521" ref="index:portfolio" seo="true"/>
     <file name="stacks_image_274733x297.jpg" crc="3930583606" seo="true" ref="index"/>
     <file name="stacks_image_287.jpg" crc="307736224" seo="true" ref="index"/>
     <file name="stacks_image_289.png" crc="4195332401" seo="true" ref="index"/>
@@ -290,9 +290,9 @@
     <file name="page4_blog_entry2_2.jpg" crc="451845538" ref="digital-design-literacy-1"/>
     <file name="page4_blog_entry2_1.jpg" crc="286657115" ref="digital-design-literacy-1"/>
   </folder>
-  <file name="index.html" crc="3816318951" seo="true" mt="1467575380384" redirect="true"/>
+  <file name="index.html" crc="4136609753" seo="true" mt="1469101742963" redirect="true"/>
   <file name="portfolio.html" crc="3878160415" seo="true" mt="1467575380384" redirect="true"/>
-  <file name="resume.html" crc="522718532" seo="true" mt="1468838258971" redirect="true"/>
+  <file name="resume.html" crc="523352273" seo="true" mt="1469101666252" redirect="true"/>
   <file name="3dprinting.html" crc="377380942" seo="true" mt="1469100469549" redirect="true"/>
   <file name="dixievr.html" crc="4100418922" seo="true" mt="1467575380384" redirect="true"/>
   <file name="freelance.html" crc="527521259" seo="true" mt="1469101446039" redirect="true"/>
