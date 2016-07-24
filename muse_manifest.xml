@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469269338518">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469365834703">
   <folder name="css">
     <file name="site_global.css" crc="3851503477"/>
     <file name="master_a-master.css" crc="391736917" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
@@ -34,7 +34,7 @@
     <file name="iefonts_3dprinting.css" crc="299193729" ref="3dprinting"/>
     <file name="digital-design-literacy-3.css" crc="479020799" ref="digital-design-literacy-3"/>
     <file name="iefonts_digital-design-literacy-3.css" crc="391989765" ref="digital-design-literacy-3"/>
-    <file name="resume.css" crc="4135781060" ref="resume"/>
+    <file name="resume.css" crc="4265937560" ref="resume"/>
     <file name="iefonts_resume.css" crc="107138554" ref="resume"/>
     <file name="machine-vision.css" crc="3970718676" ref="machine-vision"/>
     <file name="iefonts_machine-vision.css" crc="151367538" ref="machine-vision"/>
@@ -72,8 +72,8 @@
     <file name="iefonts_digital-design-literacy-1.css" crc="308761141" ref="digital-design-literacy-1"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="3916005965" seo="true" mt="1469102188000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="3816071728" seo="true" mt="1469102199000"/>
+    <file name="venot_mathieu--cven.pdf" crc="34615517" seo="true" mt="1469365811000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="3892385183" seo="true" mt="1469365799000"/>
     <file name="venot_mathieu--book.pdf" crc="3841610468" seo="true" mt="1456481056000"/>
     <file name="venot_mathieu--bookfp.pdf" crc="189403580" seo="true" mt="1456481049000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
@@ -293,7 +293,7 @@
   </folder>
   <file name="index.html" crc="4136609753" seo="true" mt="1469101742963" redirect="true"/>
   <file name="portfolio.html" crc="4262771433" seo="true" mt="1469210337279" redirect="true"/>
-  <file name="resume.html" crc="4171576646" seo="true" mt="1469102055486" redirect="true"/>
+  <file name="resume.html" crc="4180194296" seo="true" mt="1469365508279" redirect="true"/>
   <file name="3dprinting.html" crc="377380942" seo="true" mt="1469100469549" redirect="true"/>
   <file name="dixievr.html" crc="4100418922" seo="true" mt="1467575380384" redirect="true"/>
   <file name="freelance.html" crc="4075804397" seo="true" mt="1469269303716" redirect="true"/>
