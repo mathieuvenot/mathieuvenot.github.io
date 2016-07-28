@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469734711218">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1469739225353">
   <folder name="css">
     <file name="site_global.css" crc="4259829591"/>
     <file name="master_a-master.css" crc="223322811" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
@@ -40,7 +40,7 @@
     <file name="iefonts_machine-vision.css" crc="399638962" ref="machine-vision"/>
     <file name="housing-project.css" crc="4183681551" ref="housing-project"/>
     <file name="iefonts_housing-project.css" crc="3844837525" ref="housing-project"/>
-    <file name="artscience-experimentation-to-human-body.css" crc="78405208" ref="artscience-experimentation-to-human-body"/>
+    <file name="artscience-experimentation-to-human-body.css" crc="3811462980" ref="artscience-experimentation-to-human-body"/>
     <file name="iefonts_artscience-experimentation-to-human-body.css" crc="456115285" ref="artscience-experimentation-to-human-body"/>
     <file name="urban-story.css" crc="4007683041" ref="urban-story"/>
     <file name="iefonts_urban-story.css" crc="3758739838" ref="urban-story"/>
@@ -66,7 +66,7 @@
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4616218" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="freelance.css" crc="3941280618" ref="freelance"/>
     <file name="iefonts_freelance.css" crc="122052578" ref="freelance"/>
-    <file name="index.css" crc="3902679501" ref="index"/>
+    <file name="index.css" crc="4115732897" ref="index"/>
     <file name="iefonts_index.css" crc="181386117" ref="index"/>
     <file name="digital-design-literacy-1.css" crc="265034729" ref="digital-design-literacy-1"/>
     <file name="iefonts_digital-design-literacy-1.css" crc="318481376" ref="digital-design-literacy-1"/>
@@ -127,47 +127,14 @@
     <file name="link.png" crc="202725025" ref="index:3dprinting:freelance:links:resume"/>
     <file name="1637_1637 - copy - copy-u2049-fr.png" crc="4055725986" ref="index:3dprinting:freelance:links:resume"/>
     <file name="1637_1637 - copy - copyn-u2049-r-fr.png" crc="4019601465" ref="index:3dprinting:freelance:links:resume"/>
-    <file name="flexslider-icon.svg" crc="4073585915" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
-    <file name="flexslider-icon_poster_.png" crc="3923577265" ref="index"/>
-    <file name="stacks_image_163.jpg" crc="464645921" seo="true" ref="index"/>
-    <file name="stacks_image_195.jpg" crc="4199035935" seo="true" ref="index"/>
-    <file name="stacks_image_199.jpg" crc="4194052130" seo="true" ref="index"/>
-    <file name="stacks_image_201.jpg" crc="4106495385" seo="true" ref="index"/>
-    <file name="stacks_image_203.jpg" crc="476315146" seo="true" ref="index"/>
-    <file name="stacks_image_205.jpg" crc="388479923" seo="true" ref="index"/>
-    <file name="stacks_image_207.jpg" crc="3928360551" seo="true" ref="index"/>
-    <file name="stacks_image_209.jpg" crc="3871913668" seo="true" ref="index"/>
-    <file name="stacks_image_213.jpg" crc="44711520" seo="true" ref="index"/>
-    <file name="stacks_image_215.jpg" crc="4214949470" ref="index:portfolio"/>
-    <file name="stacks_image_217.jpg" crc="4027057664" seo="true" ref="index"/>
-    <file name="stacks_image_219.jpg" crc="446852972" seo="true" ref="index"/>
-    <file name="stacks_image_236.jpg" crc="391156602" seo="true" ref="index"/>
-    <file name="stacks_image_239.jpg" crc="482188091" seo="true" ref="index"/>
-    <file name="stacks_image_259.jpg" crc="388774319" seo="true" ref="index"/>
-    <file name="stacks_image_272.png" crc="191019224" ref="index:portfolio"/>
-    <file name="stacks_image_287.jpg" crc="425990626" seo="true" ref="index"/>
-    <file name="stacks_image_289.png" crc="92787743" seo="true" ref="index"/>
-    <file name="stacks_image_345.jpg" crc="294800643" seo="true" ref="index"/>
-    <file name="stacks_image_357.jpg" crc="510542338" seo="true" ref="index"/>
-    <file name="stacks_image_384.jpg" crc="3849646477" seo="true" ref="index"/>
-    <file name="stacks_image_389.jpg" crc="4021660027" seo="true" ref="index"/>
-    <file name="stacks_image_430.jpg" crc="142096284" seo="true" ref="index"/>
-    <file name="stacks_image_440.jpg" crc="4132311155" seo="true" ref="index"/>
-    <file name="stacks_image_445.jpg" crc="4238683507" seo="true" ref="index"/>
-    <file name="stacks_image_524.jpg" crc="330355146" seo="true" ref="index"/>
-    <file name="stacks_image_555.png" crc="391895245" seo="true" ref="index"/>
-    <file name="stacks_image_607.jpg" crc="222413247" seo="true" ref="index"/>
-    <file name="stacks_image_630.jpg" crc="4094117534" seo="true" ref="index"/>
-    <file name="stacks_image_635.jpg" crc="14242175" seo="true" ref="index"/>
-    <file name="stacks_image_637.jpg" crc="366220245" seo="true" ref="index"/>
-    <file name="stacks_image_640.jpg" crc="4087708450" seo="true" ref="index"/>
-    <file name="stacks_image_645.jpg" crc="443162975" seo="true" ref="index"/>
+    <file name="stacks_image_215.jpg" crc="4214949470" ref="portfolio:index"/>
+    <file name="stacks_image_272.png" crc="191019224" ref="portfolio:index"/>
+    <file name="stacks_image_384.jpg" crc="3849646477" ref="index" seo="true"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="stacks_image_543-u3439-fr.jpg" crc="4050933366" ref="index"/>
     <file name="btn_h-u1231-r-fr.png" crc="286989397" ref="index:portfolio"/>
     <file name="btn_d-u1231-m-fr.png" crc="111950993" ref="index:portfolio"/>
-    <file name="stacks_image_384-u3444-fr.jpg" crc="3954513676" ref="index"/>
     <file name="pfeiffer_venot (3)-u3449-fr.jpg" crc="3858117724" ref="index"/>
     <file name="email-logo-black-png-pictures-1.png" crc="4000076568" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1"/>
     <file name="linkedin.png" crc="253094394" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1"/>
@@ -286,16 +253,47 @@
     <file name="img_0004 2.jpg" crc="157023155" ref="disassembly"/>
     <file name="page4_blog_entry3_1-u15137-fr.jpg" crc="4062937423" ref="structures---materials"/>
     <file name="screen shot 2013-08-04 at 133416.jpg" crc="439528042" ref="digital-design-literacy-1"/>
-    <file name="stacks_image_211734x297.jpg" crc="4200109160" seo="true" ref="index"/>
     <file name="arrow_left-u12113-fr.png" crc="4092908058" ref="artscience-experimentation-to-human-body"/>
     <file name="arrow_left-u12113-r-fr.png" crc="4150907789" ref="artscience-experimentation-to-human-body"/>
     <file name="dot-u12113-m-fr.png" crc="4062514044" ref="artscience-experimentation-to-human-body"/>
     <file name="arrow_right-u12122-fr.png" crc="4092908058" ref="artscience-experimentation-to-human-body"/>
     <file name="arrow_right-u12122-r-fr.png" crc="425846328" ref="artscience-experimentation-to-human-body"/>
-    <file name="stacks_image_666.jpg" crc="514951670" seo="true" ref="index"/>
+    <file name="stacks_image_211734x297.jpg" crc="4200109160" seo="true" ref="index"/>
+    <file name="stacks_image_163.jpg" crc="464645921" seo="true" ref="index"/>
+    <file name="stacks_image_195.jpg" crc="4199035935" seo="true" ref="index"/>
+    <file name="stacks_image_199.jpg" crc="4194052130" seo="true" ref="index"/>
+    <file name="stacks_image_201.jpg" crc="4106495385" seo="true" ref="index"/>
+    <file name="stacks_image_203.jpg" crc="476315146" seo="true" ref="index"/>
+    <file name="stacks_image_205.jpg" crc="388479923" seo="true" ref="index"/>
+    <file name="stacks_image_207.jpg" crc="3928360551" seo="true" ref="index"/>
+    <file name="stacks_image_209.jpg" crc="3871913668" seo="true" ref="index"/>
+    <file name="stacks_image_213.jpg" crc="44711520" seo="true" ref="index"/>
+    <file name="stacks_image_217.jpg" crc="4027057664" seo="true" ref="index"/>
+    <file name="stacks_image_219.jpg" crc="446852972" seo="true" ref="index"/>
+    <file name="stacks_image_236.jpg" crc="391156602" seo="true" ref="index"/>
+    <file name="stacks_image_239.jpg" crc="482188091" seo="true" ref="index"/>
+    <file name="stacks_image_259.jpg" crc="388774319" seo="true" ref="index"/>
+    <file name="stacks_image_287.jpg" crc="425990626" seo="true" ref="index"/>
+    <file name="stacks_image_289.png" crc="279049580" seo="true" ref="index"/>
+    <file name="stacks_image_345.jpg" crc="294800643" seo="true" ref="index"/>
+    <file name="stacks_image_357.jpg" crc="510542338" seo="true" ref="index"/>
+    <file name="stacks_image_389.jpg" crc="4021660027" seo="true" ref="index"/>
+    <file name="stacks_image_430.jpg" crc="142096284" seo="true" ref="index"/>
+    <file name="stacks_image_440.jpg" crc="4132311155" seo="true" ref="index"/>
+    <file name="stacks_image_445.jpg" crc="4238683507" seo="true" ref="index"/>
+    <file name="stacks_image_524.jpg" crc="330355146" seo="true" ref="index"/>
+    <file name="stacks_image_555.png" crc="391895245" seo="true" ref="index"/>
+    <file name="stacks_image_607.jpg" crc="222413247" seo="true" ref="index"/>
+    <file name="stacks_image_630.jpg" crc="4094117534" seo="true" ref="index"/>
+    <file name="stacks_image_635.jpg" crc="14242175" seo="true" ref="index"/>
+    <file name="stacks_image_637.jpg" crc="366220245" seo="true" ref="index"/>
+    <file name="stacks_image_640.jpg" crc="4087708450" seo="true" ref="index"/>
+    <file name="stacks_image_645.jpg" crc="443162975" seo="true" ref="index"/>
+    <file name="stacks_image_384-u3444-fr.jpg" crc="3954513676" ref="index"/>
+    <file name="stacks_image_666.jpg" crc="3796550482" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3884148684" seo="true" mt="1469734701214" redirect="true"/>
-  <file name="portfolio.html" crc="356261729" seo="true" mt="1469734701127" redirect="true"/>
+  <file name="index.html" crc="335459607" seo="true" mt="1469739215371" redirect="true"/>
+  <file name="portfolio.html" crc="4123771965" seo="true" mt="1469739215312" redirect="true"/>
   <file name="resume.html" crc="255544213" seo="true" mt="1469694487536" redirect="true"/>
   <file name="3dprinting.html" crc="4129834589" seo="true" mt="1469538252366" redirect="true"/>
   <file name="dixievr.html" crc="3900386335" seo="true" mt="1469538271822" redirect="true"/>
@@ -304,7 +302,7 @@
   <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4105524442" seo="true" mt="1469536824573" redirect="true"/>
   <file name="digital-fabrication.html" crc="3924802876" seo="true" mt="1469536870853" redirect="true"/>
   <file name="robotic-interactivity.html" crc="4159125144" seo="true" mt="1469536290513" redirect="true"/>
-  <file name="artscience-experimentation-to-human-body.html" crc="90167504" seo="true" mt="1469734701130" redirect="true"/>
+  <file name="artscience-experimentation-to-human-body.html" crc="3797347814" seo="true" mt="1469739215309" redirect="true"/>
   <file name="regressive-resolutions.html" crc="355386196" seo="true" mt="1469536290513" redirect="true"/>
   <file name="robotic---control.html" crc="420253676" seo="true" mt="1469536290513" redirect="true"/>
   <file name="digital-design-literacy-3.html" crc="520544" seo="true" mt="1469536290513" redirect="true"/>
