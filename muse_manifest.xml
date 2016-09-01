@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1472733661402">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1472765584231">
   <folder name="css">
     <file name="site_global.css" crc="4259829591"/>
     <file name="master_a-master.css" crc="223322811" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
@@ -30,8 +30,8 @@
     <file name="iefonts_robotic-interactivity.css" crc="3980857084" ref="robotic-interactivity"/>
     <file name="diploma.css" crc="4170976950" ref="diploma"/>
     <file name="iefonts_diploma.css" crc="338674829" ref="diploma"/>
-    <file name="3dprinting.css" crc="3956931380" ref="3dprinting"/>
-    <file name="iefonts_3dprinting.css" crc="201893848" ref="3dprinting"/>
+    <file name="3dprinting.css" crc="3845688156" ref="3dprinting"/>
+    <file name="iefonts_3dprinting.css" crc="4031776257" ref="3dprinting"/>
     <file name="digital-design-literacy-3.css" crc="452377571" ref="digital-design-literacy-3"/>
     <file name="iefonts_digital-design-literacy-3.css" crc="160097477" ref="digital-design-literacy-3"/>
     <file name="resume.css" crc="3921706661" ref="resume"/>
@@ -293,12 +293,12 @@
     <file name="stacks_image_666.jpg" crc="3994896159" seo="true" ref="index"/>
     <file name="btn_h-u2335-r-fr.png" crc="286989397" ref="portfolio"/>
     <file name="btn_d-u2335-m-fr.png" crc="111950993" ref="portfolio"/>
-    <file name="img_4040.jpg" crc="352347818" ref="3dprinting"/>
+    <file name="img_4040.jpg" crc="238977126" ref="3dprinting"/>
   </folder>
   <file name="index.html" crc="50624047" seo="true" mt="1471788715131" redirect="true"/>
   <file name="portfolio.html" crc="264140944" seo="true" mt="1471859137558" redirect="true"/>
   <file name="resume.html" crc="4052095184" seo="true" mt="1471858882439" redirect="true"/>
-  <file name="3dprinting.html" crc="31394206" seo="true" mt="1472733660452" redirect="true"/>
+  <file name="3dprinting.html" crc="358554255" seo="true" mt="1472765583317" redirect="true"/>
   <file name="dixievr.html" crc="3900386335" seo="true" mt="1469538271822" redirect="true"/>
   <file name="freelance.html" crc="3924943440" seo="true" mt="1469538562718" redirect="true"/>
   <file name="links.html" crc="88123758" seo="true" mt="1469538953622" redirect="true"/>
