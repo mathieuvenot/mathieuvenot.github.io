@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1472765584231">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1472766064314">
   <folder name="css">
     <file name="site_global.css" crc="4259829591"/>
     <file name="master_a-master.css" crc="223322811" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1"/>
@@ -66,7 +66,7 @@
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4616218" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="freelance.css" crc="3941280618" ref="freelance"/>
     <file name="iefonts_freelance.css" crc="122052578" ref="freelance"/>
-    <file name="index.css" crc="360917279" ref="index"/>
+    <file name="index.css" crc="152579890" ref="index"/>
     <file name="iefonts_index.css" crc="181386117" ref="index"/>
     <file name="digital-design-literacy-1.css" crc="265034729" ref="digital-design-literacy-1"/>
     <file name="iefonts_digital-design-literacy-1.css" crc="318481376" ref="digital-design-literacy-1"/>
@@ -128,8 +128,8 @@
     <file name="1637_1637 - copy - copy-u2049-fr.png" crc="4055725986" ref="index:3dprinting:freelance:links:portfolio"/>
     <file name="1637_1637 - copy - copyn-u2049-r-fr.png" crc="4019601465" ref="index:3dprinting:freelance:links:portfolio"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
-    <file name="stacks_image_215.jpg" crc="4214949470" ref="portfolio:index"/>
-    <file name="stacks_image_272.png" crc="191019224" ref="portfolio:index"/>
+    <file name="stacks_image_215.jpg" crc="4214949470" ref="portfolio:index" seo="true"/>
+    <file name="stacks_image_272.png" crc="191019224" ref="portfolio:index" seo="true"/>
     <file name="stacks_image_384.jpg" crc="3849646477" ref="index" seo="true"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="stacks_image_543-u3439-fr.jpg" crc="4050933366" ref="index"/>
@@ -145,11 +145,11 @@
     <file name="img_6846.jpg" crc="4086940264" ref="portfolio"/>
     <file name="pages-from-dw5_rendu02.jpg" crc="436535912" ref="portfolio:digital-fabrication"/>
     <file name="compilationintensifrobot-1968.jpg" crc="4210631885" ref="portfolio:robotic-interactivity"/>
-    <file name="stacks_image_274.jpg" crc="86401209" ref="portfolio:artscience-experimentation-to-human-body:index"/>
+    <file name="stacks_image_274.jpg" crc="86401209" ref="portfolio:artscience-experimentation-to-human-body:index" seo="true"/>
     <file name="10514655_10204280269789932_6131904947049381064_n-2.jpg" crc="49031800" ref="portfolio"/>
     <file name="img_3477.jpg" crc="4151807062" ref="portfolio:robotic---control"/>
     <file name="dsc03978-2-crop-u12964.jpg" crc="377820971" ref="portfolio"/>
-    <file name="screenshot17635.jpg" crc="3847500370" ref="index:portfolio"/>
+    <file name="screenshot17635.jpg" crc="3947289048" ref="index:portfolio" seo="true"/>
     <file name="sl06-2-u13234-fr.jpg" crc="4266050493" ref="portfolio"/>
     <file name="pfe-charles-bouyssou-03-144-111.jpg" crc="390037343" ref="portfolio"/>
     <file name="projet500d2.jpg" crc="348331512" ref="portfolio"/>
@@ -295,7 +295,7 @@
     <file name="btn_d-u2335-m-fr.png" crc="111950993" ref="portfolio"/>
     <file name="img_4040.jpg" crc="238977126" ref="3dprinting"/>
   </folder>
-  <file name="index.html" crc="50624047" seo="true" mt="1471788715131" redirect="true"/>
+  <file name="index.html" crc="3854929160" seo="true" mt="1472766041476" redirect="true"/>
   <file name="portfolio.html" crc="264140944" seo="true" mt="1471859137558" redirect="true"/>
   <file name="resume.html" crc="4052095184" seo="true" mt="1471858882439" redirect="true"/>
   <file name="3dprinting.html" crc="358554255" seo="true" mt="1472765583317" redirect="true"/>
