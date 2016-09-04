@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>3DPRINTING</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4259829591"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=533825269"/>
-  <link rel="stylesheet" type="text/css" href="css/3dprinting.css?crc=530177462" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4238712345"/>
+  <link rel="stylesheet" type="text/css" href="css/3dprinting.css?crc=4158816872" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_3dprinting.css?crc=495786623"/>
@@ -29,7 +29,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/asap:n4:all;open-sans:n4,i3,n7:all;questrial:n4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/questrial:n4:all;open-sans:n4,i3,n7:all;asap:n4:all.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -173,14 +173,14 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
 <script type="text/javascript">
 /*! Fades out the whole page when clicking links */
- $('a').not(".no-fade").click(function(e) {
+ $('a').click(function(e) {
  e.preventDefault();
  newLocation = $(this).attr('href');
-if(newLocation .indexOf('#') != -1 || newLocation .indexOf('mailto:') != -1)
+if(newLocation.indexOf('#') != -1 || newLocation.indexOf('mailto:') != -1)
     {redirectPage();}
     else if($(this).attr('target') && $(this).attr('target').indexOf('_') != -1) window.open(newLocation);
-    else $("body").fadeOut(500, newpage);
- /*! $('body').fadeOut(400, newpage); */
+    else $("body").fadeOut(525, newpage);
+ /*! $('body').fadeOut(525, newpage); */
  });
  function newpage() {
  window.location = newLocation;
@@ -189,7 +189,7 @@ if(newLocation .indexOf('#') != -1 || newLocation .indexOf('mailto:') != -1)
 $(document).ready(function(){
 /*! Fades in whole page on load */
 $('body').css('display', 'none');
-$('body').fadeIn(600);
+$('body').fadeIn(725);
 }); 
 
 /*! Reloads page on every visit */
