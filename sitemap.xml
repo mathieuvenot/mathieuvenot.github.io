@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2016-09-08</lastmod>
+    <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -217,6 +217,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_207.jpg</loc>
+    <lastmod>2016-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_209.jpg</loc>
+    <lastmod>2016-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_213.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,19 +289,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_203.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_207.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_205.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_209.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_440.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -373,18 +385,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_205.jpg</loc>
-    <lastmod>2016-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_203.jpg</loc>
-    <lastmod>2016-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_201.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -427,6 +427,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_543.jpg</loc>
+    <lastmod>2016-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/pfeiffer_venot%20(3).jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,6 +440,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/102_4643fbcv.jpg</loc>
+    <lastmod>2016-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/screenshot17635.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -565,7 +577,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_430.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -577,7 +589,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_440.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_430.jpg</loc>
     <lastmod>2016-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
