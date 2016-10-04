@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/advances-in-architectural-geometry.html</loc>
-    <lastmod>2016-10-04</lastmod>
+    <loc>http://mathieuvenot.com/tutoring.html</loc>
+    <lastmod>2016-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/tutoring.html</loc>
-    <lastmod>2016-09-08</lastmod>
+    <loc>http://mathieuvenot.com/advances-in-architectural-geometry.html</loc>
+    <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/diploma.html</loc>
-    <lastmod>2016-09-08</lastmod>
+    <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -212,12 +212,6 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2016-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_207.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -295,13 +289,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_203.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_205.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_205.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_207.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -391,6 +385,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_203.jpg</loc>
+    <lastmod>2016-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_201.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,12 +446,6 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/102_4643fbcv.jpg</loc>
-    <lastmod>2016-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/screenshot17635.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -583,13 +577,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_430.jpg</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_430.jpg</loc>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2016-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
