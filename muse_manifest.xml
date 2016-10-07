@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1475862497145">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1475862928149">
   <folder name="css">
     <file name="site_global.css" crc="3897036732"/>
-    <file name="master_a-master.css" crc="4128070179" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:algorithm:digital-fabrication-2"/>
-    <file name="portfolio.css" crc="3913926012" ref="portfolio"/>
+    <file name="master_a-master.css" crc="533825269" ref="portfolio:robotic---control:global-schindler-award-2015:regressive-resolutions-2013:digital-fabrication:links:barch-internship:march-internship:disassembly:representation:light-structure:outlying-visions:robotic-interactivity:diploma:3dprinting:digital-design-literacy-3:resume:machine-vision:housing-project:artscience-experimentation-to-human-body:urban-story:thesis:dixievr:osaka-competition:structures---materials:digital-design-literacy-2:materialization---structuring:regressive-resolutions:turbulences:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:freelance:index:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:algorithm:digital-fabrication-2"/>
+    <file name="portfolio.css" crc="3961543297" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="465778473" ref="portfolio"/>
     <file name="robotic---control.css" crc="3960879653" ref="robotic---control"/>
     <file name="iefonts_robotic---control.css" crc="207463653" ref="robotic---control"/>
@@ -331,7 +331,7 @@
     <file name="prsentationthibaultela8.jpg" crc="222717839" ref="algorithm"/>
   </folder>
   <file name="index.html" crc="521336840" seo="true" mt="1474129995477" redirect="true"/>
-  <file name="portfolio.html" crc="4231642259" seo="true" mt="1475862484736" redirect="true"/>
+  <file name="portfolio.html" crc="4176357777" seo="true" mt="1475862919826" redirect="true"/>
   <file name="resume.html" crc="4107663971" seo="true" mt="1475854818414" redirect="true"/>
   <file name="3dprinting.html" crc="370637674" seo="true" mt="1473317630566" redirect="true"/>
   <file name="dixievr.html" crc="386091360" seo="true" mt="1473317630566" redirect="true"/>
