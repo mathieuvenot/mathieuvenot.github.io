@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1477652723930">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1477653137502">
   <folder name="css">
     <file name="site_global.css" crc="3897036732"/>
     <file name="master_a-master.css" crc="533825269" ref="march-internship:global-schindler-award-2015:disassembly:diploma:urban-story:digital-design-literacy-2:mad-man:thesis:freelance:3dprinting:outlying-visions:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:links:regressive-resolutions:housing-project:digital-fabrication-2:structures---materials:index:artscience-experimentation-to-human-body:materialization---structuring:dixievr:digital-design-literacy-1:robotic-interactivity:representation:digital-fabrication:tutoring:portfolio:robotic---control:light-structure:advances-in-architectural-geometry:resume:machine-vision:algorithm:osaka-competition:turbulences:digital-design-literacy-3:barch-internship"/>
@@ -55,7 +55,7 @@
     <file name="iefonts_digital-fabrication.css" crc="4117990994" ref="digital-fabrication"/>
     <file name="tutoring.css" crc="389545851" ref="tutoring"/>
     <file name="iefonts_tutoring.css" crc="4159502028" ref="tutoring"/>
-    <file name="portfolio.css" crc="229734649" ref="portfolio"/>
+    <file name="portfolio.css" crc="31809954" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="465778473" ref="portfolio"/>
     <file name="robotic---control.css" crc="3791018868" ref="robotic---control"/>
     <file name="iefonts_robotic---control.css" crc="207463653" ref="robotic---control"/>
@@ -327,7 +327,7 @@
     <file name="btn_d-u28663-m-fr.png" crc="111950993" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="527806231" seo="true" mt="1477651992674" redirect="true"/>
-  <file name="portfolio.html" crc="4190180059" seo="true" mt="1477652696728" redirect="true"/>
+  <file name="portfolio.html" crc="3855948908" seo="true" mt="1477653125170" redirect="true"/>
   <file name="resume.html" crc="401720395" seo="true" mt="1477651627807" redirect="true"/>
   <file name="3dprinting.html" crc="3930898380" seo="true" mt="1477651627807" redirect="true"/>
   <file name="dixievr.html" crc="12991263" seo="true" mt="1477651627807" redirect="true"/>
