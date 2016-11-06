@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1478456170930">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1478463336663">
   <folder name="css">
     <file name="site_global.css" crc="3897036732"/>
     <file name="master_a-master.css" crc="283246983" ref="march-internship:global-schindler-award-2015:disassembly:diploma:urban-story:digital-design-literacy-2:mad-man:thesis:freelance:3dprinting:outlying-visions:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:links:regressive-resolutions:housing-project:digital-fabrication-2:structures---materials:index:artscience-experimentation-to-human-body:materialization---structuring:dixievr:digital-design-literacy-1:robotic-interactivity:representation:digital-fabrication:tutoring:portfolio:robotic---control:light-structure:advances-in-architectural-geometry:resume:machine-vision:algorithm:osaka-competition:turbulences:digital-design-literacy-3:barch-internship"/>
@@ -63,7 +63,7 @@
     <file name="iefonts_light-structure.css" crc="3858884835" ref="light-structure"/>
     <file name="advances-in-architectural-geometry.css" crc="138495377" ref="advances-in-architectural-geometry"/>
     <file name="iefonts_advances-in-architectural-geometry.css" crc="4096813819" ref="advances-in-architectural-geometry"/>
-    <file name="resume.css" crc="3855554825" ref="resume"/>
+    <file name="resume.css" crc="292804564" ref="resume"/>
     <file name="iefonts_resume.css" crc="4019955625" ref="resume"/>
     <file name="machine-vision.css" crc="137296139" ref="machine-vision"/>
     <file name="iefonts_machine-vision.css" crc="479862391" ref="machine-vision"/>
@@ -79,7 +79,7 @@
     <file name="iefonts_barch-internship.css" crc="4269754304" ref="barch-internship"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="3881740449" seo="true" mt="1478447241000"/>
+    <file name="venot_mathieu--cven.pdf" crc="4284829005" seo="true" mt="1478463247000"/>
     <file name="venot_mathieu--cvfr.pdf" crc="339890770" seo="true" mt="1478447250000"/>
     <file name="venot_mathieu--book.pdf" crc="4254949996" seo="true" mt="1469526225000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
@@ -327,7 +327,7 @@
   </folder>
   <file name="index.html" crc="4230463874" seo="true" mt="1477673147304" redirect="true"/>
   <file name="portfolio.html" crc="3788756561" seo="true" mt="1477673147304" redirect="true"/>
-  <file name="resume.html" crc="513797487" seo="true" mt="1478447522172" redirect="true"/>
+  <file name="resume.html" crc="3954803185" seo="true" mt="1478463320855" redirect="true"/>
   <file name="3dprinting.html" crc="4058655193" seo="true" mt="1477673147304" redirect="true"/>
   <file name="dixievr.html" crc="468286980" seo="true" mt="1477673147304" redirect="true"/>
   <file name="freelance.html" crc="4254654101" seo="true" mt="1477673147304" redirect="true"/>
