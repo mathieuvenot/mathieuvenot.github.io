@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1480844984176">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1480849048583">
   <folder name="css">
-    <file name="site_global.css" crc="131876947"/>
+    <file name="site_global.css" crc="3897036732"/>
     <file name="master_a-master.css" crc="283246983" ref="urban-story:regressive-resolutions:algorithm:representation:artscience-experimentation-to-human-body:digital-fabrication-2:materialization---structuring:robotic-interactivity:advances-in-architectural-geometry:housing-project:digital-fabrication:tutoring:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:thesis:links:resume:outlying-visions:structures---materials:diploma:freelance:disassembly:barch-internship:dixievr:portfolio:regressive-resolutions-2013:index:march-internship:3dprinting:machine-vision:osaka-competition:digital-design-literacy-2:light-structure:digital-design-literacy-3:global-schindler-award-2015:robotic---control:turbulences"/>
     <file name="urban-story.css" crc="3758201676" ref="urban-story"/>
     <file name="iefonts_urban-story.css" crc="467291210" ref="urban-story"/>
@@ -330,7 +330,7 @@
   <file name="resume.html" crc="3917373567" seo="true" mt="1479896718668" redirect="true"/>
   <file name="3dprinting.html" crc="353879120" seo="true" mt="1477673147304" redirect="true"/>
   <file name="dixievr.html" crc="3979273127" seo="true" mt="1477673147304" redirect="true"/>
-  <file name="freelance.html" crc="128906642" seo="true" mt="1480844908596" redirect="true"/>
+  <file name="freelance.html" crc="4256466336" seo="true" mt="1480849024687" redirect="true"/>
   <file name="links.html" crc="521947979" seo="true" mt="1479938239220" redirect="true"/>
   <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4240841315" seo="true" mt="1477673147304" redirect="true"/>
   <file name="digital-fabrication.html" crc="409532525" seo="true" mt="1477673147304" redirect="true"/>
