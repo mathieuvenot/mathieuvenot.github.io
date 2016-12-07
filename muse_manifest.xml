@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1480928580595">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1481102402243">
   <folder name="css">
-    <file name="site_global.css" crc="3897036732"/>
+    <file name="site_global.css" crc="131876947"/>
     <file name="master_a-master.css" crc="283246983" ref="urban-story:regressive-resolutions:algorithm:representation:artscience-experimentation-to-human-body:digital-fabrication-2:materialization---structuring:robotic-interactivity:advances-in-architectural-geometry:housing-project:digital-fabrication:tutoring:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:thesis:links:resume:outlying-visions:structures---materials:diploma:freelance:disassembly:barch-internship:dixievr:portfolio:regressive-resolutions-2013:index:march-internship:3dprinting:machine-vision:osaka-competition:digital-design-literacy-2:light-structure:digital-design-literacy-3:global-schindler-award-2015:robotic---control:turbulences"/>
     <file name="urban-story.css" crc="3758201676" ref="urban-story"/>
     <file name="iefonts_urban-story.css" crc="467291210" ref="urban-story"/>
@@ -36,7 +36,7 @@
     <file name="iefonts_thesis.css" crc="47584664" ref="thesis"/>
     <file name="links.css" crc="4129419906" ref="links"/>
     <file name="iefonts_links.css" crc="113711981" ref="links"/>
-    <file name="resume.css" crc="4006391095" ref="resume"/>
+    <file name="resume.css" crc="4250006372" ref="resume"/>
     <file name="iefonts_resume.css" crc="239551676" ref="resume"/>
     <file name="outlying-visions.css" crc="4154439423" ref="outlying-visions"/>
     <file name="iefonts_outlying-visions.css" crc="4041480558" ref="outlying-visions"/>
@@ -103,7 +103,7 @@
     <file name="museutils.js" crc="4155826306" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="whatinput.js" crc="86476730" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="museconfig.js" crc="328327953" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:portfolio:3dprinting:dixievr:freelance:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:portfolio:3dprinting:dixievr:freelance:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:resume"/>
     <file name="jquery.musemenu.js" crc="3765356681" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="jquery.watch.js" crc="117772946" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="webpro.js" crc="4078243563" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
@@ -115,28 +115,28 @@
     <file name="require.js" crc="228336483" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="276223592" ref="index:freelance:diploma"/>
-    <file name="home_n.png" crc="195540747" ref="index:freelance:diploma"/>
-    <file name="home_h.png" crc="375260037" ref="index:freelance:diploma"/>
-    <file name="home_d.png" crc="298050461" ref="index:freelance:diploma"/>
-    <file name="info_n.png" crc="3868368729" ref="index:freelance:diploma"/>
-    <file name="info_h.png" crc="4151302484" ref="index:freelance:diploma"/>
-    <file name="info_d.png" crc="107259636" ref="index:freelance:diploma"/>
-    <file name="3d-printer-icon-13052-128pxn.png" crc="3946333966" ref="index:freelance:diploma"/>
-    <file name="3d-printer-icon-13052-128px.png" crc="3884761198" ref="index:freelance:diploma"/>
-    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index:freelance:diploma"/>
-    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index:freelance:diploma"/>
-    <file name="freelancen.png" crc="4040650890" ref="index:freelance:diploma"/>
-    <file name="freelance.png" crc="4245718626" ref="index:freelance:diploma"/>
-    <file name="work_n.png" crc="53164764" ref="index:freelance:diploma"/>
-    <file name="work_h.png" crc="3840438204" ref="index:freelance:diploma"/>
-    <file name="work_d.png" crc="3905934363" ref="index:freelance:diploma"/>
-    <file name="logo (2)n.png" crc="3905406248" ref="index:freelance:diploma"/>
-    <file name="logo (2).png" crc="3910590886" ref="index:freelance:diploma"/>
-    <file name="linkn.png" crc="11545926" ref="index:freelance:diploma"/>
-    <file name="link.png" crc="202725025" ref="index:freelance:diploma"/>
-    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="4055725986" ref="index:freelance:diploma"/>
-    <file name="1637_1637 - copy - copyn-u2049-r-fr.png" crc="4019601465" ref="index:freelance:diploma"/>
+    <file name="favicon.ico" crc="276223592" ref="index:freelance:diploma:resume"/>
+    <file name="home_n.png" crc="195540747" ref="index:freelance:diploma:resume"/>
+    <file name="home_h.png" crc="375260037" ref="index:freelance:diploma:resume"/>
+    <file name="home_d.png" crc="298050461" ref="index:freelance:diploma:resume"/>
+    <file name="info_n.png" crc="3868368729" ref="index:freelance:diploma:resume"/>
+    <file name="info_h.png" crc="4151302484" ref="index:freelance:diploma:resume"/>
+    <file name="info_d.png" crc="107259636" ref="index:freelance:diploma:resume"/>
+    <file name="3d-printer-icon-13052-128pxn.png" crc="3946333966" ref="index:freelance:diploma:resume"/>
+    <file name="3d-printer-icon-13052-128px.png" crc="3884761198" ref="index:freelance:diploma:resume"/>
+    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index:freelance:diploma:resume"/>
+    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index:freelance:diploma:resume"/>
+    <file name="freelancen.png" crc="4040650890" ref="index:freelance:diploma:resume"/>
+    <file name="freelance.png" crc="4245718626" ref="index:freelance:diploma:resume"/>
+    <file name="work_n.png" crc="53164764" ref="index:freelance:diploma:resume"/>
+    <file name="work_h.png" crc="3840438204" ref="index:freelance:diploma:resume"/>
+    <file name="work_d.png" crc="3905934363" ref="index:freelance:diploma:resume"/>
+    <file name="logo (2)n.png" crc="3905406248" ref="index:freelance:diploma:resume"/>
+    <file name="logo (2).png" crc="3910590886" ref="index:freelance:diploma:resume"/>
+    <file name="linkn.png" crc="11545926" ref="index:freelance:diploma:resume"/>
+    <file name="link.png" crc="202725025" ref="index:freelance:diploma:resume"/>
+    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="4055725986" ref="index:freelance:diploma:resume"/>
+    <file name="1637_1637 - copy - copyn-u2049-r-fr.png" crc="4019601465" ref="index:freelance:diploma:resume"/>
     <file name="stacks_image_384734x297.jpg" crc="3849646477" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="stacks_image_543733x298.jpg" crc="3955642305" seo="true" ref="index"/>
@@ -187,7 +187,7 @@
     <file name="stacks_image_543.jpg" crc="176315850" ref="index"/>
     <file name="pfeiffer_venot (3)-u3449-fr.jpg" crc="3858117724" ref="index"/>
     <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
-    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:freelance:diploma"/>
+    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:freelance:diploma:resume"/>
     <file name="3dhubs2.png" crc="528538177" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
     <file name="sp.png" crc="3934400013" seo="true" ref="index:portfolio:resume:3dprinting:dixievr:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm"/>
@@ -332,7 +332,7 @@
   </folder>
   <file name="index.html" crc="3841885798" seo="true" mt="1477673147304" redirect="true"/>
   <file name="portfolio.html" crc="3896233404" seo="true" mt="1477673147304" redirect="true"/>
-  <file name="resume.html" crc="3917373567" seo="true" mt="1479896718668" redirect="true"/>
+  <file name="resume.html" crc="4198878742" seo="true" mt="1481102392399" redirect="true"/>
   <file name="3dprinting.html" crc="353879120" seo="true" mt="1477673147304" redirect="true"/>
   <file name="dixievr.html" crc="3979273127" seo="true" mt="1477673147304" redirect="true"/>
   <file name="freelance.html" crc="4256466336" seo="true" mt="1480849024687" redirect="true"/>
