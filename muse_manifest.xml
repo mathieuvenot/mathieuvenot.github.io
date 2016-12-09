@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1481102402243">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1481299208153">
   <folder name="css">
-    <file name="site_global.css" crc="131876947"/>
+    <file name="site_global.css" crc="3897036732"/>
     <file name="master_a-master.css" crc="283246983" ref="urban-story:regressive-resolutions:algorithm:representation:artscience-experimentation-to-human-body:digital-fabrication-2:materialization---structuring:robotic-interactivity:advances-in-architectural-geometry:housing-project:digital-fabrication:tutoring:mad-man:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:thesis:links:resume:outlying-visions:structures---materials:diploma:freelance:disassembly:barch-internship:dixievr:portfolio:regressive-resolutions-2013:index:march-internship:3dprinting:machine-vision:osaka-competition:digital-design-literacy-2:light-structure:digital-design-literacy-3:global-schindler-award-2015:robotic---control:turbulences"/>
     <file name="urban-story.css" crc="3758201676" ref="urban-story"/>
     <file name="iefonts_urban-story.css" crc="467291210" ref="urban-story"/>
@@ -44,7 +44,7 @@
     <file name="iefonts_structures---materials.css" crc="205782878" ref="structures---materials"/>
     <file name="diploma.css" crc="74603190" ref="diploma"/>
     <file name="iefonts_diploma.css" crc="4180149637" ref="diploma"/>
-    <file name="freelance.css" crc="4211950169" ref="freelance"/>
+    <file name="freelance.css" crc="375134122" ref="freelance"/>
     <file name="iefonts_freelance.css" crc="422090360" ref="freelance"/>
     <file name="disassembly.css" crc="396930132" ref="disassembly"/>
     <file name="iefonts_disassembly.css" crc="516068495" ref="disassembly"/>
@@ -335,7 +335,7 @@
   <file name="resume.html" crc="4198878742" seo="true" mt="1481102392399" redirect="true"/>
   <file name="3dprinting.html" crc="353879120" seo="true" mt="1477673147304" redirect="true"/>
   <file name="dixievr.html" crc="3979273127" seo="true" mt="1477673147304" redirect="true"/>
-  <file name="freelance.html" crc="4256466336" seo="true" mt="1480849024687" redirect="true"/>
+  <file name="freelance.html" crc="3885944594" seo="true" mt="1481299189522" redirect="true"/>
   <file name="links.html" crc="521947979" seo="true" mt="1479938239220" redirect="true"/>
   <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4240841315" seo="true" mt="1477673147304" redirect="true"/>
   <file name="digital-fabrication.html" crc="409532525" seo="true" mt="1477673147304" redirect="true"/>
