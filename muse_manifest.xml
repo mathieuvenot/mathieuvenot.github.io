@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1482788263759">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1482788847124">
   <folder name="css">
-    <file name="site_global.css" crc="4123046933"/>
+    <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="3901676371" ref="advances-in-architectural-geometry:housing-project:robotic-interactivity:tutoring:outlying-visions:digital-fabrication:digital-design-literacy-1:regressive-resolutions-2013:augmented-reality---immersion-in-3d-virtual-worlds:structures---materials:mad-man:links:disassembly:thesis:freelance:digital-design-literacy-2:diploma:dixie:machine-vision:barch-internship:resume:light-structure:march-internship:3dprinting:osaka-competition:portfolio:turbulences:digital-design-literacy-3:global-schindler-award-2015:urban-story:robotic---control:index:algorithm:representation:regressive-resolutions:digital-fabrication-2:materialization---structuring:artscience-experimentation-to-human-body"/>
     <file name="advances-in-architectural-geometry.css" crc="516340711" ref="advances-in-architectural-geometry"/>
     <file name="iefonts_advances-in-architectural-geometry.css" crc="4096813819" ref="advances-in-architectural-geometry"/>
