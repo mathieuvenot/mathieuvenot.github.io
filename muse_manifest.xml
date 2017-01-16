@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1484244405300">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1484587572383">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
-    <file name="master_a-master.css" crc="3904911103" ref="advances-in-architectural-geometry:housing-project:robotic-interactivity:tutoring:outlying-visions:digital-fabrication:digital-design-literacy-1:regressive-resolutions-2013:augmented-reality---immersion-in-3d-virtual-worlds:structures---materials:mad-man:links:disassembly:thesis:freelance:digital-design-literacy-2:diploma:dixie:machine-vision:barch-internship:resume:light-structure:march-internship:3dprinting:osaka-competition:portfolio:turbulences:digital-design-literacy-3:global-schindler-award-2015:urban-story:robotic---control:index:algorithm:representation:regressive-resolutions:digital-fabrication-2:materialization---structuring:artscience-experimentation-to-human-body"/>
+    <file name="master_a-master.css" crc="3901676371" ref="advances-in-architectural-geometry:housing-project:robotic-interactivity:tutoring:outlying-visions:digital-fabrication:digital-design-literacy-1:regressive-resolutions-2013:augmented-reality---immersion-in-3d-virtual-worlds:structures---materials:mad-man:links:disassembly:thesis:freelance:digital-design-literacy-2:diploma:dixie:machine-vision:barch-internship:resume:light-structure:march-internship:3dprinting:osaka-competition:portfolio:turbulences:digital-design-literacy-3:global-schindler-award-2015:urban-story:robotic---control:index:algorithm:representation:regressive-resolutions:digital-fabrication-2:materialization---structuring:artscience-experimentation-to-human-body"/>
     <file name="advances-in-architectural-geometry.css" crc="516340711" ref="advances-in-architectural-geometry"/>
     <file name="iefonts_advances-in-architectural-geometry.css" crc="4096813819" ref="advances-in-architectural-geometry"/>
     <file name="housing-project.css" crc="4253924995" ref="housing-project"/>
@@ -64,7 +64,7 @@
     <file name="iefonts_urban-story.css" crc="467291210" ref="urban-story"/>
     <file name="robotic---control.css" crc="289491227" ref="robotic---control"/>
     <file name="iefonts_robotic---control.css" crc="207463653" ref="robotic---control"/>
-    <file name="index.css" crc="530381143" ref="index"/>
+    <file name="index.css" crc="4260951529" ref="index"/>
     <file name="algorithm.css" crc="507863829" ref="algorithm"/>
     <file name="iefonts_algorithm.css" crc="3820799318" ref="algorithm"/>
     <file name="representation.css" crc="240397379" ref="representation"/>
@@ -79,8 +79,8 @@
     <file name="iefonts_artscience-experimentation-to-human-body.css" crc="431134655" ref="artscience-experimentation-to-human-body"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="4034535563" seo="true" mt="1483607697000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="416807618" seo="true" mt="1483607689000"/>
+    <file name="venot_mathieu--cven.pdf" crc="4013158220" seo="true" mt="1484383638000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="4087479075" seo="true" mt="1484383652000"/>
     <file name="venot_mathieu--book.pdf" crc="306671516" seo="true" mt="1482169925000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
@@ -321,7 +321,7 @@
     <file name="14686069_1437686189594510_406675562_n.jpg" crc="3770497475" ref="algorithm"/>
     <file name="prsentationthibaultela8 - copy.jpg" crc="342857383" ref="algorithm"/>
   </folder>
-  <file name="index.html" crc="4105611234" seo="true" mt="1482788206700" redirect="true"/>
+  <file name="index.html" crc="461944142" seo="true" mt="1484587558972" redirect="true"/>
   <file name="portfolio.html" crc="254898332" seo="true" mt="1482788206700" redirect="true"/>
   <file name="resume.html" crc="3962021331" seo="true" mt="1483607771487" redirect="true"/>
   <file name="3dprinting.html" crc="120970870" seo="true" mt="1482788206700" redirect="true"/>
