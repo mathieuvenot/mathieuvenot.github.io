@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1488624918542">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1488625405149">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="3901676371" ref="resume:representation:advances-in-architectural-geometry:digital-design-literacy-3:freelance:tutoring:links:robotic-interactivity:light-structure:diploma:machine-vision:robotic---control:outlying-visions:barch-internship:digital-design-literacy-1:regressive-resolutions-2013:algorithm:portfolio:dixie:regressive-resolutions:digital-fabrication:3dprinting:index:turbulences:mad-man:digital-fabrication-2:disassembly:march-internship:global-schindler-award-2015:artscience-experimentation-to-human-body:augmented-reality---immersion-in-3d-virtual-worlds:structures---materials:osaka-competition:materialization---structuring:thesis:urban-story:housing-project:digital-design-literacy-2"/>
@@ -79,8 +79,8 @@
     <file name="iefonts_digital-design-literacy-2.css" crc="56019852" ref="digital-design-literacy-2"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="4126935370" seo="true" mt="1488624006000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="4123828770" seo="true" mt="1488623969000"/>
+    <file name="venot_mathieu--cven.pdf" crc="3775652605" seo="true" mt="1488625333000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="3886799835" seo="true" mt="1488625353000"/>
     <file name="venot_mathieu--book.pdf" crc="306671516" seo="true" mt="1482169925000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
