@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/digital-fabrication-2.html</loc>
+    <loc>http://mathieuvenot.com/algorithm.html</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/algorithm.html</loc>
+    <loc>http://mathieuvenot.com/digital-fabrication-2.html</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -229,12 +229,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_219.jpg</loc>
-    <lastmod>2017-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_236.jpg</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,7 +307,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_213.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -325,7 +319,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_635.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_219.jpg</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -416,6 +410,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
+    <lastmod>2017-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_213.jpg</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -523,12 +523,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_211.jpg</loc>
-    <lastmod>2017-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/assets/prelude-topographique.mp3</loc>
     <lastmod>2015-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -625,12 +619,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
-    <lastmod>2017-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,6 +626,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
+    <lastmod>2017-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_635.jpg</loc>
     <lastmod>2017-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
