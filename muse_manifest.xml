@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1496837596927">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1496907897156">
   <folder name="css">
-    <file name="site_global.css" crc="250539110"/>
+    <file name="site_global.css" crc="4123046933"/>
     <file name="master_a-master.css" crc="327565115" ref="digital-fine-arts:portfolio:robotic-interactivity:housing-project:artscience-experimentation-to-human-body:materialization---structuring:resume:regressive-resolutions:representation:advances-in-architectural-geometry:robotic---control:urban-story:tutoring:digital-fabrication-2:digital-design-literacy-3:turbulences:algorithm:osaka-competition:global-schindler-award-2015:mini-650:index:light-structure:3dprinting:barch-internship:machine-vision:march-internship:dixie:diploma:digital-design-literacy-2:shuffle-rings:freelance:thesis:disassembly:lighting:links:mad-man:structures---materials:xxl-3d-printing:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:digital-design-literacy-1:virtual-lobby:digital-fabrication:outlying-visions"/>
     <file name="digital-fine-arts.css" crc="4002563130" ref="digital-fine-arts"/>
     <file name="iefonts_digital-fine-arts.css" crc="362088152" ref="digital-fine-arts"/>
@@ -83,8 +83,8 @@
     <file name="iefonts_regressive-resolutions-2013.css" crc="422083740" ref="regressive-resolutions-2013"/>
     <file name="digital-design-literacy-1.css" crc="4188698588" ref="digital-design-literacy-1"/>
     <file name="iefonts_digital-design-literacy-1.css" crc="3935665179" ref="digital-design-literacy-1"/>
-    <file name="virtual-lobby.css" crc="75481635" ref="virtual-lobby"/>
-    <file name="iefonts_virtual-lobby.css" crc="117595871" ref="virtual-lobby"/>
+    <file name="virtual-lobby.css" crc="336490585" ref="virtual-lobby"/>
+    <file name="iefonts_virtual-lobby.css" crc="387411379" ref="virtual-lobby"/>
     <file name="digital-fabrication.css" crc="503648317" ref="digital-fabrication"/>
     <file name="iefonts_digital-fabrication.css" crc="4117990994" ref="digital-fabrication"/>
     <file name="outlying-visions.css" crc="3838536507" ref="outlying-visions"/>
@@ -108,6 +108,7 @@
     <file name="1020-219-1993_a4.pdf" crc="3934114863" seo="true" mt="1435584774000"/>
     <file name="art_chitect-0.1a.pdf" crc="531615209" seo="true" mt="1435584774000"/>
     <file name="prelude-topographique.mp3" crc="4273360235" seo="true" mt="1435584775000"/>
+    <file name="virtual-dream-center-1.2.pdf" crc="378379239" seo="true" mt="1496870045000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
@@ -125,29 +126,29 @@
     <file name="require.js" crc="4159430777" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="276223592" ref="index:portfolio:digital-fine-arts"/>
-    <file name="home_n.png" crc="195540747" ref="index:portfolio:digital-fine-arts"/>
-    <file name="home_h.png" crc="375260037" ref="index:portfolio:digital-fine-arts"/>
-    <file name="home_d.png" crc="298050461" ref="index:portfolio:digital-fine-arts"/>
-    <file name="info_n.png" crc="3868368729" ref="index:portfolio:digital-fine-arts"/>
-    <file name="info_h.png" crc="4151302484" ref="index:portfolio:digital-fine-arts"/>
-    <file name="info_d.png" crc="107259636" ref="index:portfolio:digital-fine-arts"/>
-    <file name="3d-printer-icon-13052-128pxn.png" crc="3946333966" ref="index:portfolio:digital-fine-arts"/>
-    <file name="3d-printer-icon-13052-128px.png" crc="3884761198" ref="index:portfolio:digital-fine-arts"/>
-    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index:portfolio:digital-fine-arts"/>
-    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index:portfolio:digital-fine-arts"/>
-    <file name="freelancen.png" crc="4040650890" ref="index:portfolio:digital-fine-arts"/>
-    <file name="freelance.png" crc="4245718626" ref="index:portfolio:digital-fine-arts"/>
-    <file name="work_n.png" crc="53164764" ref="index:portfolio:digital-fine-arts"/>
-    <file name="work_h.png" crc="3840438204" ref="index:portfolio:digital-fine-arts"/>
-    <file name="work_d.png" crc="3905934363" ref="index:portfolio:digital-fine-arts"/>
-    <file name="logo (2)n.png" crc="3905406248" ref="index:portfolio:digital-fine-arts"/>
-    <file name="logo (2).png" crc="3910590886" ref="index:portfolio:digital-fine-arts"/>
-    <file name="linkn.png" crc="11545926" ref="index:portfolio:digital-fine-arts"/>
-    <file name="link.png" crc="202725025" ref="index:portfolio:digital-fine-arts"/>
-    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:portfolio:digital-fine-arts"/>
-    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:portfolio:digital-fine-arts"/>
-    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:portfolio:digital-fine-arts"/>
+    <file name="favicon.ico" crc="276223592" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="home_n.png" crc="195540747" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="home_h.png" crc="375260037" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="home_d.png" crc="298050461" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="info_n.png" crc="3868368729" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="info_h.png" crc="4151302484" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="info_d.png" crc="107259636" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="3d-printer-icon-13052-128pxn.png" crc="3946333966" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="3d-printer-icon-13052-128px.png" crc="3884761198" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="freelancen.png" crc="4040650890" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="freelance.png" crc="4245718626" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="work_n.png" crc="53164764" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="work_h.png" crc="3840438204" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="work_d.png" crc="3905934363" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="logo (2)n.png" crc="3905406248" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="logo (2).png" crc="3910590886" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="linkn.png" crc="11545926" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="link.png" crc="202725025" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
+    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
     <file name="stacks_image_211.jpg" crc="4031575006" ref="index:portfolio"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="stacks_image_215.jpg" crc="3807325114" seo="true" ref="index"/>
@@ -206,7 +207,7 @@
     <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
     <file name="sp.png" crc="3934400013" seo="true" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
     <file name="3dhubs2.png" crc="528538177" seo="true" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
-    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:portfolio:digital-fine-arts"/>
+    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:portfolio:digital-fine-arts:virtual-lobby"/>
     <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:3dprinting:dixie:freelance:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts"/>
     <file name="2017-04-21-u33517-fr.jpg" crc="4270435258" ref="portfolio"/>
     <file name="2017ens012intensif_musee_senso_rezo - red-u33499-fr.jpg" crc="4114440141" ref="portfolio"/>
@@ -256,11 +257,11 @@
     <file name="20160215_163856.jpg" crc="3965304212" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="img_6858.jpg" crc="3808731324" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="20160215_130045.jpg" crc="26586256" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
-    <file name="arrow_left-u11829-fr.png" crc="4092908058" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby"/>
-    <file name="arrow_left-u11829-r-fr.png" crc="355580610" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby"/>
-    <file name="dot-u11829-m-fr.png" crc="327657704" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby"/>
-    <file name="arrow_right-u11830-fr.png" crc="4092908058" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby"/>
-    <file name="arrow_right-u11830-r-fr.png" crc="4004836838" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby"/>
+    <file name="arrow_left-u11829-fr.png" crc="4092908058" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing"/>
+    <file name="arrow_left-u11829-r-fr.png" crc="355580610" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing"/>
+    <file name="dot-u11829-m-fr.png" crc="327657704" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing"/>
+    <file name="arrow_right-u11830-fr.png" crc="4092908058" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing"/>
+    <file name="arrow_right-u11830-r-fr.png" crc="4004836838" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing"/>
     <file name="rendu01-1-copy.jpg" crc="4209404368" ref="digital-fabrication"/>
     <file name="img_4288-2.jpg" crc="8745888" ref="digital-fabrication"/>
     <file name="compilationintensifrobot-1968.jpg" crc="4210631885" ref="robotic-interactivity"/>
@@ -368,6 +369,11 @@
     <file name="dot-u34053-m-fr.png" crc="327657704" ref="digital-fine-arts"/>
     <file name="arrow_right-u34058-fr.png" crc="4092908058" ref="digital-fine-arts"/>
     <file name="arrow_right-u34058-r-fr.png" crc="4004836838" ref="digital-fine-arts"/>
+    <file name="arrow_left-u33962-fr.png" crc="4092908058" ref="virtual-lobby"/>
+    <file name="arrow_left-u33962-r-fr.png" crc="355580610" ref="virtual-lobby"/>
+    <file name="dot-u33962-m-fr.png" crc="327657704" ref="virtual-lobby"/>
+    <file name="arrow_right-u33973-fr.png" crc="4092908058" ref="virtual-lobby"/>
+    <file name="arrow_right-u33973-r-fr.png" crc="4004836838" ref="virtual-lobby"/>
   </folder>
   <file name="index.html" crc="34533012" seo="true" mt="1493235515932" redirect="true"/>
   <file name="portfolio.html" crc="521975217" seo="true" mt="1493236873318" redirect="true"/>
@@ -411,6 +417,6 @@
   <file name="shuffle-rings.html" crc="4060551313" seo="true" mt="1493235515932" redirect="true"/>
   <file name="lighting.html" crc="212409765" seo="true" mt="1493235515932" redirect="true"/>
   <file name="xxl-3d-printing.html" crc="464506840" seo="true" mt="1493235515932" redirect="true"/>
-  <file name="virtual-lobby.html" crc="128688668" seo="true" mt="1493235515932" redirect="true"/>
+  <file name="virtual-lobby.html" crc="4066622066" seo="true" mt="1496907876982" redirect="true"/>
   <file name="digital-fine-arts.html" crc="4082309142" seo="true" mt="1496837401101" redirect="true"/>
 </manifest>
