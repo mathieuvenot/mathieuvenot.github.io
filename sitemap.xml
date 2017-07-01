@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2017-04-26</lastmod>
+    <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -277,6 +277,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_430.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -349,25 +355,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_345.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_357.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
-    <lastmod>2017-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/mini%20v22.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/rendu%20bague2%20final.png</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -433,14 +445,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
-    <lastmod>2017-06-16</lastmod>
+    <loc>http://mathieuvenot.com/images/mazinlamplight03.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_345.jpg</loc>
+    <loc>http://mathieuvenot.com/images/locationgrabber03_gismo9_21.jpg</loc>
     <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
+    <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -595,6 +613,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_211.jpg</loc>
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/assets/virtual-dream-center-1.2.pdf</loc>
     <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -697,13 +721,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
+    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
+    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
     <lastmod>2017-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

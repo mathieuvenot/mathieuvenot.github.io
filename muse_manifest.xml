@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1498931393408">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1498931785500">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
-    <file name="master_a-master.css" crc="481671241" ref="index:osaka-competition:global-schindler-award-2015:march-internship:light-structure:3dprinting:barch-internship:machine-vision:dixie:diploma:digital-design-literacy-2:shuffle-rings:freelance:thesis:disassembly:lighting:links:mad-man:structures---materials:xxl-3d-printing:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:digital-design-literacy-1:virtual-lobby:digital-fabrication:outlying-visions:tutoring:digital-fine-arts:portfolio:robotic-interactivity:housing-project:advances-in-architectural-geometry:artscience-experimentation-to-human-body:materialization---structuring:digital-fabrication-2:resume:regressive-resolutions:representation:algorithm:robotic---control:urban-story:mini-650:digital-design-literacy-3:turbulences:mazin-lamps:giscad-data"/>
-    <file name="index.css" crc="3869963448" ref="index"/>
+    <file name="master_a-master.css" crc="327565115" ref="index:osaka-competition:global-schindler-award-2015:march-internship:light-structure:3dprinting:barch-internship:machine-vision:dixie:diploma:digital-design-literacy-2:shuffle-rings:freelance:thesis:disassembly:lighting:links:mad-man:structures---materials:xxl-3d-printing:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:digital-design-literacy-1:virtual-lobby:digital-fabrication:outlying-visions:tutoring:digital-fine-arts:portfolio:robotic-interactivity:housing-project:advances-in-architectural-geometry:artscience-experimentation-to-human-body:materialization---structuring:digital-fabrication-2:resume:regressive-resolutions:representation:algorithm:robotic---control:urban-story:mini-650:digital-design-literacy-3:turbulences:mazin-lamps:giscad-data"/>
+    <file name="index.css" crc="4128919614" ref="index"/>
     <file name="osaka-competition.css" crc="4100703380" ref="osaka-competition"/>
     <file name="iefonts_osaka-competition.css" crc="483928963" ref="osaka-competition"/>
     <file name="global-schindler-award-2015.css" crc="2107149" ref="global-schindler-award-2015"/>
@@ -153,7 +153,7 @@
     <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:portfolio"/>
     <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:portfolio"/>
     <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:portfolio"/>
-    <file name="stacks_image_211.jpg" crc="4031575006" ref="index:portfolio"/>
+    <file name="stacks_image_211.jpg" crc="4031575006" ref="index:portfolio" seo="true"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="stacks_image_215.jpg" crc="3807325114" seo="true" ref="index"/>
     <file name="stacks_image_272.png" crc="43132292" seo="true" ref="index"/>
@@ -199,7 +199,7 @@
     <file name="2017ens012intensif_musee_senso_rezo - red.jpg" crc="443071792" seo="true" ref="index"/>
     <file name="dsc_83512.jpg" crc="4019061346" seo="true" ref="index"/>
     <file name="mini v22.jpg" crc="3962633163" seo="true" ref="index"/>
-    <file name="rendu bague2 final.png" crc="3790287166" ref="index:portfolio"/>
+    <file name="rendu bague2 final.png" crc="3908245186" ref="index:portfolio" seo="true"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="pfeiffer_venot (3)-u3449-fr.jpg" crc="211177712" ref="index"/>
     <file name="btn_h-u1434-r-fr.png" crc="3769633633" ref="index"/>
@@ -381,8 +381,10 @@
     <file name="locationgrabber03_gismo9_10-u34545-fr.jpg" crc="280817002" ref="giscad-data"/>
     <file name="locationgrabber03_gismo9_21-u34544-fr.jpg" crc="3820059578" ref="giscad-data"/>
     <file name="locationgrabber03_gismo9_04-u34546-fr.jpg" crc="3834810357" ref="giscad-data"/>
+    <file name="mazinlamplight03.jpg" crc="4179384121" seo="true" ref="index"/>
+    <file name="locationgrabber03_gismo9_21.jpg" crc="263665558" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="173257988" seo="true" mt="1493235515932" redirect="true"/>
+  <file name="index.html" crc="440796799" seo="true" mt="1498931765842" redirect="true"/>
   <file name="portfolio.html" crc="330445261" seo="true" mt="1498924727691" redirect="true"/>
   <file name="resume.html" crc="312456115" seo="true" mt="1497625982585" redirect="true"/>
   <file name="3dprinting.html" crc="216840057" seo="true" mt="1493235515932" redirect="true"/>
