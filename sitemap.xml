@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2017-08-30</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mathieuvenot.com/giscad-data.html</loc>
     <lastmod>2017-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/design-modelling-symposium.html</loc>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,7 +26,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-fine-arts.html</loc>
-    <lastmod>2017-08-30</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -200,7 +206,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-design-literacy-3.html</loc>
-    <lastmod>2017-08-30</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -272,7 +278,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2017-08-30</lastmod>
+    <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -295,12 +301,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_445.jpg</loc>
-    <lastmod>2017-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_524.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,13 +313,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_445.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -361,7 +361,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_345.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -458,6 +458,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
+    <lastmod>2017-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_345.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -715,13 +721,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2017-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
