@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1531465882511">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1531467047943">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="4073756984" ref="artscience-experimentation-to-human-body:materialization---structuring:digital-fabrication-2:resume:regressive-resolutions:representation:algorithm:robotic---control:urban-story:mini-650:digital-design-literacy-3:turbulences:shuffle-rings:osaka-competition:global-schindler-award-2015:lighting:march-internship:light-structure:xxl-3d-printing:3dprinting:barch-internship:machine-vision:virtual-lobby:dixie:diploma:digital-design-literacy-2:digital-fine-arts:consulting:thesis:disassembly:mazin-lamps:links:mad-man:structures---materials:giscad-data:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:digital-design-literacy-1:design-modelling-symposium:index:digital-fabrication:outlying-visions:tutoring:portfolio:robotic-interactivity:housing-project:advances-in-architectural-geometry"/>
@@ -99,7 +99,7 @@
   <folder name="assets">
     <file name="venot_mathieu--cven.pdf" crc="317776971" seo="true" mt="1531465832000"/>
     <file name="venot_mathieu--cvfr.pdf" crc="264529160" seo="true" mt="1531465842000"/>
-    <file name="venot_mathieu--book.pdf" crc="4212364086" seo="true" mt="1509354879000"/>
+    <file name="venot_mathieu--book.pdf" crc="4121702615" seo="true" mt="1531466977000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
     <file name="venot-pfeiffer_pfe2016-prez.pdf" crc="200856348" seo="true" mt="1467445415000"/>
