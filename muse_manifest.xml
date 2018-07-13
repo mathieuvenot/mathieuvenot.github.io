@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1531465501904">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1531465718999">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="4073756984" ref="artscience-experimentation-to-human-body:materialization---structuring:digital-fabrication-2:resume:regressive-resolutions:representation:algorithm:robotic---control:urban-story:mini-650:digital-design-literacy-3:turbulences:shuffle-rings:osaka-competition:global-schindler-award-2015:lighting:march-internship:light-structure:xxl-3d-printing:3dprinting:barch-internship:machine-vision:virtual-lobby:dixie:diploma:digital-design-literacy-2:digital-fine-arts:consulting:thesis:disassembly:mazin-lamps:links:mad-man:structures---materials:giscad-data:augmented-reality---immersion-in-3d-virtual-worlds:regressive-resolutions-2013:digital-design-literacy-1:design-modelling-symposium:index:digital-fabrication:outlying-visions:tutoring:portfolio:robotic-interactivity:housing-project:advances-in-architectural-geometry"/>
@@ -8,8 +8,8 @@
     <file name="iefonts_materialization---structuring.css" crc="393321819" ref="materialization---structuring"/>
     <file name="digital-fabrication-2.css" crc="3957725947" ref="digital-fabrication-2"/>
     <file name="iefonts_digital-fabrication-2.css" crc="3925184135" ref="digital-fabrication-2"/>
-    <file name="resume.css" crc="3770487852" ref="resume"/>
-    <file name="iefonts_resume.css" crc="3983239584" ref="resume"/>
+    <file name="resume.css" crc="3785081135" ref="resume"/>
+    <file name="iefonts_resume.css" crc="3869188492" ref="resume"/>
     <file name="regressive-resolutions.css" crc="3875725932" ref="regressive-resolutions"/>
     <file name="iefonts_regressive-resolutions.css" crc="453913419" ref="regressive-resolutions"/>
     <file name="representation.css" crc="4108775131" ref="representation"/>
@@ -97,8 +97,8 @@
     <file name="iefonts_advances-in-architectural-geometry.css" crc="437760625" ref="advances-in-architectural-geometry"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="491687693" seo="true" mt="1531465463000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="4082747141" seo="true" mt="1531465475000"/>
+    <file name="venot_mathieu--cven.pdf" crc="3803107715" seo="true" mt="1531465663000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="3779086023" seo="true" mt="1531465653000"/>
     <file name="venot_mathieu--book.pdf" crc="4212364086" seo="true" mt="1509354879000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
@@ -393,7 +393,7 @@
   </folder>
   <file name="index.html" crc="420379138" seo="true" mt="1531428240435" redirect="true"/>
   <file name="portfolio.html" crc="4283739998" seo="true" mt="1531428240435" redirect="true"/>
-  <file name="resume.html" crc="124644418" seo="true" mt="1531465385612" redirect="true"/>
+  <file name="resume.html" crc="477432195" seo="true" mt="1531465700382" redirect="true"/>
   <file name="3dprinting.html" crc="3826505" seo="true" mt="1531428240435" redirect="true"/>
   <file name="dixie.html" crc="17838013" seo="true" mt="1531428240435" redirect="true"/>
   <file name="consulting.html" crc="3846020027" seo="true" mt="1531428240435" redirect="true"/>
