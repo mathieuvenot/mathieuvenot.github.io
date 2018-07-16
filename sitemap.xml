@@ -355,12 +355,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
-    <lastmod>2018-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_345.jpg</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,6 +362,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/stacks_image_357.jpg</loc>
+    <lastmod>2018-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -404,18 +404,6 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/linkedin.png</loc>
-    <lastmod>2018-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/sp.png</loc>
-    <lastmod>2018-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/3dhubs2.png</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -721,13 +709,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
+    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
+    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
