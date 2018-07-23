@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532381382771">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532383114467">
   <folder name="css">
-    <file name="site_global.css" crc="250539110"/>
+    <file name="site_global.css" crc="4123046933"/>
     <file name="master_a-master.css" crc="515878434" ref="osaka-competition:virtual-lobby:tutoring:march-internship:xxl-3d-printing:barch-internship:mad-man:mazin-lamps:dixie:diploma:consulting:machine-vision:representation:links:giscad-data:augmented-reality---immersion-in-3d-virtual-worlds:design-modelling-symposium:advances-in-architectural-geometry:thesis:index:digital-fabrication:digital-fine-arts:outlying-visions:portfolio:robotic-interactivity:regressive-resolutions-2013:digital-design-literacy-2:housing-project:urban-story:artscience-experimentation-to-human-body:digital-design-literacy-1:lighting:resume:regressive-resolutions:digital-fabrication-2:disassembly:algorithm:turbulences:robotic---control:mini-650:materialization---structuring:global-schindler-award-2015:digital-design-literacy-3:shuffle-rings:structures---materials:light-structure:sailing-yacht-design:long-project:ship-design-loop"/>
     <file name="osaka-competition.css" crc="96200912" ref="osaka-competition"/>
     <file name="iefonts_osaka-competition.css" crc="4274707539" ref="osaka-competition"/>
@@ -103,7 +103,7 @@
   <folder name="assets">
     <file name="venot_mathieu--cven.pdf" crc="273997048" seo="true" mt="1531770727000"/>
     <file name="venot_mathieu--cvfr.pdf" crc="3825231045" seo="true" mt="1531770703000"/>
-    <file name="venot_mathieu--book.pdf" crc="4121702615" seo="true" mt="1531466977000"/>
+    <file name="venot_mathieu--book.pdf" crc="3976517161" seo="true" mt="1532382948000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
     <file name="venot-pfeiffer_pfe2016-prez.pdf" crc="200856348" seo="true" mt="1467445415000"/>
