@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/sailing-yacht-design.html</loc>
+    <loc>http://mathieuvenot.com/long-project.html</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/long-project.html</loc>
+    <loc>http://mathieuvenot.com/sailing-yacht-design.html</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -313,6 +313,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
+    <lastmod>2018-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -325,13 +331,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_635.jpg</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_635.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_637.jpg</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -373,7 +379,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_637.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
     <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -471,12 +477,6 @@
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
     <lastmod>2018-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_389.jpg</loc>
-    <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -649,6 +649,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/assets/ensta_dejour-paris-reynaud-venot.pdf</loc>
+    <lastmod>2018-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/assets/virtual-dream-center-1.2.pdf</loc>
     <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -745,14 +751,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/mini%20v22.jpg</loc>
-    <lastmod>2018-07-23</lastmod>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
-    <lastmod>2018-07-16</lastmod>
+    <loc>http://mathieuvenot.com/images/mini%20v22.jpg</loc>
+    <lastmod>2018-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

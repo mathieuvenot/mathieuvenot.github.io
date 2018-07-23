@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532379792729">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532381382771">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="515878434" ref="osaka-competition:virtual-lobby:tutoring:march-internship:xxl-3d-printing:barch-internship:mad-man:mazin-lamps:dixie:diploma:consulting:machine-vision:representation:links:giscad-data:augmented-reality---immersion-in-3d-virtual-worlds:design-modelling-symposium:advances-in-architectural-geometry:thesis:index:digital-fabrication:digital-fine-arts:outlying-visions:portfolio:robotic-interactivity:regressive-resolutions-2013:digital-design-literacy-2:housing-project:urban-story:artscience-experimentation-to-human-body:digital-design-literacy-1:lighting:resume:regressive-resolutions:digital-fabrication-2:disassembly:algorithm:turbulences:robotic---control:mini-650:materialization---structuring:global-schindler-award-2015:digital-design-literacy-3:shuffle-rings:structures---materials:light-structure:sailing-yacht-design:long-project:ship-design-loop"/>
@@ -40,7 +40,7 @@
     <file name="iefonts_advances-in-architectural-geometry.css" crc="260706466" ref="advances-in-architectural-geometry"/>
     <file name="thesis.css" crc="272910505" ref="thesis"/>
     <file name="iefonts_thesis.css" crc="3785304060" ref="thesis"/>
-    <file name="index.css" crc="3782486694" ref="index"/>
+    <file name="index.css" crc="88946194" ref="index"/>
     <file name="digital-fabrication.css" crc="452762024" ref="digital-fabrication"/>
     <file name="iefonts_digital-fabrication.css" crc="4035595923" ref="digital-fabrication"/>
     <file name="digital-fine-arts.css" crc="27242112" ref="digital-fine-arts"/>
@@ -97,7 +97,7 @@
     <file name="iefonts_sailing-yacht-design.css" crc="4034556269" ref="sailing-yacht-design"/>
     <file name="long-project.css" crc="3759843904" ref="long-project"/>
     <file name="iefonts_long-project.css" crc="395476662" ref="long-project"/>
-    <file name="ship-design-loop.css" crc="133877228" ref="ship-design-loop"/>
+    <file name="ship-design-loop.css" crc="3906228209" ref="ship-design-loop"/>
     <file name="iefonts_ship-design-loop.css" crc="4187418008" ref="ship-design-loop"/>
   </folder>
   <folder name="assets">
@@ -119,6 +119,7 @@
     <file name="art_chitect-0.1a.pdf" crc="531615209" seo="true" mt="1435584774000"/>
     <file name="prelude-topographique.mp3" crc="4273360235" seo="true" mt="1435584775000"/>
     <file name="virtual-dream-center-1.2.pdf" crc="378379239" seo="true" mt="1496870045000"/>
+    <file name="ensta_dejour-paris-reynaud-venot.pdf" crc="4082897779" seo="true" mt="1515413092000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:dixie:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:tutoring:advances-in-architectural-geometry:digital-fabrication-2:algorithm:mini-650:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:giscad-data:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project"/>
@@ -382,18 +383,18 @@
     <file name="highresscreenshot00000.jpg" crc="4101635265" ref="design-modelling-symposium"/>
     <file name="20170917_122659.jpg" crc="319690657" ref="design-modelling-symposium"/>
     <file name="20171222_esquisse_18-3d08b2.jpg" crc="283122000" seo="true" ref="index"/>
-    <file name="3d01.jpg" crc="145301317" seo="true" ref="index"/>
-    <file name="rendu _ d-p.png" crc="4245926088" seo="true" ref="index"/>
+    <file name="3d01.jpg" crc="3823426124" seo="true" ref="index"/>
+    <file name="rendu _ d-p.png" crc="480931046" seo="true" ref="index"/>
     <file name="3d012.jpg" crc="363697041" ref="portfolio"/>
     <file name="rendu _ d-p2.png" crc="3830738258" ref="portfolio"/>
     <file name="20171222_esquisse_18-3d08b22.jpg" crc="4115741589" ref="portfolio"/>
     <file name="sl06-2-u35963-fr.jpg" crc="62086704" ref="portfolio"/>
     <file name="stacks_image_211-u14237-a-fr.jpg" crc="52422623" ref="portfolio"/>
-    <file name="arrow_left-u13157-fr.png" crc="4092908058" ref="diploma:urban-story:ship-design-loop:sailing-yacht-design:long-project"/>
-    <file name="arrow_left-u13157-r-fr.png" crc="355580610" ref="diploma:urban-story:ship-design-loop:sailing-yacht-design:long-project"/>
-    <file name="dot-u13157-m-fr.png" crc="327657704" ref="diploma:urban-story:ship-design-loop:sailing-yacht-design:long-project"/>
-    <file name="arrow_right-u13156-fr.png" crc="4092908058" ref="diploma:ship-design-loop:sailing-yacht-design:long-project"/>
-    <file name="arrow_right-u13156-r-fr.png" crc="4004836838" ref="diploma:ship-design-loop:sailing-yacht-design:long-project"/>
+    <file name="arrow_left-u13157-fr.png" crc="4092908058" ref="diploma:urban-story:sailing-yacht-design:long-project"/>
+    <file name="arrow_left-u13157-r-fr.png" crc="355580610" ref="diploma:urban-story:sailing-yacht-design:long-project"/>
+    <file name="dot-u13157-m-fr.png" crc="327657704" ref="diploma:urban-story:sailing-yacht-design:long-project"/>
+    <file name="arrow_right-u13156-fr.png" crc="4092908058" ref="diploma:sailing-yacht-design:long-project"/>
+    <file name="arrow_right-u13156-r-fr.png" crc="4004836838" ref="diploma:sailing-yacht-design:long-project"/>
     <file name="arrow_right-u3473-r-fr-u14387-fr.png" crc="4092908058" ref="urban-story"/>
     <file name="dot-u14387-m-fr.png" crc="327657704" ref="urban-story"/>
     <file name="20171222_esquisse_18-3d08b2-u34868-fr.jpg" crc="18213655" ref="ship-design-loop"/>
@@ -405,8 +406,13 @@
     <file name="rendu _ d-p - copy.png" crc="3921243661" ref="long-project"/>
     <file name="rendu _ d-p - copy (2).png" crc="4248847873" ref="long-project"/>
     <file name="rendu _ s-g - copy.png" crc="4002895860" ref="long-project"/>
+    <file name="arrow_left-u34865-fr.png" crc="4092908058" ref="ship-design-loop"/>
+    <file name="arrow_left-u34865-r-fr.png" crc="355580610" ref="ship-design-loop"/>
+    <file name="dot-u34865-m-fr.png" crc="327657704" ref="ship-design-loop"/>
+    <file name="arrow_right-u34870-fr.png" crc="4092908058" ref="ship-design-loop"/>
+    <file name="arrow_right-u34870-r-fr.png" crc="4004836838" ref="ship-design-loop"/>
   </folder>
-  <file name="index.html" crc="3984344546" seo="true" mt="1532377981989" redirect="true"/>
+  <file name="index.html" crc="270862786" seo="true" mt="1532381363720" redirect="true"/>
   <file name="portfolio.html" crc="3869482479" seo="true" mt="1532379785031" redirect="true"/>
   <file name="resume.html" crc="33753783" seo="true" mt="1531771537772" redirect="true"/>
   <file name="dixie.html" crc="4205227345" seo="true" mt="1531668830968" redirect="true"/>
@@ -452,7 +458,7 @@
   <file name="mazin-lamps.html" crc="3810835679" seo="true" mt="1531668830968" redirect="true"/>
   <file name="giscad-data.html" crc="49139145" seo="true" mt="1531668830968" redirect="true"/>
   <file name="design-modelling-symposium.html" crc="392126751" seo="true" mt="1531668830968" redirect="true"/>
-  <file name="ship-design-loop.html" crc="229784608" seo="true" mt="1532379784998" redirect="true"/>
+  <file name="ship-design-loop.html" crc="4204214149" seo="true" mt="1532380145046" redirect="true"/>
   <file name="sailing-yacht-design.html" crc="279597906" seo="true" mt="1532379785199" redirect="true"/>
   <file name="long-project.html" crc="34864123" seo="true" mt="1532379785774" redirect="true"/>
 </manifest>
