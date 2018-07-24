@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/rm-1050.html</loc>
+    <loc>http://mathieuvenot.com/windsurfing.html</loc>
     <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/windsurfing.html</loc>
+    <loc>http://mathieuvenot.com/rm-1050.html</loc>
     <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -398,6 +398,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/locationgrabber03_gismo9_21.jpg</loc>
+    <lastmod>2018-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
     <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -805,14 +811,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/git01.png</loc>
-    <lastmod>2018-07-24</lastmod>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
-    <lastmod>2018-07-16</lastmod>
+    <loc>http://mathieuvenot.com/images/git01.png</loc>
+    <lastmod>2018-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
