@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532536741901">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532536989976">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="127586888" ref="osaka-competition:virtual-lobby:march-internship:xxl-3d-printing:barch-internship:mad-man:mazin-lamps:dixie:diploma:consulting:machine-vision:representation:links:giscad-data:augmented-reality---immersion-in-3d-virtual-worlds:design-modelling-symposium:advances-in-architectural-geometry:thesis:index:digital-fabrication:digital-fine-arts:outlying-visions:portfolio:robotic-interactivity:regressive-resolutions-2013:digital-design-literacy-2:housing-project:urban-story:artscience-experimentation-to-human-body:digital-design-literacy-1:lighting:resume:regressive-resolutions:digital-fabrication-2:disassembly:algorithm:turbulences:robotic---control:mini-650:materialization---structuring:global-schindler-award-2015:digital-design-literacy-3:shuffle-rings:structures---materials:light-structure:sailing-yacht-design:long-project:ship-design-loop:coco-650:windsurfing:freycinet-barge:first-35:rm-1050:teaching:sketch:ship-structures-lab:spray-hood"/>
@@ -45,7 +45,7 @@
     <file name="iefonts_digital-fine-arts.css" crc="409111579" ref="digital-fine-arts"/>
     <file name="outlying-visions.css" crc="130672692" ref="outlying-visions"/>
     <file name="iefonts_outlying-visions.css" crc="3948372088" ref="outlying-visions"/>
-    <file name="portfolio.css" crc="4116392433" ref="portfolio"/>
+    <file name="portfolio.css" crc="4115215123" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="388742853" ref="portfolio"/>
     <file name="robotic-interactivity.css" crc="246571759" ref="robotic-interactivity"/>
     <file name="iefonts_robotic-interactivity.css" crc="62395853" ref="robotic-interactivity"/>
@@ -111,9 +111,9 @@
     <file name="iefonts_teaching.css" crc="125584751" ref="teaching"/>
     <file name="sketch.css" crc="14555194" ref="sketch"/>
     <file name="iefonts_sketch.css" crc="3776586211" ref="sketch"/>
-    <file name="ship-structures-lab.css" crc="252964183" ref="ship-structures-lab"/>
-    <file name="iefonts_ship-structures-lab.css" crc="3770467053" ref="ship-structures-lab"/>
-    <file name="spray-hood.css" crc="3946587612" ref="spray-hood"/>
+    <file name="ship-structures-lab.css" crc="4127739575" ref="ship-structures-lab"/>
+    <file name="iefonts_ship-structures-lab.css" crc="430827531" ref="ship-structures-lab"/>
+    <file name="spray-hood.css" crc="3844811632" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="359891187" ref="spray-hood"/>
   </folder>
   <folder name="assets">
@@ -441,11 +441,11 @@
     <file name="scn_0001.jpg" crc="4248273893" seo="true" ref="index"/>
     <file name="5-5-6_fea07-u37968-a-fr.jpg" crc="4272658608" ref="portfolio"/>
     <file name="scn_0001-u37950-a-fr.jpg" crc="3886138061" ref="portfolio"/>
-    <file name="arrow_left-u14515-fr.png" crc="4092908058" ref="turbulences:digital-design-literacy-1:sketch:ship-structures-lab"/>
-    <file name="arrow_left-u14515-r-fr.png" crc="355580610" ref="turbulences:digital-design-literacy-1:sketch:ship-structures-lab"/>
-    <file name="dot-u14515-m-fr.png" crc="327657704" ref="turbulences:digital-design-literacy-1:sketch:ship-structures-lab"/>
-    <file name="arrow_right-u14504-fr.png" crc="4092908058" ref="turbulences:digital-design-literacy-1:sketch:ship-structures-lab"/>
-    <file name="arrow_right-u14504-r-fr.png" crc="4004836838" ref="turbulences:digital-design-literacy-1:sketch:ship-structures-lab"/>
+    <file name="arrow_left-u14515-fr.png" crc="4092908058" ref="turbulences:digital-design-literacy-1:sketch"/>
+    <file name="arrow_left-u14515-r-fr.png" crc="355580610" ref="turbulences:digital-design-literacy-1:sketch"/>
+    <file name="dot-u14515-m-fr.png" crc="327657704" ref="turbulences:digital-design-literacy-1:sketch"/>
+    <file name="arrow_right-u14504-fr.png" crc="4092908058" ref="turbulences:digital-design-literacy-1:sketch"/>
+    <file name="arrow_right-u14504-r-fr.png" crc="4004836838" ref="turbulences:digital-design-literacy-1:sketch"/>
     <file name="scn_0001-u38028-fr.jpg" crc="170725354" ref="sketch"/>
     <file name="scn_0002.jpg" crc="4155666501" ref="sketch"/>
     <file name="scn_0009.jpg" crc="4089423262" ref="sketch"/>
@@ -465,14 +465,14 @@
     <file name="campus-centre-recherche-u38261-fr.jpg" crc="3831271966" ref="portfolio"/>
     <file name="09-u38297-fr.jpg" crc="4098081355" ref="spray-hood"/>
     <file name="17-u38295-fr.jpg" crc="3922187100" ref="spray-hood"/>
-    <file name="arrow_left-u38303-fr.png" crc="4092908058" ref="spray-hood"/>
-    <file name="arrow_left-u38303-r-fr.png" crc="355580610" ref="spray-hood"/>
-    <file name="dot-u38303-m-fr.png" crc="327657704" ref="spray-hood"/>
-    <file name="arrow_right-u38298-fr.png" crc="4092908058" ref="spray-hood"/>
-    <file name="arrow_right-u38298-r-fr.png" crc="4004836838" ref="spray-hood"/>
+    <file name="arrow_left-u38062-fr.png" crc="4092908058" ref="ship-structures-lab:spray-hood"/>
+    <file name="arrow_left-u38062-r-fr.png" crc="355580610" ref="ship-structures-lab:spray-hood"/>
+    <file name="dot-u38062-m-fr.png" crc="327657704" ref="ship-structures-lab:spray-hood"/>
+    <file name="arrow_right-u38061-fr.png" crc="4092908058" ref="ship-structures-lab:spray-hood"/>
+    <file name="arrow_right-u38061-r-fr.png" crc="4004836838" ref="ship-structures-lab:spray-hood"/>
   </folder>
   <file name="index.html" crc="4032830327" seo="true" mt="1532535511883" redirect="true"/>
-  <file name="portfolio.html" crc="4083859624" seo="true" mt="1532536735843" redirect="true"/>
+  <file name="portfolio.html" crc="194972766" seo="true" mt="1532536983515" redirect="true"/>
   <file name="resume.html" crc="410455662" seo="true" mt="1532515427747" redirect="true"/>
   <file name="dixie.html" crc="4003336513" seo="true" mt="1532515427747" redirect="true"/>
   <file name="consulting.html" crc="262831386" seo="true" mt="1532515427755" redirect="true"/>
@@ -526,6 +526,6 @@
   <file name="windsurfing.html" crc="164872353" seo="true" mt="1532515427747" redirect="true"/>
   <file name="teaching.html" crc="4061562689" seo="true" mt="1532515507110" redirect="true"/>
   <file name="sketch.html" crc="4012811267" seo="true" mt="1532527170577" redirect="true"/>
-  <file name="ship-structures-lab.html" crc="3980413695" seo="true" mt="1532527170395" redirect="true"/>
-  <file name="spray-hood.html" crc="4274170621" seo="true" mt="1532536735845" redirect="true"/>
+  <file name="ship-structures-lab.html" crc="86833944" seo="true" mt="1532536965643" redirect="true"/>
+  <file name="spray-hood.html" crc="338815251" seo="true" mt="1532536983513" redirect="true"/>
 </manifest>
