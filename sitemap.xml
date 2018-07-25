@@ -7,13 +7,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/windsurfing.html</loc>
+    <loc>http://mathieuvenot.com/ship-structures-lab.html</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/sketch.html</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mathieuvenot.com/teaching.html</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/windsurfing.html</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -403,6 +415,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/git01.png</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -410,12 +434,6 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
-    <lastmod>2018-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -494,6 +512,18 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/290858_2344189963370_6370244_o%20-%20copy.jpg</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/5-5-6_fea07.jpg</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/scn_0001.jpg</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -703,6 +733,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/assets/venot-mathieu_dpea-sketches(red).pdf</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/assets/be-structures_venot-loubeyre.pdf</loc>
+    <lastmod>2017-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/assets/ensta_dejour-paris-reynaud-venot.pdf</loc>
     <lastmod>2018-01-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -805,12 +847,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/git01.png</loc>
-    <lastmod>2018-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -818,6 +854,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/linkedin.png</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
