@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532590357684">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532590606546">
   <folder name="css">
     <file name="site_global.css" crc="4123046933"/>
-    <file name="master_a-master.css" crc="127586888" ref="long-project:representation:urban-story:freycinet-barge:turbulences:coco-650:global-schindler-award-2015:first-35:light-structure:rm-1050:machine-vision:windsurfing:dixie:digital-design-literacy-2:sketch:consulting:disassembly:ship-structures-lab:links:structures---materials:spray-hood:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:digital-fabrication:teaching:robotic-interactivity:advances-in-architectural-geometry:artscience-experimentation-to-human-body:digital-fabrication-2:regressive-resolutions:algorithm:robotic---control:digital-design-literacy-3:shuffle-rings:osaka-competition:lighting:march-internship:xxl-3d-printing:barch-internship:virtual-lobby:diploma:digital-fine-arts:thesis:index:mazin-lamps:mad-man:portfolio:gis---cad:regressive-resolutions-2013:design-modelling-symposium:outlying-visions:resume:ship-design-loop:housing-project:sailing-yacht-design:materialization---structuring"/>
+    <file name="master_a-master.css" crc="4153488917" ref="long-project:representation:urban-story:freycinet-barge:turbulences:coco-650:global-schindler-award-2015:first-35:light-structure:rm-1050:machine-vision:windsurfing:dixie:digital-design-literacy-2:sketch:consulting:disassembly:ship-structures-lab:links:structures---materials:spray-hood:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:digital-fabrication:teaching:robotic-interactivity:advances-in-architectural-geometry:artscience-experimentation-to-human-body:digital-fabrication-2:regressive-resolutions:algorithm:robotic---control:digital-design-literacy-3:shuffle-rings:osaka-competition:lighting:march-internship:xxl-3d-printing:barch-internship:virtual-lobby:diploma:digital-fine-arts:thesis:index:mazin-lamps:mad-man:portfolio:gis---cad:regressive-resolutions-2013:design-modelling-symposium:outlying-visions:resume:ship-design-loop:housing-project:sailing-yacht-design:materialization---structuring"/>
     <file name="long-project.css" crc="315617261" ref="long-project"/>
     <file name="iefonts_long-project.css" crc="4098323241" ref="long-project"/>
     <file name="representation.css" crc="375888886" ref="representation"/>
@@ -88,7 +88,7 @@
     <file name="iefonts_digital-fine-arts.css" crc="409111579" ref="digital-fine-arts"/>
     <file name="thesis.css" crc="4052070611" ref="thesis"/>
     <file name="iefonts_thesis.css" crc="3969924261" ref="thesis"/>
-    <file name="index.css" crc="4265909355" ref="index"/>
+    <file name="index.css" crc="3855588144" ref="index"/>
     <file name="mazin-lamps.css" crc="4228927392" ref="mazin-lamps"/>
     <file name="iefonts_mazin-lamps.css" crc="65110823" ref="mazin-lamps"/>
     <file name="mad-man.css" crc="429010390" ref="mad-man"/>
@@ -219,19 +219,18 @@
     <file name="2017-04-21.jpg" crc="4028072908" seo="true" ref="index"/>
     <file name="2017ens012intensif_musee_senso_rezo - red.jpg" crc="443071792" seo="true" ref="index"/>
     <file name="dsc_83512.jpg" crc="4019061346" seo="true" ref="index"/>
-    <file name="mini v22.jpg" crc="3962633163" seo="true" ref="index"/>
-    <file name="rendu bague2 final.png" crc="3790287166" ref="index:portfolio"/>
+    <file name="rendu bague2 final.png" crc="3908245186" ref="index:portfolio" seo="true"/>
     <file name="mazinlamplight03.jpg" crc="402827809" seo="true" ref="index"/>
     <file name="locationgrabber03_gismo9_21.jpg" crc="16221372" seo="true" ref="index"/>
     <file name="highresscreenshot00002.jpg" crc="3999985078" ref="index:design-modelling-symposium" seo="true"/>
-    <file name="20171222_esquisse_18-3d08b2.jpg" crc="4115741589" ref="index:portfolio"/>
-    <file name="3d01.jpg" crc="363697041" ref="index:portfolio"/>
-    <file name="rendu _ d-p.png" crc="3830738258" ref="index:portfolio"/>
+    <file name="20171222_esquisse_18-3d08b2.jpg" crc="283122000" ref="index:portfolio" seo="true"/>
+    <file name="3d01.jpg" crc="3792961174" ref="index:portfolio" seo="true"/>
+    <file name="rendu _ d-p.png" crc="175298103" ref="index:portfolio" seo="true"/>
     <file name="15800137_10211590281411805_5238110828350240211_o - copy.jpg" crc="9804885" seo="true" ref="index"/>
     <file name="5-5-6_fea07.jpg" crc="115316952" seo="true" ref="index"/>
     <file name="scn_0001.jpg" crc="4248273893" seo="true" ref="index"/>
     <file name="campus-centre-recherche.jpg" crc="26910987" seo="true" ref="index"/>
-    <file name="13.jpg" crc="406456043" ref="index:spray-hood"/>
+    <file name="13.jpg" crc="4152730097" ref="index:spray-hood" seo="true"/>
     <file name="img_20170318_0001 - copy.jpg" crc="74934735" seo="true" ref="index"/>
     <file name="img_0020 - copy.jpg" crc="4194930229" seo="true" ref="index"/>
     <file name="339183_4572003097306_1739524510_o - copy.jpg" crc="228515848" seo="true" ref="index"/>
@@ -461,7 +460,7 @@
     <file name="arrow_right-u38298-fr.png" crc="4092908058" ref="spray-hood"/>
     <file name="arrow_right-u38298-r-fr.png" crc="4004836838" ref="spray-hood"/>
   </folder>
-  <file name="index.html" crc="130844847" seo="true" mt="1532586716493" redirect="true"/>
+  <file name="index.html" crc="81628123" seo="true" mt="1532590595570" redirect="true"/>
   <file name="portfolio.html" crc="4071114216" seo="true" mt="1532590352180" redirect="true"/>
   <file name="resume.html" crc="516738912" seo="true" mt="1532590002139" redirect="true"/>
   <file name="dixie.html" crc="471103390" seo="true" mt="1532515427747" redirect="true"/>
