@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532590019840">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1532590357684">
   <folder name="css">
-    <file name="site_global.css" crc="250539110"/>
+    <file name="site_global.css" crc="4123046933"/>
     <file name="master_a-master.css" crc="127586888" ref="long-project:representation:urban-story:freycinet-barge:turbulences:coco-650:global-schindler-award-2015:first-35:light-structure:rm-1050:machine-vision:windsurfing:dixie:digital-design-literacy-2:sketch:consulting:disassembly:ship-structures-lab:links:structures---materials:spray-hood:augmented-reality---immersion-in-3d-virtual-worlds:digital-design-literacy-1:digital-fabrication:teaching:robotic-interactivity:advances-in-architectural-geometry:artscience-experimentation-to-human-body:digital-fabrication-2:regressive-resolutions:algorithm:robotic---control:digital-design-literacy-3:shuffle-rings:osaka-competition:lighting:march-internship:xxl-3d-printing:barch-internship:virtual-lobby:diploma:digital-fine-arts:thesis:index:mazin-lamps:mad-man:portfolio:gis---cad:regressive-resolutions-2013:design-modelling-symposium:outlying-visions:resume:ship-design-loop:housing-project:sailing-yacht-design:materialization---structuring"/>
     <file name="long-project.css" crc="315617261" ref="long-project"/>
     <file name="iefonts_long-project.css" crc="4098323241" ref="long-project"/>
@@ -42,7 +42,7 @@
     <file name="iefonts_links.css" crc="295949603" ref="links"/>
     <file name="structures---materials.css" crc="4124528683" ref="structures---materials"/>
     <file name="iefonts_structures---materials.css" crc="401638984" ref="structures---materials"/>
-    <file name="spray-hood.css" crc="3861394723" ref="spray-hood"/>
+    <file name="spray-hood.css" crc="44529858" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="4183469126" ref="spray-hood"/>
     <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4256566640" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="3763550937" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
@@ -462,7 +462,7 @@
     <file name="arrow_right-u38298-r-fr.png" crc="4004836838" ref="spray-hood"/>
   </folder>
   <file name="index.html" crc="130844847" seo="true" mt="1532586716493" redirect="true"/>
-  <file name="portfolio.html" crc="4132831145" seo="true" mt="1532590013881" redirect="true"/>
+  <file name="portfolio.html" crc="4071114216" seo="true" mt="1532590352180" redirect="true"/>
   <file name="resume.html" crc="516738912" seo="true" mt="1532590002139" redirect="true"/>
   <file name="dixie.html" crc="471103390" seo="true" mt="1532515427747" redirect="true"/>
   <file name="consulting.html" crc="164681189" seo="true" mt="1532589163880" redirect="true"/>
@@ -516,5 +516,5 @@
   <file name="windsurfing.html" crc="4169286098" seo="true" mt="1532515427747" redirect="true"/>
   <file name="sketch.html" crc="243269120" seo="true" mt="1532527170577" redirect="true"/>
   <file name="ship-structures-lab.html" crc="4283029713" seo="true" mt="1532536965643" redirect="true"/>
-  <file name="spray-hood.html" crc="98458214" seo="true" mt="1532590013879" redirect="true"/>
+  <file name="spray-hood.html" crc="4127078201" seo="true" mt="1532590352178" redirect="true"/>
 </manifest>
