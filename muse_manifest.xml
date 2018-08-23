@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1534958892753">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1535031103680">
   <folder name="css">
-    <file name="site_global.css" crc="4123046933"/>
+    <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="209109223" ref="spray-hood:shuffle-rings:thesis:lighting:mad-man:xxl-3d-printing:regressive-resolutions-2013:virtual-lobby:outlying-visions:housing-project:digital-fine-arts:materialization---structuring:mazin-lamps:representation:gis---cad:windsurfing:urban-story:design-modelling-symposium:sketch:turbulences:dixie:ship-design-loop:global-schindler-award-2015:consulting:sailing-yacht-design:light-structure:links:machine-vision:long-project:digital-design-literacy-2:augmented-reality---immersion-in-3d-virtual-worlds:robotic-interactivity:freycinet-barge:disassembly:coco-650:regressive-resolutions:structures---materials:robotic---control:first-35:digital-design-literacy-1:artscience-experimentation-to-human-body:digital-fabrication:teaching:osaka-competition:rm-1050:digital-design-literacy-3:advances-in-architectural-geometry:march-internship:ship-structures-lab:portfolio:digital-fabrication-2:barch-internship:index:diploma:resume:algorithm:nemo:msc-internship"/>
     <file name="spray-hood.css" crc="73871930" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="371018123" ref="spray-hood"/>
@@ -115,7 +115,7 @@
     <file name="iefonts_algorithm.css" crc="4150553142" ref="algorithm"/>
     <file name="nemo.css" crc="4276318521" ref="nemo"/>
     <file name="iefonts_nemo.css" crc="3839857115" ref="nemo"/>
-    <file name="msc-internship.css" crc="4276115951" ref="msc-internship"/>
+    <file name="msc-internship.css" crc="4066597460" ref="msc-internship"/>
     <file name="iefonts_msc-internship.css" crc="315317755" ref="msc-internship"/>
   </folder>
   <folder name="assets">
@@ -461,7 +461,7 @@
     <file name="nemo-1mono.png" crc="3976803948" seo="true" ref="index"/>
     <file name="nemo-2multi.jpg" crc="3886558557" ref="msc-internship"/>
     <file name="nemo-1mono-u38371-fr.jpg" crc="114043420" ref="msc-internship"/>
-    <file name="nemo-3_savitsky-u38370-fr.jpg" crc="3940911639" ref="msc-internship"/>
+    <file name="nemo-3_savitsky-u38370-fr.jpg" crc="3984139405" ref="msc-internship"/>
     <file name="nemo-1mono-u38531-fr.jpg" crc="265115224" ref="nemo"/>
     <file name="arrow_left-u38362-fr.png" crc="4092908058" ref="msc-internship"/>
     <file name="arrow_left-u38362-r-fr.png" crc="355580610" ref="msc-internship"/>
@@ -526,5 +526,5 @@
   <file name="ship-structures-lab.html" crc="3932558995" seo="true" mt="1534933728167" redirect="true"/>
   <file name="spray-hood.html" crc="345413169" seo="true" mt="1534933728167" redirect="true"/>
   <file name="nemo.html" crc="520189168" seo="true" mt="1534958882124" redirect="true"/>
-  <file name="msc-internship.html" crc="4070414571" seo="true" mt="1534958841146" redirect="true"/>
+  <file name="msc-internship.html" crc="250779583" seo="true" mt="1535031086650" redirect="true"/>
 </manifest>
