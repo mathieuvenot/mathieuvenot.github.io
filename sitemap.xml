@@ -415,19 +415,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
-    <lastmod>2018-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/20171222_esquisse_18-3d08b2.jpg</loc>
+    <loc>http://mathieuvenot.com/images/nemo-1mono829x446.jpg</loc>
     <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/3d01.jpg</loc>
+    <lastmod>2018-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/20171222_esquisse_18-3d08b2.jpg</loc>
     <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -536,12 +536,6 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/project_arrow_right.png</loc>
-    <lastmod>2018-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/nemo-1mono829x446.jpg</loc>
     <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -877,13 +871,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/15800137_10211590281411805_5238110828350240211_o%20-%20copy.jpg</loc>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <loc>http://mathieuvenot.com/images/15800137_10211590281411805_5238110828350240211_o%20-%20copy.jpg</loc>
     <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
