@@ -1,121 +1,121 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1536519893007">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1536822086469">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
-    <file name="master_a-master.css" crc="4023720726" ref="digital-fabrication-2:rm-1050:housing-project:portfolio:first-35:freycinet-barge:outlying-visions:robotic-interactivity:materialization---structuring:regressive-resolutions-2013:index:advances-in-architectural-geometry:sailing-yacht-design:mad-man:algorithm:digital-fabrication:ship-design-loop:digital-design-literacy-1:teaching:structures---materials:long-project:turbulences:thesis:design-modelling-symposium:diploma:links:augmented-reality---immersion-in-3d-virtual-worlds:consulting:dixie:gis---cad:mazin-lamps:barch-internship:resume:digital-fine-arts:nemo:msc-internship:march-internship:xxl-3d-printing:spray-hood:virtual-lobby:digital-design-literacy-3:disassembly:osaka-competition:robotic---control:digital-design-literacy-2:ship-structures-lab:machine-vision:urban-story:regressive-resolutions:shuffle-rings:representation:global-schindler-award-2015:sketch:light-structure:artscience-experimentation-to-human-body:coco-650:windsurfing:lighting"/>
-    <file name="digital-fabrication-2.css" crc="4221575093" ref="digital-fabrication-2"/>
+    <file name="master_a-master.css" crc="209109223" ref="digital-fabrication-2:rm-1050:housing-project:portfolio:first-35:freycinet-barge:outlying-visions:robotic-interactivity:materialization---structuring:regressive-resolutions-2013:index:advances-in-architectural-geometry:sailing-yacht-design:mad-man:algorithm:digital-fabrication:ship-design-loop:digital-design-literacy-1:teaching:structures---materials:long-project:turbulences:thesis:design-modelling-symposium:diploma:links:augmented-reality---immersion-in-3d-virtual-worlds:consulting:dixie:gis---cad:mazin-lamps:barch-internship:resume:digital-fine-arts:nemo:msc-internship:march-internship:xxl-3d-printing:spray-hood:virtual-lobby:digital-design-literacy-3:disassembly:osaka-competition:robotic---control:digital-design-literacy-2:ship-structures-lab:machine-vision:urban-story:regressive-resolutions:shuffle-rings:representation:global-schindler-award-2015:sketch:light-structure:artscience-experimentation-to-human-body:coco-650:windsurfing:lighting"/>
+    <file name="digital-fabrication-2.css" crc="4026850743" ref="digital-fabrication-2"/>
     <file name="iefonts_digital-fabrication-2.css" crc="169837704" ref="digital-fabrication-2"/>
-    <file name="rm-1050.css" crc="4071642681" ref="rm-1050"/>
+    <file name="rm-1050.css" crc="4117991241" ref="rm-1050"/>
     <file name="iefonts_rm-1050.css" crc="502249090" ref="rm-1050"/>
-    <file name="housing-project.css" crc="29504045" ref="housing-project"/>
+    <file name="housing-project.css" crc="3950343966" ref="housing-project"/>
     <file name="iefonts_housing-project.css" crc="385665984" ref="housing-project"/>
-    <file name="portfolio.css" crc="415451970" ref="portfolio"/>
+    <file name="portfolio.css" crc="3824745596" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="4218901200" ref="portfolio"/>
-    <file name="first-35.css" crc="34970046" ref="first-35"/>
+    <file name="first-35.css" crc="336511360" ref="first-35"/>
     <file name="iefonts_first-35.css" crc="178440537" ref="first-35"/>
-    <file name="freycinet-barge.css" crc="3889408677" ref="freycinet-barge"/>
+    <file name="freycinet-barge.css" crc="4262999998" ref="freycinet-barge"/>
     <file name="iefonts_freycinet-barge.css" crc="52187099" ref="freycinet-barge"/>
-    <file name="outlying-visions.css" crc="359002219" ref="outlying-visions"/>
+    <file name="outlying-visions.css" crc="4274387927" ref="outlying-visions"/>
     <file name="iefonts_outlying-visions.css" crc="124623248" ref="outlying-visions"/>
-    <file name="robotic-interactivity.css" crc="250372736" ref="robotic-interactivity"/>
+    <file name="robotic-interactivity.css" crc="4225840045" ref="robotic-interactivity"/>
     <file name="iefonts_robotic-interactivity.css" crc="14505877" ref="robotic-interactivity"/>
-    <file name="materialization---structuring.css" crc="468111572" ref="materialization---structuring"/>
+    <file name="materialization---structuring.css" crc="4152468116" ref="materialization---structuring"/>
     <file name="iefonts_materialization---structuring.css" crc="329818571" ref="materialization---structuring"/>
-    <file name="regressive-resolutions-2013.css" crc="3775031407" ref="regressive-resolutions-2013"/>
+    <file name="regressive-resolutions-2013.css" crc="170218295" ref="regressive-resolutions-2013"/>
     <file name="iefonts_regressive-resolutions-2013.css" crc="482854357" ref="regressive-resolutions-2013"/>
-    <file name="index.css" crc="4204930556" ref="index"/>
-    <file name="advances-in-architectural-geometry.css" crc="4046925526" ref="advances-in-architectural-geometry"/>
+    <file name="index.css" crc="4213137672" ref="index"/>
+    <file name="advances-in-architectural-geometry.css" crc="4051635759" ref="advances-in-architectural-geometry"/>
     <file name="iefonts_advances-in-architectural-geometry.css" crc="4277485092" ref="advances-in-architectural-geometry"/>
-    <file name="sailing-yacht-design.css" crc="293444750" ref="sailing-yacht-design"/>
+    <file name="sailing-yacht-design.css" crc="4170349900" ref="sailing-yacht-design"/>
     <file name="iefonts_sailing-yacht-design.css" crc="459367495" ref="sailing-yacht-design"/>
-    <file name="mad-man.css" crc="3797394743" ref="mad-man"/>
+    <file name="mad-man.css" crc="3979275798" ref="mad-man"/>
     <file name="iefonts_mad-man.css" crc="435068465" ref="mad-man"/>
-    <file name="algorithm.css" crc="272426848" ref="algorithm"/>
+    <file name="algorithm.css" crc="79160783" ref="algorithm"/>
     <file name="iefonts_algorithm.css" crc="4150553142" ref="algorithm"/>
-    <file name="digital-fabrication.css" crc="3957388630" ref="digital-fabrication"/>
+    <file name="digital-fabrication.css" crc="85665058" ref="digital-fabrication"/>
     <file name="iefonts_digital-fabrication.css" crc="262150056" ref="digital-fabrication"/>
-    <file name="ship-design-loop.css" crc="3788017717" ref="ship-design-loop"/>
+    <file name="ship-design-loop.css" crc="3953971891" ref="ship-design-loop"/>
     <file name="iefonts_ship-design-loop.css" crc="518073635" ref="ship-design-loop"/>
-    <file name="digital-design-literacy-1.css" crc="3850559606" ref="digital-design-literacy-1"/>
+    <file name="digital-design-literacy-1.css" crc="381464662" ref="digital-design-literacy-1"/>
     <file name="iefonts_digital-design-literacy-1.css" crc="3777820853" ref="digital-design-literacy-1"/>
-    <file name="teaching.css" crc="338479765" ref="teaching"/>
+    <file name="teaching.css" crc="4288175564" ref="teaching"/>
     <file name="iefonts_teaching.css" crc="4018684406" ref="teaching"/>
-    <file name="structures---materials.css" crc="167385241" ref="structures---materials"/>
+    <file name="structures---materials.css" crc="271120311" ref="structures---materials"/>
     <file name="iefonts_structures---materials.css" crc="4224352160" ref="structures---materials"/>
-    <file name="long-project.css" crc="4219925004" ref="long-project"/>
+    <file name="long-project.css" crc="62836906" ref="long-project"/>
     <file name="iefonts_long-project.css" crc="4041588237" ref="long-project"/>
-    <file name="turbulences.css" crc="3985672387" ref="turbulences"/>
+    <file name="turbulences.css" crc="4038777521" ref="turbulences"/>
     <file name="iefonts_turbulences.css" crc="19367434" ref="turbulences"/>
-    <file name="thesis.css" crc="4228029548" ref="thesis"/>
+    <file name="thesis.css" crc="4146127649" ref="thesis"/>
     <file name="iefonts_thesis.css" crc="121220305" ref="thesis"/>
-    <file name="design-modelling-symposium.css" crc="449412124" ref="design-modelling-symposium"/>
+    <file name="design-modelling-symposium.css" crc="3988263024" ref="design-modelling-symposium"/>
     <file name="iefonts_design-modelling-symposium.css" crc="231476160" ref="design-modelling-symposium"/>
-    <file name="diploma.css" crc="3798547177" ref="diploma"/>
+    <file name="diploma.css" crc="194208577" ref="diploma"/>
     <file name="iefonts_diploma.css" crc="4118148709" ref="diploma"/>
-    <file name="links.css" crc="4278079660" ref="links"/>
+    <file name="links.css" crc="3765595783" ref="links"/>
     <file name="iefonts_links.css" crc="132582500" ref="links"/>
-    <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="292081537" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
+    <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="24030649" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="3772799186" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
-    <file name="consulting.css" crc="3771352976" ref="consulting"/>
+    <file name="consulting.css" crc="304913738" ref="consulting"/>
     <file name="iefonts_consulting.css" crc="4000631489" ref="consulting"/>
-    <file name="dixie.css" crc="3851899802" ref="dixie"/>
+    <file name="dixie.css" crc="4218754722" ref="dixie"/>
     <file name="iefonts_dixie.css" crc="4066806876" ref="dixie"/>
-    <file name="gis---cad.css" crc="516592235" ref="gis---cad"/>
+    <file name="gis---cad.css" crc="4064652785" ref="gis---cad"/>
     <file name="iefonts_gis---cad.css" crc="3983348204" ref="gis---cad"/>
-    <file name="mazin-lamps.css" crc="150206880" ref="mazin-lamps"/>
+    <file name="mazin-lamps.css" crc="80783225" ref="mazin-lamps"/>
     <file name="iefonts_mazin-lamps.css" crc="3970328298" ref="mazin-lamps"/>
-    <file name="barch-internship.css" crc="249906732" ref="barch-internship"/>
+    <file name="barch-internship.css" crc="3967055431" ref="barch-internship"/>
     <file name="iefonts_barch-internship.css" crc="425732823" ref="barch-internship"/>
-    <file name="resume.css" crc="289067086" ref="resume"/>
+    <file name="resume.css" crc="4009138747" ref="resume"/>
     <file name="iefonts_resume.css" crc="3922039689" ref="resume"/>
-    <file name="digital-fine-arts.css" crc="259926726" ref="digital-fine-arts"/>
+    <file name="digital-fine-arts.css" crc="430695497" ref="digital-fine-arts"/>
     <file name="iefonts_digital-fine-arts.css" crc="453496387" ref="digital-fine-arts"/>
-    <file name="nemo.css" crc="384776566" ref="nemo"/>
+    <file name="nemo.css" crc="64784586" ref="nemo"/>
     <file name="iefonts_nemo.css" crc="248704154" ref="nemo"/>
-    <file name="msc-internship.css" crc="67644626" ref="msc-internship"/>
+    <file name="msc-internship.css" crc="159754346" ref="msc-internship"/>
     <file name="iefonts_msc-internship.css" crc="479988795" ref="msc-internship"/>
-    <file name="march-internship.css" crc="348452169" ref="march-internship"/>
+    <file name="march-internship.css" crc="479822621" ref="march-internship"/>
     <file name="iefonts_march-internship.css" crc="3931023721" ref="march-internship"/>
-    <file name="xxl-3d-printing.css" crc="436770868" ref="xxl-3d-printing"/>
+    <file name="xxl-3d-printing.css" crc="382823506" ref="xxl-3d-printing"/>
     <file name="iefonts_xxl-3d-printing.css" crc="3969360399" ref="xxl-3d-printing"/>
-    <file name="spray-hood.css" crc="3777518451" ref="spray-hood"/>
+    <file name="spray-hood.css" crc="517144048" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="371018123" ref="spray-hood"/>
-    <file name="virtual-lobby.css" crc="40821140" ref="virtual-lobby"/>
+    <file name="virtual-lobby.css" crc="4057246521" ref="virtual-lobby"/>
     <file name="iefonts_virtual-lobby.css" crc="4066054388" ref="virtual-lobby"/>
-    <file name="digital-design-literacy-3.css" crc="352801038" ref="digital-design-literacy-3"/>
+    <file name="digital-design-literacy-3.css" crc="212168352" ref="digital-design-literacy-3"/>
     <file name="iefonts_digital-design-literacy-3.css" crc="4281623781" ref="digital-design-literacy-3"/>
-    <file name="disassembly.css" crc="4176162536" ref="disassembly"/>
+    <file name="disassembly.css" crc="3846600294" ref="disassembly"/>
     <file name="iefonts_disassembly.css" crc="3815514875" ref="disassembly"/>
-    <file name="osaka-competition.css" crc="3962079040" ref="osaka-competition"/>
+    <file name="osaka-competition.css" crc="7977215" ref="osaka-competition"/>
     <file name="iefonts_osaka-competition.css" crc="64952078" ref="osaka-competition"/>
-    <file name="robotic---control.css" crc="23224150" ref="robotic---control"/>
+    <file name="robotic---control.css" crc="4039769646" ref="robotic---control"/>
     <file name="iefonts_robotic---control.css" crc="47148158" ref="robotic---control"/>
-    <file name="digital-design-literacy-2.css" crc="3772452043" ref="digital-design-literacy-2"/>
+    <file name="digital-design-literacy-2.css" crc="4083815013" ref="digital-design-literacy-2"/>
     <file name="iefonts_digital-design-literacy-2.css" crc="4108274546" ref="digital-design-literacy-2"/>
-    <file name="ship-structures-lab.css" crc="236808436" ref="ship-structures-lab"/>
+    <file name="ship-structures-lab.css" crc="105867770" ref="ship-structures-lab"/>
     <file name="iefonts_ship-structures-lab.css" crc="487531823" ref="ship-structures-lab"/>
-    <file name="machine-vision.css" crc="506207433" ref="machine-vision"/>
+    <file name="machine-vision.css" crc="4255461303" ref="machine-vision"/>
     <file name="iefonts_machine-vision.css" crc="427140926" ref="machine-vision"/>
-    <file name="urban-story.css" crc="428590123" ref="urban-story"/>
+    <file name="urban-story.css" crc="4163865575" ref="urban-story"/>
     <file name="iefonts_urban-story.css" crc="3866425918" ref="urban-story"/>
-    <file name="regressive-resolutions.css" crc="4120093119" ref="regressive-resolutions"/>
+    <file name="regressive-resolutions.css" crc="77055314" ref="regressive-resolutions"/>
     <file name="iefonts_regressive-resolutions.css" crc="434859196" ref="regressive-resolutions"/>
-    <file name="shuffle-rings.css" crc="4032632556" ref="shuffle-rings"/>
+    <file name="shuffle-rings.css" crc="4195360050" ref="shuffle-rings"/>
     <file name="iefonts_shuffle-rings.css" crc="4276897387" ref="shuffle-rings"/>
-    <file name="representation.css" crc="208205461" ref="representation"/>
+    <file name="representation.css" crc="3910805976" ref="representation"/>
     <file name="iefonts_representation.css" crc="394623496" ref="representation"/>
-    <file name="global-schindler-award-2015.css" crc="4025108653" ref="global-schindler-award-2015"/>
+    <file name="global-schindler-award-2015.css" crc="221309449" ref="global-schindler-award-2015"/>
     <file name="iefonts_global-schindler-award-2015.css" crc="3994328694" ref="global-schindler-award-2015"/>
-    <file name="sketch.css" crc="29593957" ref="sketch"/>
+    <file name="sketch.css" crc="3969048635" ref="sketch"/>
     <file name="iefonts_sketch.css" crc="4136029058" ref="sketch"/>
-    <file name="light-structure.css" crc="4069118166" ref="light-structure"/>
+    <file name="light-structure.css" crc="3835562157" ref="light-structure"/>
     <file name="iefonts_light-structure.css" crc="294152221" ref="light-structure"/>
-    <file name="artscience-experimentation-to-human-body.css" crc="4205227467" ref="artscience-experimentation-to-human-body"/>
+    <file name="artscience-experimentation-to-human-body.css" crc="236708544" ref="artscience-experimentation-to-human-body"/>
     <file name="iefonts_artscience-experimentation-to-human-body.css" crc="475868918" ref="artscience-experimentation-to-human-body"/>
-    <file name="coco-650.css" crc="132581317" ref="coco-650"/>
+    <file name="coco-650.css" crc="342420047" ref="coco-650"/>
     <file name="iefonts_coco-650.css" crc="3967730778" ref="coco-650"/>
-    <file name="windsurfing.css" crc="49878858" ref="windsurfing"/>
+    <file name="windsurfing.css" crc="199071239" ref="windsurfing"/>
     <file name="iefonts_windsurfing.css" crc="4011058559" ref="windsurfing"/>
-    <file name="lighting.css" crc="323792898" ref="lighting"/>
+    <file name="lighting.css" crc="92890593" ref="lighting"/>
     <file name="iefonts_lighting.css" crc="4283382322" ref="lighting"/>
   </folder>
   <folder name="assets">
@@ -158,29 +158,29 @@
     <file name="require.js" crc="244322403" ref="index:portfolio:resume:dixie:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:teaching:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="276223592" ref="index:consulting"/>
-    <file name="home_n.png" crc="195540747" ref="index:consulting"/>
-    <file name="home_h.png" crc="375260037" ref="index:consulting"/>
-    <file name="home_d.png" crc="298050461" ref="index:consulting"/>
-    <file name="info_n.png" crc="3868368729" ref="index:consulting"/>
-    <file name="info_h.png" crc="4151302484" ref="index:consulting"/>
-    <file name="info_d.png" crc="107259636" ref="index:consulting"/>
-    <file name="work_n.png" crc="53164764" ref="index:consulting"/>
-    <file name="work_h.png" crc="3840438204" ref="index:consulting"/>
-    <file name="work_d.png" crc="3905934363" ref="index:consulting"/>
-    <file name="freelancen.png" crc="4040650890" ref="index:consulting"/>
-    <file name="freelance.png" crc="4245718626" ref="index:consulting"/>
-    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index:consulting"/>
-    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index:consulting"/>
-    <file name="logo (2)n.png" crc="3905406248" ref="index:consulting"/>
-    <file name="logo (2).png" crc="3910590886" ref="index:consulting"/>
-    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index:consulting"/>
-    <file name="nemov2-04_bw.png" crc="397504776" ref="index:consulting"/>
-    <file name="linkn.png" crc="11545926" ref="index:consulting"/>
-    <file name="link.png" crc="202725025" ref="index:consulting"/>
-    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:consulting"/>
-    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:consulting"/>
-    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:consulting"/>
+    <file name="favicon.ico" crc="276223592" ref="index"/>
+    <file name="home_n.png" crc="195540747" ref="index"/>
+    <file name="home_h.png" crc="375260037" ref="index"/>
+    <file name="home_d.png" crc="298050461" ref="index"/>
+    <file name="info_n.png" crc="3868368729" ref="index"/>
+    <file name="info_h.png" crc="4151302484" ref="index"/>
+    <file name="info_d.png" crc="107259636" ref="index"/>
+    <file name="work_n.png" crc="53164764" ref="index"/>
+    <file name="work_h.png" crc="3840438204" ref="index"/>
+    <file name="work_d.png" crc="3905934363" ref="index"/>
+    <file name="freelancen.png" crc="4040650890" ref="index"/>
+    <file name="freelance.png" crc="4245718626" ref="index"/>
+    <file name="logo-expanding-abilities201n.png" crc="4271900121" ref="index"/>
+    <file name="logo-expanding-abilities201.png" crc="4068223400" ref="index"/>
+    <file name="logo (2)n.png" crc="3905406248" ref="index"/>
+    <file name="logo (2).png" crc="3910590886" ref="index"/>
+    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index"/>
+    <file name="nemov2-04_bw.png" crc="397504776" ref="index"/>
+    <file name="linkn.png" crc="11545926" ref="index"/>
+    <file name="link.png" crc="202725025" ref="index"/>
+    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index"/>
+    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index"/>
+    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index"/>
     <file name="stacks_image_211.jpg" crc="4031575006" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="stacks_image_215.jpg" crc="3807325114" seo="true" ref="index"/>
@@ -252,7 +252,7 @@
     <file name="stacks_image_543-u1188-fr.jpg" crc="187211201" ref="index"/>
     <file name="git01.png" crc="4224509423" seo="true" ref="index:portfolio:resume:dixie:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:teaching:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo"/>
     <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:dixie:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:teaching:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo"/>
-    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:consulting"/>
+    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index"/>
     <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:dixie:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:teaching:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo"/>
     <file name="highresscreenshot00002-u33517-fr.jpg" crc="4101537292" ref="portfolio"/>
     <file name="2017-04-21-u34818-fr.jpg" crc="4270435258" ref="portfolio"/>
@@ -465,62 +465,62 @@
     <file name="nemo-3_savitsky-u38370-fr.jpg" crc="3984139405" ref="msc-internship"/>
     <file name="nemo-1mono-u38531-fr.jpg" crc="265115224" ref="nemo"/>
   </folder>
-  <file name="index.html" crc="118072065" seo="true" mt="1536152871970" redirect="true"/>
-  <file name="portfolio.html" crc="4278692833" seo="true" mt="1535378405176" redirect="true"/>
-  <file name="resume.html" crc="196625718" seo="true" mt="1536516751306" redirect="true"/>
-  <file name="dixie.html" crc="3799883933" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="consulting.html" crc="28559578" seo="true" mt="1536519862346" redirect="true"/>
-  <file name="links.html" crc="247372985" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="96065219" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-fabrication.html" crc="527956684" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="robotic-interactivity.html" crc="3940365733" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="artscience-experimentation-to-human-body.html" crc="4158064553" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="regressive-resolutions.html" crc="65929055" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="robotic---control.html" crc="4279025317" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-design-literacy-3.html" crc="3819009239" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="osaka-competition.html" crc="3845454398" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="march-internship.html" crc="438353639" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="barch-internship.html" crc="3969314767" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="diploma.html" crc="4140727578" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="thesis.html" crc="4044431746" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="mad-man.html" crc="371811418" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="regressive-resolutions-2013.html" crc="276789984" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="outlying-visions.html" crc="294420522" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="housing-project.html" crc="380518064" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="materialization---structuring.html" crc="3827923169" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="representation.html" crc="509123524" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="urban-story.html" crc="4181616603" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="turbulences.html" crc="520241030" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="global-schindler-award-2015.html" crc="163890277" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="light-structure.html" crc="12829787" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="machine-vision.html" crc="31478725" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-design-literacy-2.html" crc="174472164" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="disassembly.html" crc="4123420707" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="structures---materials.html" crc="3945785923" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-design-literacy-1.html" crc="192968721" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="teaching.html" crc="31474148" seo="true" mt="1536517279068" redirect="true"/>
-  <file name="advances-in-architectural-geometry.html" crc="430669144" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-fabrication-2.html" crc="329281333" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="algorithm.html" crc="3886203819" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="shuffle-rings.html" crc="35843200" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="lighting.html" crc="267729410" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="xxl-3d-printing.html" crc="318983501" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="virtual-lobby.html" crc="3876781151" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="digital-fine-arts.html" crc="489780748" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="mazin-lamps.html" crc="232057230" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="gis---cad.html" crc="12677628" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="design-modelling-symposium.html" crc="42426805" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="ship-design-loop.html" crc="4095258618" seo="true" mt="1536152823950" redirect="true"/>
-  <file name="sailing-yacht-design.html" crc="397600922" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="long-project.html" crc="479241234" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="freycinet-barge.html" crc="168057551" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="coco-650.html" crc="4213348589" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="first-35.html" crc="89415576" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="rm-1050.html" crc="232230649" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="windsurfing.html" crc="259144810" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="sketch.html" crc="4116743606" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="ship-structures-lab.html" crc="153890447" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="spray-hood.html" crc="336402359" seo="true" mt="1535045783654" redirect="true"/>
-  <file name="msc-internship.html" crc="3947905114" seo="true" mt="1536055299595" redirect="true"/>
-  <file name="nemo.html" crc="3955521858" seo="true" mt="1535099079585" redirect="true"/>
+  <file name="index.html" crc="476339174" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="portfolio.html" crc="4125045521" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="resume.html" crc="4172373186" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="dixie.html" crc="4288340391" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="consulting.html" crc="501475816" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="links.html" crc="386296015" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4291974975" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-fabrication.html" crc="230732280" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="robotic-interactivity.html" crc="358885189" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="artscience-experimentation-to-human-body.html" crc="3933728188" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="regressive-resolutions.html" crc="4041541530" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="robotic---control.html" crc="3824583430" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-design-literacy-3.html" crc="3885204700" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="osaka-competition.html" crc="257859378" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="march-internship.html" crc="181512951" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="barch-internship.html" crc="34210803" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="diploma.html" crc="221003739" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="thesis.html" crc="3906788831" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="mad-man.html" crc="424402095" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="regressive-resolutions-2013.html" crc="3988179591" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="outlying-visions.html" crc="159208601" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="housing-project.html" crc="4254531492" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="materialization---structuring.html" crc="305567189" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="representation.html" crc="3872425838" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="urban-story.html" crc="191365991" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="turbulences.html" crc="97893883" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="global-schindler-award-2015.html" crc="354626806" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="light-structure.html" crc="4055071164" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="machine-vision.html" crc="4098063888" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-design-literacy-2.html" crc="317408606" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="disassembly.html" crc="124521244" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="structures---materials.html" crc="406313040" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-design-literacy-1.html" crc="476661346" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="teaching.html" crc="4180340085" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="advances-in-architectural-geometry.html" crc="4238398126" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-fabrication-2.html" crc="443096669" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="algorithm.html" crc="114322207" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="shuffle-rings.html" crc="4083547752" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="lighting.html" crc="367658578" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="xxl-3d-printing.html" crc="258522998" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="virtual-lobby.html" crc="4041889319" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="digital-fine-arts.html" crc="141142517" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="mazin-lamps.html" crc="4054609536" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="gis---cad.html" crc="4018625449" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="design-modelling-symposium.html" crc="347975472" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="ship-design-loop.html" crc="169903579" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="sailing-yacht-design.html" crc="180601002" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="long-project.html" crc="266274855" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="freycinet-barge.html" crc="3782100714" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="coco-650.html" crc="3770469548" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="first-35.html" crc="4081245092" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="rm-1050.html" crc="72571664" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="windsurfing.html" crc="3946432394" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="sketch.html" crc="4130278304" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="ship-structures-lab.html" crc="455755064" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="spray-hood.html" crc="4134231434" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="msc-internship.html" crc="181794000" seo="true" mt="1536822019178" redirect="true"/>
+  <file name="nemo.html" crc="3966007078" seo="true" mt="1536822019178" redirect="true"/>
 </manifest>
