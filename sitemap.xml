@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/msc-internship.html</loc>
+    <loc>http://mathieuvenot.com/nemo.html</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/nemo.html</loc>
+    <loc>http://mathieuvenot.com/msc-internship.html</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -331,19 +331,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2018-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/resume.html</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_640.jpg</loc>
+    <loc>http://mathieuvenot.com/portfolio.html</loc>
+    <lastmod>2018-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -355,13 +355,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_637.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_630.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_640.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -379,13 +379,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_637.jpg</loc>
+    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
+    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -415,6 +415,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
+    <lastmod>2018-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mathieuvenot.com/images/nemo-1mono829x446.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -433,13 +439,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/2017ens012intensif_musee_senso_rezo%20-%20red.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_555.png</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_607.jpg</loc>
     <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -865,14 +871,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/rendu%20_%20d-p.png</loc>
-    <lastmod>2018-09-14</lastmod>
+    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
+    <lastmod>2018-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
-    <lastmod>2018-09-09</lastmod>
+    <loc>http://mathieuvenot.com/images/rendu%20_%20d-p.png</loc>
+    <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
