@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1537949943742">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1538072583433">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="518022268" ref="links:advances-in-architectural-geometry:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication-2:digital-fabrication:nemo:materialization---structuring:robotic-interactivity:artscience-experimentation-to-human-body:shuffle-rings:index:lighting:algorithm:xxl-3d-printing:regressive-resolutions:virtual-lobby:robotic---control:digital-fine-arts:digital-design-literacy-3:mazin-lamps:osaka-competition:gis---cad:march-internship:design-modelling-symposium:barch-internship:ship-design-loop:diploma:sailing-yacht-design:thesis:long-project:mad-man:portfolio:urban-story:freycinet-barge:representation:turbulences:coco-650:regressive-resolutions-2013:outlying-visions:first-35:light-structure:resume:rm-1050:global-schindler-award-2015:machine-vision:windsurfing:digital-design-literacy-2:sketch:disassembly:ship-structures-lab:structures---materials:spray-hood:housing-project:digital-design-literacy-1:msc-internship:consulting:dixie"/>
@@ -22,7 +22,7 @@
     <file name="iefonts_artscience-experimentation-to-human-body.css" crc="279184955" ref="artscience-experimentation-to-human-body"/>
     <file name="shuffle-rings.css" crc="131257129" ref="shuffle-rings"/>
     <file name="iefonts_shuffle-rings.css" crc="299204181" ref="shuffle-rings"/>
-    <file name="index.css" crc="407396804" ref="index"/>
+    <file name="index.css" crc="333530197" ref="index"/>
     <file name="lighting.css" crc="4010932536" ref="lighting"/>
     <file name="iefonts_lighting.css" crc="364977825" ref="lighting"/>
     <file name="algorithm.css" crc="3980069018" ref="algorithm"/>
@@ -83,8 +83,8 @@
     <file name="iefonts_first-35.css" crc="370197493" ref="first-35"/>
     <file name="light-structure.css" crc="523376416" ref="light-structure"/>
     <file name="iefonts_light-structure.css" crc="4211494030" ref="light-structure"/>
-    <file name="resume.css" crc="3763706960" ref="resume"/>
-    <file name="iefonts_resume.css" crc="3787121731" ref="resume"/>
+    <file name="resume.css" crc="394937978" ref="resume"/>
+    <file name="iefonts_resume.css" crc="4014189044" ref="resume"/>
     <file name="rm-1050.css" crc="171450037" ref="rm-1050"/>
     <file name="iefonts_rm-1050.css" crc="22920238" ref="rm-1050"/>
     <file name="global-schindler-award-2015.css" crc="319437208" ref="global-schindler-award-2015"/>
@@ -117,8 +117,8 @@
     <file name="iefonts_dixie.css" crc="3843126247" ref="dixie"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="327353694" seo="true" mt="1537286459000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="4081000379" seo="true" mt="1537286440000"/>
+    <file name="venot_mathieu--cven.pdf" crc="3949911560" seo="true" mt="1538072341000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="4010997" seo="true" mt="1538072352000"/>
     <file name="venot_mathieu--book.pdf" crc="3783991399" seo="true" mt="1536516476000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
@@ -458,9 +458,9 @@
     <file name="nemo-3_savitsky-u38370-fr.jpg" crc="3984139405" ref="msc-internship"/>
     <file name="nemo-1mono-u38531-fr.jpg" crc="265115224" ref="nemo"/>
   </folder>
-  <file name="index.html" crc="3870816759" seo="true" mt="1537949928764" redirect="true"/>
+  <file name="index.html" crc="4198410912" seo="true" mt="1536914146440" redirect="true"/>
   <file name="portfolio.html" crc="3933942288" seo="true" mt="1536913373444" redirect="true"/>
-  <file name="resume.html" crc="406954555" seo="true" mt="1537286514695" redirect="true"/>
+  <file name="resume.html" crc="3993618220" seo="true" mt="1538072433621" redirect="true"/>
   <file name="dixie.html" crc="3797107479" seo="true" mt="1536913373444" redirect="true"/>
   <file name="consulting.html" crc="4090184068" seo="true" mt="1537949909182" redirect="true"/>
   <file name="links.html" crc="82466810" seo="true" mt="1537286675550" redirect="true"/>
