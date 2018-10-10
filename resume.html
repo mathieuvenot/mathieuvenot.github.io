@@ -10,18 +10,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "resume.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "resume.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=276223592"/>
   <title>RESUME</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4123046933"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=377981331"/>
-  <link rel="stylesheet" type="text/css" href="css/resume.css?crc=3956180716" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3867962830"/>
+  <link rel="stylesheet" type="text/css" href="css/resume.css?crc=4242793926" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?crc=471158112"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?crc=3982441212"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -29,7 +29,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/open-sans:n4,i3,n7,i4:all;questrial:n4:all;asap:n4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/questrial:n4:all;asap:n4:all;open-sans:n4,i3,n7,i4:all.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -75,13 +75,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u2457" href="portfolio.html"><!-- vertical box --><div class="colelem" id="u2459"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u2458-4"><!-- content --><p>PORTFOLIO</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u5770"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="museBGSize colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u38536"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="museBGSize colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u5877"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="museBGSize colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
       </div>
      </nav>
     </div>
@@ -95,7 +95,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p id="u5308-2">Mathieu VENOT</p>
         <p id="u5308-4">[Naval] || {Computation} || Architecture</p>
        </div>
-       <a class="nonblock nontext ImgHover transition grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
+       <a class="nonblock nontext ImgHover transition museBGSize grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
       </div>
      </div>
     </div>
@@ -128,105 +128,104 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clip_frame clearfix colelem" id="u11359"><!-- image -->
      <img class="position_content" id="u11359_img" src="images/img_1833c.jpg?crc=432665906" alt="" width="156" height="164"/>
     </div>
-    <div class="clearfix colelem" id="u11339-269"><!-- content -->
+    <div class="clearfix colelem" id="u11339-267"><!-- content -->
      <p id="u11339-2">Mathieu VENOT</p>
      <p id="u11339-4">Naval Architect Engineer, MSc</p>
-     <p id="u11339-6">Architect, MArch</p>
-     <p id="u11339-8">- - - - - - -</p>
-     <p id="u11339-12"><span><a class="nonblock" href="mailto:contact@mathieuvenot.com" target="_blank"><span id="u11339-9">contact@mathieuvenot.com</span></a></span></p>
-     <p id="u11339-14">- - - - - - -</p>
-     <p id="u11339-15">&nbsp;</p>
-     <p id="u11339-17">_Education</p>
-     <p id="u11339-19">- - - - - - - - - -</p>
-     <p id="u11339-24"><span id="u11339-20">2018</span> : <span id="u11339-22">Advanced Master’s degree in Marine Engineering, Naval Architecture and Offshore</span><span id="u11339-23"> {MSc}</span></p>
-     <p id="u11339-26">Ecole Nationale Supérieure de Techniques Avancées Bretagne (Brest)</p>
-     <p id="u11339-28">- Ship Design profile, Double degree with the Ecole Nationale Supérieure d'Architecture de Paris La Villette (Paris)</p>
-     <p id="u11339-30">- - - IMANO 2018 SD - Naval Architecture DPEA</p>
-     <p id="u11339-31">&nbsp;</p>
-     <p id="u11339-36"><span id="u11339-32">2016</span> : <span id="u11339-34">Master's degree of Architecture</span><span id="u11339-35"> {MArch}</span></p>
-     <p id="u11339-38">Ecole Nationale Supérieure d'Architecture de Paris Malaquais (Paris)</p>
-     <p id="u11339-40">- Digital Knowledge department, with the Arts et Métiers ParisTech (Paris)</p>
-     <p id="u11339-42">- - - Materials &amp; Additive Manufacturing module</p>
-     <p id="u11339-43">&nbsp;</p>
-     <p id="u11339-45">_Experience</p>
-     <p id="u11339-47">- - - - - - - - - -</p>
-     <p id="u11339-52"><span id="u11339-48">May 2013 - Now</span> : <span id="u11339-50">Consultant / Mathieu Venot</span><span id="u11339-51"> (Nantes)</span></p>
-     <p id="u11339-54">Naval Architecture, Marine Engineering, Interactive Rendering</p>
-     <p id="u11339-55">&nbsp;</p>
-     <p id="u11339-60"><span id="u11339-56">October 2015 - March 2019</span> : <span id="u11339-58">Co-founder / Dixie Lab</span><span id="u11339-59"> (Paris)</span></p>
-     <p id="u11339-62">Virtual Reality &amp; Digital Architecture</p>
-     <p id="u11339-63">&nbsp;</p>
-     <p id="u11339-68"><span id="u11339-64">April 2018 - August 2018</span> : <span id="u11339-66">Intern / Engineering School of Advanced Technologies of Brittany</span><span id="u11339-67"> (Brest)</span></p>
-     <p id="u11339-70">&quot;Nemo&quot; Grasshopper plugin for Ship Design</p>
-     <p id="u11339-71">&nbsp;</p>
-     <p id="u11339-76"><span id="u11339-72">September 2017</span> : <span id="u11339-74">Workshop Leader / Design Modelling Symposium</span><span id="u11339-75"> (Versailles)</span></p>
-     <p id="u11339-78">&quot;Virtual Immersive Architecture&quot; workshop</p>
-     <p id="u11339-79">&nbsp;</p>
-     <p id="u11339-84"><span id="u11339-80">March 2017</span> : <span id="u11339-82">Workshop Leader / Fine Arts School of Tours Angers Le Mans</span><span id="u11339-83"> (Le Mans)</span></p>
-     <p id="u11339-86">Inter-disciplinary workshop</p>
-     <p id="u11339-87">&nbsp;</p>
-     <p id="u11339-92"><span id="u11339-88">September 2015 - February 2017</span> : <span id="u11339-90">Workshop Leader / Architecture School of Paris-Malaquais</span><span id="u11339-91"> (Paris)</span></p>
-     <p id="u11339-94">&quot;Robotic Interactivity&quot;, &quot;Algorithm&quot; and &quot;Welcome to Senso/Rezo Museum&quot; workshops</p>
-     <p id="u11339-95">&nbsp;</p>
-     <p id="u11339-102"><span id="u11339-96">October 2016 - January 2017</span> : <span id="u11339-98">Studio Tutor / Arts et Métiers ParisTech</span><span id="u11339-99"> </span><span id="u11339-100">- ENSCI Les Ateliers</span><span id="u11339-101"> (Paris)</span></p>
-     <p id="u11339-104">&quot;XXL 3D Printing&quot; research studio of ENSCI Les Ateliers</p>
-     <p id="u11339-105">&nbsp;</p>
-     <p id="u11339-110"><span id="u11339-106">September 2016</span> : <span id="u11339-108">Workshop Leader / Advances in Architectural Geometry</span><span id="u11339-109"> (Zurich)</span></p>
-     <p id="u11339-112">&quot;Multi-User Cobotics Simulation in VR applied construction&quot; workshop</p>
-     <p id="u11339-113">&nbsp;</p>
-     <p id="u11339-118"><span id="u11339-114">September 2013 - September 2016</span> : <span id="u11339-116">Studio &amp; Workshop Tutor / Architecture School of Paris-Malaquais</span><span id="u11339-117"> (Paris)</span></p>
-     <p id="u11339-120">Third year project studio &amp; Back to school and inter-semesters workshops</p>
-     <p id="u11339-121">&nbsp;</p>
-     <p id="u11339-126"><span id="u11339-122">June - August 2015</span> : <span id="u11339-124">Intern / leFabShop</span><span id="u11339-125"> (Paris)</span></p>
-     <p id="u11339-128">FabClub workshops &amp; FabShop design studio</p>
-     <p id="u11339-129">&nbsp;</p>
-     <p id="u11339-134"><span id="u11339-130">July 2013</span> : <span id="u11339-132">Intern / EZCT Architecture &amp; Design Research</span><span id="u11339-133"> (Paris)</span></p>
-     <p id="u11339-136">ArchiLab 2013 exhibition {FRAC Centre} (Orléans)</p>
-     <p id="u11339-137">&nbsp;</p>
-     <p id="u11339-142"><span id="u11339-138">July 2011</span> : <span id="u11339-140">Intern / Port Napoleon's Shipyard</span><span id="u11339-141"> (Port-Saint-Louis-du-Rhône)</span></p>
-     <p id="u11339-144">Maintenance and repairs on sailboats and speedboats</p>
-     <p id="u11339-145">&nbsp;</p>
-     <p id="u11339-147">_Skills</p>
-     <p id="u11339-149">- - - - - - - - - -</p>
-     <p id="u11339-151">Softwares</p>
-     <p id="u11339-155"><span id="u11339-152">CAD/CAM</span> : <span id="u11339-154">ArchiCAD, AutoCAD, Fusion 360, Inspire, Rhinoceros3D, Grasshopper3D</span></p>
-     <p id="u11339-157"><span id="u11339-156">- (Concha, Enscape, HAL, Karamba3D, Orca3D, Scan&amp;Solve, VisualARQ)</span></p>
-     <p id="u11339-161"><span id="u11339-158">Naval</span> : <span id="u11339-160">Cherie, ComposeIT, GHS, Fine/Marine, Maat Hydro, Mars2000, NavCad, Poseidon, XFLR5</span></p>
-     <p id="u11339-165"><span id="u11339-162">DTP</span> : <span id="u11339-164">Adobe CS (Acrobat, Illustrator, InDesign, Muse, Photoshop), LaTeX, Markdown</span></p>
-     <p id="u11339-169"><span id="u11339-166">Rendering</span> : <span id="u11339-168">Artlantis, Enscape, Rhinoceros3D, Unity3D, Unreal Engine</span></p>
-     <p id="u11339-173"><span id="u11339-170">Scripting</span> : <span id="u11339-172">Grasshopper (C#, Python), Processing (Java), Mathematica, Unity3D (C#), Unreal Engine (Blueprint), Web Design (HTML, CSS)</span></p>
-     <p id="u11339-177"><span id="u11339-174">VR</span> : HTC Vive, <span id="u11339-176">Oculus Rift, Google Cardboard</span></p>
-     <p id="u11339-181"><span id="u11339-178">OS</span> : <span id="u11339-180">Mac, Windows, Linux (Debian, Ubuntu)</span></p>
-     <p id="u11339-182">&nbsp;</p>
-     <p id="u11339-184">Digital Fabrication</p>
-     <p id="u11339-188"><span id="u11339-185">3D Printing</span> <span id="u11339-187">(Dremel, Makerbot, Stratasys, 3D Systems, Ultimaker, Zortrax)</span></p>
-     <p id="u11339-192"><span id="u11339-189">3D Scanning</span> <span id="u11339-191">(Asus, Microsoft, Photogrammetry)</span></p>
-     <p id="u11339-196"><span id="u11339-193">CNC Milling</span> <span id="u11339-195">(ShapeOko, ShopBot)</span></p>
-     <p id="u11339-201"><span id="u11339-197">DIY</span> <span id="u11339-199">(</span>Arduino, Raspberry Pi)</p>
-     <p id="u11339-205"><span id="u11339-202">Drone Prototyping</span> <span id="u11339-204">(DJI, Parrot)</span></p>
-     <p id="u11339-209"><span id="u11339-206">Industrial Robotics</span> <span id="u11339-208">(ABB)</span></p>
-     <p id="u11339-213"><span id="u11339-210">Laser Cutting</span> <span id="u11339-212">(Epilog, Trotec)</span></p>
-     <p id="u11339-214">&nbsp;</p>
-     <p id="u11339-217">Maritime Short Range Radio Operator Certificate <span id="u11339-216">(VHF)</span></p>
-     <p id="u11339-222">Licences : Coastal, Inland <span id="u11339-219">(Boat)</span> - Driving <span id="u11339-221">(Car)</span></p>
-     <p id="u11339-223">&nbsp;</p>
-     <p id="u11339-225">_Publications</p>
-     <p id="u11339-227">- - - - - - - - - -</p>
-     <p id="u11339-231"><span id="u11339-228">November 2016</span> : <span id="u11339-230">DixieVR : Immersive Multi-User Simulation for Architectural Conception</span></p>
-     <p id="u11339-233">Réseau Canopé, Technologie, n° 205 (ISBN 978-2-240-04143-2)</p>
-     <p id="u11339-234">&nbsp;</p>
-     <p id="u11339-238"><span id="u11339-235">September 2016</span> : <span id="u11339-237">Materials &amp; 3d printing of assembly parts to architectural scale</span></p>
-     <p id="u11339-240">Réseau Canopé, Technologie, n° 204 (ISBN 978-2-240-04135-7)</p>
-     <p id="u11339-241">&nbsp;</p>
-     <p id="u11339-243">_Languages</p>
-     <p id="u11339-245">- - - - - - - - - -</p>
-     <p id="u11339-252"><span id="u11339-246">English</span> (<span id="u11339-248">Professional working proficiency) </span><span id="u11339-249">- French</span> (<span id="u11339-251">Mother tongue)</span></p>
-     <p id="u11339-253">&nbsp;</p>
-     <p id="u11339-255">_Interests</p>
-     <p id="u11339-257">- - - - - - - - - -</p>
-     <p id="u11339-259">CAD/CAM - Computation - Prototyping</p>
-     <p id="u11339-263"><span id="u11339-260">Sailing - Windsurfing</span> : <span id="u11339-262">Sailing and convoying on Coco 650, Dufour 325, First 35, RM 1050, Cigale 16 - Living on a Freycinet river barge</span></p>
-     <p id="u11339-267"><span id="u11339-264">Travels</span> : <span id="u11339-266">One year around the North Atlantic Ocean on a sailboat</span></p>
+     <p id="u11339-6">- - - - - - -</p>
+     <p id="u11339-10"><span><a class="nonblock" href="mailto:contact@mathieuvenot.com" target="_blank"><span id="u11339-7">contact@mathieuvenot.com</span></a></span></p>
+     <p id="u11339-12">- - - - - - -</p>
+     <p id="u11339-13">&nbsp;</p>
+     <p id="u11339-15">_Education</p>
+     <p id="u11339-17">- - - - - - - - - -</p>
+     <p id="u11339-22"><span id="u11339-18">2018</span> : <span id="u11339-20">Advanced Master’s degree in Marine Engineering, Naval Architecture and Offshore</span><span id="u11339-21"> {MSc}</span></p>
+     <p id="u11339-24">Ecole Nationale Supérieure de Techniques Avancées Bretagne (Brest)</p>
+     <p id="u11339-26">- Ship Design profile, Double degree with the Ecole Nationale Supérieure d'Architecture de Paris La Villette (Paris)</p>
+     <p id="u11339-28">- - - IMANO 2018 SD - Naval Architecture DPEA</p>
+     <p id="u11339-29">&nbsp;</p>
+     <p id="u11339-34"><span id="u11339-30">2016</span> : <span id="u11339-32">Master's degree of Architecture</span><span id="u11339-33"> {MArch}</span></p>
+     <p id="u11339-36">Ecole Nationale Supérieure d'Architecture de Paris Malaquais (Paris)</p>
+     <p id="u11339-38">- Digital Knowledge department, with the Arts et Métiers ParisTech (Paris)</p>
+     <p id="u11339-40">- - - Materials &amp; Additive Manufacturing module</p>
+     <p id="u11339-41">&nbsp;</p>
+     <p id="u11339-43">_Experience</p>
+     <p id="u11339-45">- - - - - - - - - -</p>
+     <p id="u11339-50"><span id="u11339-46">May 2013 - Now</span> : <span id="u11339-48">Consultant / Mathieu Venot</span><span id="u11339-49"> (Nantes)</span></p>
+     <p id="u11339-52">Naval Architecture, Marine Engineering, Interactive Rendering</p>
+     <p id="u11339-53">&nbsp;</p>
+     <p id="u11339-58"><span id="u11339-54">October 2015 - March 2019</span> : <span id="u11339-56">Co-founder / Dixie Lab</span><span id="u11339-57"> (Paris)</span></p>
+     <p id="u11339-60">Virtual Reality &amp; Digital Architecture</p>
+     <p id="u11339-61">&nbsp;</p>
+     <p id="u11339-66"><span id="u11339-62">April 2018 - August 2018</span> : <span id="u11339-64">Intern / Engineering School of Advanced Technologies of Brittany</span><span id="u11339-65"> (Brest)</span></p>
+     <p id="u11339-68">&quot;Nemo&quot; Grasshopper plugin for Ship Design</p>
+     <p id="u11339-69">&nbsp;</p>
+     <p id="u11339-74"><span id="u11339-70">September 2017</span> : <span id="u11339-72">Workshop Leader / Design Modelling Symposium</span><span id="u11339-73"> (Versailles)</span></p>
+     <p id="u11339-76">&quot;Virtual Immersive Architecture&quot; workshop</p>
+     <p id="u11339-77">&nbsp;</p>
+     <p id="u11339-82"><span id="u11339-78">March 2017</span> : <span id="u11339-80">Workshop Leader / Fine Arts School of Tours Angers Le Mans</span><span id="u11339-81"> (Le Mans)</span></p>
+     <p id="u11339-84">Inter-disciplinary workshop</p>
+     <p id="u11339-85">&nbsp;</p>
+     <p id="u11339-90"><span id="u11339-86">September 2015 - February 2017</span> : <span id="u11339-88">Workshop Leader / Architecture School of Paris-Malaquais</span><span id="u11339-89"> (Paris)</span></p>
+     <p id="u11339-92">&quot;Robotic Interactivity&quot;, &quot;Algorithm&quot; and &quot;Welcome to Senso/Rezo Museum&quot; workshops</p>
+     <p id="u11339-93">&nbsp;</p>
+     <p id="u11339-100"><span id="u11339-94">October 2016 - January 2017</span> : <span id="u11339-96">Studio Tutor / Arts et Métiers ParisTech</span><span id="u11339-97"> </span><span id="u11339-98">- ENSCI Les Ateliers</span><span id="u11339-99"> (Paris)</span></p>
+     <p id="u11339-102">&quot;XXL 3D Printing&quot; research studio of ENSCI Les Ateliers</p>
+     <p id="u11339-103">&nbsp;</p>
+     <p id="u11339-108"><span id="u11339-104">September 2016</span> : <span id="u11339-106">Workshop Leader / Advances in Architectural Geometry</span><span id="u11339-107"> (Zurich)</span></p>
+     <p id="u11339-110">&quot;Multi-User Cobotics Simulation in VR applied construction&quot; workshop</p>
+     <p id="u11339-111">&nbsp;</p>
+     <p id="u11339-116"><span id="u11339-112">September 2013 - September 2016</span> : <span id="u11339-114">Studio &amp; Workshop Tutor / Architecture School of Paris-Malaquais</span><span id="u11339-115"> (Paris)</span></p>
+     <p id="u11339-118">Third year project studio &amp; Back to school and inter-semesters workshops</p>
+     <p id="u11339-119">&nbsp;</p>
+     <p id="u11339-124"><span id="u11339-120">June - August 2015</span> : <span id="u11339-122">Intern / leFabShop</span><span id="u11339-123"> (Paris)</span></p>
+     <p id="u11339-126">FabClub workshops &amp; FabShop design studio</p>
+     <p id="u11339-127">&nbsp;</p>
+     <p id="u11339-132"><span id="u11339-128">July 2013</span> : <span id="u11339-130">Intern / EZCT Architecture &amp; Design Research</span><span id="u11339-131"> (Paris)</span></p>
+     <p id="u11339-134">ArchiLab 2013 exhibition {FRAC Centre} (Orléans)</p>
+     <p id="u11339-135">&nbsp;</p>
+     <p id="u11339-140"><span id="u11339-136">July 2011</span> : <span id="u11339-138">Intern / Port Napoleon's Shipyard</span><span id="u11339-139"> (Port-Saint-Louis-du-Rhône)</span></p>
+     <p id="u11339-142">Maintenance and repairs on sailboats and speedboats</p>
+     <p id="u11339-143">&nbsp;</p>
+     <p id="u11339-145">_Skills</p>
+     <p id="u11339-147">- - - - - - - - - -</p>
+     <p id="u11339-149">Softwares</p>
+     <p id="u11339-153"><span id="u11339-150">CAD/CAM</span> : <span id="u11339-152">ArchiCAD, AutoCAD, Fusion 360, Inspire, Rhinoceros3D, Grasshopper3D</span></p>
+     <p id="u11339-155"><span id="u11339-154">- (Concha, Enscape, HAL, Karamba3D, Orca3D, Scan&amp;Solve, VisualARQ)</span></p>
+     <p id="u11339-159"><span id="u11339-156">Naval</span> : <span id="u11339-158">Cherie, ComposeIT, GHS, Fine/Marine, Maat Hydro, Mars2000, NavCad, Poseidon, XFLR5</span></p>
+     <p id="u11339-163"><span id="u11339-160">DTP</span> : <span id="u11339-162">Adobe CS (Acrobat, Illustrator, InDesign, Muse, Photoshop), LaTeX, Markdown</span></p>
+     <p id="u11339-167"><span id="u11339-164">Rendering</span> : <span id="u11339-166">Artlantis, Enscape, Rhinoceros3D, Unity3D, Unreal Engine</span></p>
+     <p id="u11339-171"><span id="u11339-168">Scripting</span> : <span id="u11339-170">Grasshopper (C#, Python), Processing (Java), Mathematica, Unity3D (C#), Unreal Engine (Blueprint), Web Design (HTML, CSS)</span></p>
+     <p id="u11339-175"><span id="u11339-172">VR</span> : HTC Vive, <span id="u11339-174">Oculus Rift, Google Cardboard</span></p>
+     <p id="u11339-179"><span id="u11339-176">OS</span> : <span id="u11339-178">Mac, Windows, Linux (Debian, Ubuntu)</span></p>
+     <p id="u11339-180">&nbsp;</p>
+     <p id="u11339-182">Digital Fabrication</p>
+     <p id="u11339-186"><span id="u11339-183">3D Printing</span> <span id="u11339-185">(Dremel, Makerbot, Stratasys, 3D Systems, Ultimaker, Zortrax)</span></p>
+     <p id="u11339-190"><span id="u11339-187">3D Scanning</span> <span id="u11339-189">(Asus, Microsoft, Photogrammetry)</span></p>
+     <p id="u11339-194"><span id="u11339-191">CNC Milling</span> <span id="u11339-193">(ShapeOko, ShopBot)</span></p>
+     <p id="u11339-199"><span id="u11339-195">DIY</span> <span id="u11339-197">(</span>Arduino, Raspberry Pi)</p>
+     <p id="u11339-203"><span id="u11339-200">Drone Prototyping</span> <span id="u11339-202">(DJI, Parrot)</span></p>
+     <p id="u11339-207"><span id="u11339-204">Industrial Robotics</span> <span id="u11339-206">(ABB)</span></p>
+     <p id="u11339-211"><span id="u11339-208">Laser Cutting</span> <span id="u11339-210">(Epilog, Trotec)</span></p>
+     <p id="u11339-212">&nbsp;</p>
+     <p id="u11339-215">Maritime Short Range Radio Operator Certificate <span id="u11339-214">(VHF)</span></p>
+     <p id="u11339-220">Licences : Coastal, Inland <span id="u11339-217">(Boat)</span> - Driving <span id="u11339-219">(Car)</span></p>
+     <p id="u11339-221">&nbsp;</p>
+     <p id="u11339-223">_Publications</p>
+     <p id="u11339-225">- - - - - - - - - -</p>
+     <p id="u11339-229"><span id="u11339-226">November 2016</span> : <span id="u11339-228">DixieVR : Immersive Multi-User Simulation for Architectural Conception</span></p>
+     <p id="u11339-231">Réseau Canopé, Technologie, n° 205 (ISBN 978-2-240-04143-2)</p>
+     <p id="u11339-232">&nbsp;</p>
+     <p id="u11339-236"><span id="u11339-233">September 2016</span> : <span id="u11339-235">Materials &amp; 3d printing of assembly parts to architectural scale</span></p>
+     <p id="u11339-238">Réseau Canopé, Technologie, n° 204 (ISBN 978-2-240-04135-7)</p>
+     <p id="u11339-239">&nbsp;</p>
+     <p id="u11339-241">_Languages</p>
+     <p id="u11339-243">- - - - - - - - - -</p>
+     <p id="u11339-250"><span id="u11339-244">English</span> (<span id="u11339-246">Professional working proficiency) </span><span id="u11339-247">- French</span> (<span id="u11339-249">Mother tongue)</span></p>
+     <p id="u11339-251">&nbsp;</p>
+     <p id="u11339-253">_Interests</p>
+     <p id="u11339-255">- - - - - - - - - -</p>
+     <p id="u11339-257">CAD/CAM - Computation - Prototyping</p>
+     <p id="u11339-261"><span id="u11339-258">Sailing - Windsurfing</span> : <span id="u11339-260">Sailing and convoying on Coco 650, Dufour 325, First 35, RM 1050, Cigale 16 - Living on a Freycinet river barge</span></p>
+     <p id="u11339-265"><span id="u11339-262">Travels</span> : <span id="u11339-264">One year around the North Atlantic Ocean on a sailboat</span></p>
     </div>
     <div class="clearfix colelem" id="pu27936"><!-- group -->
      <a class="nonblock nontext social clip_frame" id="u27936" href="https://github.com/mathieuvenot" target="_blank"><!-- image --><img class="block" id="u27936_img" src="images/git01.png?crc=4224509423" alt="" width="22" height="22"/></a>
@@ -234,11 +233,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="nonblock nontext social clip_frame" id="u5393" href="mailto:contact@mathieuvenot.com" target="_blank"><!-- image --><img class="block" id="u5393_img" src="images/email-logo-black-png-pictures-126x26.png?crc=4000076568" alt="" width="26" height="26"/></a>
      <a class="nonblock nontext social clip_frame" id="u5364" href="https://vimeo.com/mathieuvenot" target="_blank"><!-- image --><img class="block" id="u5364_img" src="images/vimeo.png?crc=4281384747" alt="" width="22" height="22"/></a>
     </div>
-    <div class="verticalspacer" data-offset-top="2161" data-content-above-spacer="2160" data-content-below-spacer="72"></div>
+    <div class="verticalspacer" data-offset-top="2143" data-content-above-spacer="2142" data-content-below-spacer="72"></div>
     <div class="clearfix colelem" id="u2802-4"><!-- content -->
      <p>All content © 2011-2018 by Mathieu VENOT</p>
     </div>
    </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/home_h.png?crc=375260037" alt=""/>
+   <img class="preload" src="images/home_d.png?crc=298050461" alt=""/>
+   <img class="preload" src="images/info_h.png?crc=4151302484" alt=""/>
+   <img class="preload" src="images/info_d.png?crc=107259636" alt=""/>
+   <img class="preload" src="images/work_h.png?crc=3840438204" alt=""/>
+   <img class="preload" src="images/work_d.png?crc=3905934363" alt=""/>
+   <img class="preload" src="images/freelance.png?crc=4245718626" alt=""/>
+   <img class="preload" src="images/nemov2-04_bw.png?crc=397504776" alt=""/>
+   <img class="preload" src="images/link.png?crc=202725025" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copyn.png?crc=4071392904" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copy.png?crc=3847620749" alt=""/>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -253,7 +265,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(false);/* body */
