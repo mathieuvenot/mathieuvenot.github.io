@@ -10,18 +10,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "resume.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "resume.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=276223592"/>
   <title>RESUME</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=250539110"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=161401194"/>
-  <link rel="stylesheet" type="text/css" href="css/resume.css?crc=4032263890" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4187303223"/>
+  <link rel="stylesheet" type="text/css" href="css/resume.css?crc=3828689881" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?crc=3982441212"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?crc=138698094"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -76,13 +76,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u2457" href="portfolio.html"><!-- vertical box --><div class="colelem" id="u2459"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u2458-4"><!-- content --><p>PORTFOLIO</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u5770"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="museBGSize colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u38536"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="museBGSize colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix colelem" id="u5877"><!-- horizontal box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="museBGSize colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
       </div>
      </nav>
     </div>
@@ -96,7 +96,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p id="u5308-2">Mathieu VENOT</p>
         <p id="u5308-4">[Naval] || {Computation} || Architecture</p>
        </div>
-       <a class="nonblock nontext ImgHover transition grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
+       <a class="nonblock nontext ImgHover transition museBGSize grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
       </div>
      </div>
     </div>
@@ -129,7 +129,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clip_frame clearfix colelem" id="u11359"><!-- image -->
      <img class="position_content" id="u11359_img" src="images/img_1833c.jpg?crc=432665906" alt="" width="156" height="164"/>
     </div>
-    <div class="clearfix colelem" id="u11339-267"><!-- content -->
+    <div class="clearfix colelem" id="u11339-269"><!-- content -->
      <p id="u11339-2">Mathieu VENOT</p>
      <p id="u11339-4">Naval Architect Engineer, MSc</p>
      <p id="u11339-6">- - - - - - -</p>
@@ -207,26 +207,26 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p id="u11339-207"><span id="u11339-204">Industrial Robotics</span> <span id="u11339-206">(ABB)</span></p>
      <p id="u11339-211"><span id="u11339-208">Laser Cutting</span> <span id="u11339-210">(Epilog, Trotec)</span></p>
      <p id="u11339-212">&nbsp;</p>
-     <p id="u11339-215">Maritime Short Range Radio Operator Certificate <span id="u11339-214">(VHF)</span></p>
-     <p id="u11339-220">Licences : Coastal, Inland <span id="u11339-217">(Boat)</span> - Driving <span id="u11339-219">(Car)</span></p>
-     <p id="u11339-221">&nbsp;</p>
-     <p id="u11339-223">_Publications</p>
-     <p id="u11339-225">- - - - - - - - - -</p>
-     <p id="u11339-229"><span id="u11339-226">November 2016</span> : <span id="u11339-228">DixieVR : Immersive Multi-User Simulation for Architectural Conception</span></p>
-     <p id="u11339-231">Réseau Canopé, Technologie, n° 205 (ISBN 978-2-240-04143-2)</p>
-     <p id="u11339-232">&nbsp;</p>
-     <p id="u11339-236"><span id="u11339-233">September 2016</span> : <span id="u11339-235">Materials &amp; 3d printing of assembly parts to architectural scale</span></p>
-     <p id="u11339-238">Réseau Canopé, Technologie, n° 204 (ISBN 978-2-240-04135-7)</p>
-     <p id="u11339-239">&nbsp;</p>
-     <p id="u11339-241">_Languages</p>
-     <p id="u11339-243">- - - - - - - - - -</p>
-     <p id="u11339-250"><span id="u11339-244">English</span> (<span id="u11339-246">Professional working proficiency) </span><span id="u11339-247">- French</span> (<span id="u11339-249">Mother tongue)</span></p>
-     <p id="u11339-251">&nbsp;</p>
-     <p id="u11339-253">_Interests</p>
-     <p id="u11339-255">- - - - - - - - - -</p>
-     <p id="u11339-257">CAD/CAM - Computation - Prototyping</p>
-     <p id="u11339-261"><span id="u11339-258">Sailing - Windsurfing</span> : <span id="u11339-260">Sailing and convoying on Coco 650, Dufour 325, First 35, RM 1050, Cigale 16 - Living on a Freycinet river barge</span></p>
-     <p id="u11339-265"><span id="u11339-262">Travels</span> : <span id="u11339-264">One year around the North Atlantic Ocean on a sailboat</span></p>
+     <p id="u11339-217">Licences : Coastal, Inland <span id="u11339-214">(Boat)</span> - Driving <span id="u11339-216">(Car)</span></p>
+     <p id="u11339-222">Maritime Short Range Radio Operator <span id="u11339-219">(VHF)</span> - Recreational Pilot <span id="u11339-221">(Drone)</span></p>
+     <p id="u11339-223">&nbsp;</p>
+     <p id="u11339-225">_Publications</p>
+     <p id="u11339-227">- - - - - - - - - -</p>
+     <p id="u11339-231"><span id="u11339-228">November 2016</span> : <span id="u11339-230">DixieVR : Immersive Multi-User Simulation for Architectural Conception</span></p>
+     <p id="u11339-233">Réseau Canopé, Technologie, n° 205 (ISBN 978-2-240-04143-2)</p>
+     <p id="u11339-234">&nbsp;</p>
+     <p id="u11339-238"><span id="u11339-235">September 2016</span> : <span id="u11339-237">Materials &amp; 3d printing of assembly parts to architectural scale</span></p>
+     <p id="u11339-240">Réseau Canopé, Technologie, n° 204 (ISBN 978-2-240-04135-7)</p>
+     <p id="u11339-241">&nbsp;</p>
+     <p id="u11339-243">_Languages</p>
+     <p id="u11339-245">- - - - - - - - - -</p>
+     <p id="u11339-252"><span id="u11339-246">English</span> (<span id="u11339-248">Professional working proficiency) </span><span id="u11339-249">- French</span> (<span id="u11339-251">Mother tongue)</span></p>
+     <p id="u11339-253">&nbsp;</p>
+     <p id="u11339-255">_Interests</p>
+     <p id="u11339-257">- - - - - - - - - -</p>
+     <p id="u11339-259">CAD/CAM - Computation - Prototyping</p>
+     <p id="u11339-263"><span id="u11339-260">Sailing - Windsurfing</span> : <span id="u11339-262">Sailing and convoying on Coco 650, Dufour 325, First 35, RM 1050, Cigale 16 - Living on a Freycinet river barge</span></p>
+     <p id="u11339-267"><span id="u11339-264">Travels</span> : <span id="u11339-266">One year around the North Atlantic Ocean on a sailboat</span></p>
     </div>
     <div class="clearfix colelem" id="pu27936"><!-- group -->
      <a class="nonblock nontext social clip_frame" id="u27936" href="https://github.com/mathieuvenot" target="_blank"><!-- image --><img class="block" id="u27936_img" src="images/git01.png?crc=4224509423" alt="" width="22" height="22"/></a>
@@ -241,6 +241,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
+  <div class="preload_images">
+   <img class="preload" src="images/home_h.png?crc=375260037" alt=""/>
+   <img class="preload" src="images/home_d.png?crc=298050461" alt=""/>
+   <img class="preload" src="images/info_h.png?crc=4151302484" alt=""/>
+   <img class="preload" src="images/info_d.png?crc=107259636" alt=""/>
+   <img class="preload" src="images/work_h.png?crc=3840438204" alt=""/>
+   <img class="preload" src="images/work_d.png?crc=3905934363" alt=""/>
+   <img class="preload" src="images/freelance.png?crc=4245718626" alt=""/>
+   <img class="preload" src="images/nemov2-04_bw.png?crc=397504776" alt=""/>
+   <img class="preload" src="images/link.png?crc=202725025" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copyn.png?crc=4071392904" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copy.png?crc=3847620749" alt=""/>
+  </div>
   <!-- JS includes -->
   <script type="text/javascript">
    if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
@@ -254,7 +267,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(false);/* body */
