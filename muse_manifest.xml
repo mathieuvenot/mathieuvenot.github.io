@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1542275441819">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1542275891964">
   <folder name="css">
     <file name="site_global.css" crc="4123046933"/>
     <file name="master_a-master.css" crc="161401194" ref="links:advances-in-architectural-geometry:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication-2:digital-fabrication:nemo:materialization---structuring:robotic-interactivity:artscience-experimentation-to-human-body:shuffle-rings:index:lighting:algorithm:xxl-3d-printing:regressive-resolutions:virtual-lobby:robotic---control:digital-fine-arts:digital-design-literacy-3:mazin-lamps:osaka-competition:gis---cad:march-internship:design-modelling-symposium:barch-internship:ship-design-loop:diploma:sailing-yacht-design:thesis:long-project:mad-man:portfolio:urban-story:freycinet-barge:representation:turbulences:coco-650:regressive-resolutions-2013:outlying-visions:first-35:light-structure:resume:rm-1050:global-schindler-award-2015:machine-vision:windsurfing:digital-design-literacy-2:sketch:disassembly:ship-structures-lab:structures---materials:spray-hood:housing-project:digital-design-literacy-1:msc-internship:consulting"/>
@@ -22,7 +22,7 @@
     <file name="iefonts_artscience-experimentation-to-human-body.css" crc="213656191" ref="artscience-experimentation-to-human-body"/>
     <file name="shuffle-rings.css" crc="52417796" ref="shuffle-rings"/>
     <file name="iefonts_shuffle-rings.css" crc="395808410" ref="shuffle-rings"/>
-    <file name="index.css" crc="3868885289" ref="index"/>
+    <file name="index.css" crc="4016084296" ref="index"/>
     <file name="lighting.css" crc="221608354" ref="lighting"/>
     <file name="iefonts_lighting.css" crc="337412976" ref="lighting"/>
     <file name="algorithm.css" crc="4262560449" ref="algorithm"/>
@@ -222,9 +222,9 @@
     <file name="mazinlamplight03.jpg" crc="402827809" seo="true" ref="index"/>
     <file name="locationgrabber03_gismo9_21.jpg" crc="16221372" seo="true" ref="index"/>
     <file name="highresscreenshot00002.jpg" crc="3999985078" ref="index:design-modelling-symposium" seo="true"/>
-    <file name="3d01.jpg" crc="3792961174" ref="index:portfolio" seo="true"/>
-    <file name="20171222_esquisse_18-3d08b2.jpg" crc="109182778" ref="index:portfolio" seo="true"/>
-    <file name="rendu _ d-p.png" crc="175298103" ref="index:portfolio" seo="true"/>
+    <file name="3d01.jpg" crc="3792961174" ref="portfolio" seo="true"/>
+    <file name="20171222_esquisse_18-3d08b2.jpg" crc="109182778" ref="portfolio" seo="true"/>
+    <file name="rendu _ d-p.png" crc="175298103" ref="portfolio" seo="true"/>
     <file name="15800137_10211590281411805_5238110828350240211_o - copy.jpg" crc="9804885" seo="true" ref="index"/>
     <file name="5-5-6_fea07.jpg" crc="115316952" seo="true" ref="index"/>
     <file name="scn_0001.jpg" crc="4248273893" seo="true" ref="index"/>
@@ -456,7 +456,7 @@
     <file name="arrow_right-u38361-r-fr.png" crc="4004836838" ref="msc-internship"/>
     <file name="nemo-1mono.png" crc="229892495" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4087968929" seo="true" mt="1542275431165" redirect="true"/>
+  <file name="index.html" crc="4067305905" seo="true" mt="1542275881321" redirect="true"/>
   <file name="portfolio.html" crc="283615127" seo="true" mt="1539690418092" redirect="true"/>
   <file name="resume.html" crc="4229408109" seo="true" mt="1541497853846" redirect="true"/>
   <file name="consulting.html" crc="375331722" seo="true" mt="1539589123709" redirect="true"/>
