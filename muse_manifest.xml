@@ -1,6 +1,6 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1548248476985">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1548408846726">
   <folder name="css">
-    <file name="site_global.css" crc="4123046933"/>
+    <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="4187303223" ref="ship-structures-lab:structures---materials:spray-hood:digital-design-literacy-1:msc-internship:digital-fabrication:nemo:robotic-interactivity:advances-in-architectural-geometry:artscience-experimentation-to-human-body:digital-fabrication-2:regressive-resolutions:algorithm:robotic---control:digital-design-literacy-3:shuffle-rings:osaka-competition:lighting:march-internship:xxl-3d-printing:barch-internship:virtual-lobby:diploma:digital-fine-arts:thesis:index:mazin-lamps:mad-man:portfolio:gis---cad:regressive-resolutions-2013:design-modelling-symposium:outlying-visions:resume:ship-design-loop:housing-project:sailing-yacht-design:materialization---structuring:long-project:representation:urban-story:freycinet-barge:turbulences:coco-650:global-schindler-award-2015:first-35:light-structure:consulting:rm-1050:machine-vision:links:windsurfing:digital-design-literacy-2:augmented-reality---immersion-in-3d-virtual-worlds:sketch:disassembly:structure---weight-estimate:river-cruise-vessel:l2o-naval"/>
     <file name="ship-structures-lab.css" crc="129702937" ref="ship-structures-lab"/>
     <file name="iefonts_ship-structures-lab.css" crc="253821939" ref="ship-structures-lab"/>
@@ -67,8 +67,8 @@
     <file name="iefonts_design-modelling-symposium.css" crc="3915432701" ref="design-modelling-symposium"/>
     <file name="outlying-visions.css" crc="3824045352" ref="outlying-visions"/>
     <file name="iefonts_outlying-visions.css" crc="3963494610" ref="outlying-visions"/>
-    <file name="resume.css" crc="4123419655" ref="resume"/>
-    <file name="iefonts_resume.css" crc="440061428" ref="resume"/>
+    <file name="resume.css" crc="3946063576" ref="resume"/>
+    <file name="iefonts_resume.css" crc="409074105" ref="resume"/>
     <file name="ship-design-loop.css" crc="4057957830" ref="ship-design-loop"/>
     <file name="iefonts_ship-design-loop.css" crc="214895615" ref="ship-design-loop"/>
     <file name="housing-project.css" crc="4247243159" ref="housing-project"/>
@@ -95,8 +95,8 @@
     <file name="iefonts_first-35.css" crc="3869070862" ref="first-35"/>
     <file name="light-structure.css" crc="273712461" ref="light-structure"/>
     <file name="iefonts_light-structure.css" crc="4208709983" ref="light-structure"/>
-    <file name="consulting.css" crc="289957082" ref="consulting"/>
-    <file name="iefonts_consulting.css" crc="4169956167" ref="consulting"/>
+    <file name="consulting.css" crc="351785415" ref="consulting"/>
+    <file name="iefonts_consulting.css" crc="4071383334" ref="consulting"/>
     <file name="rm-1050.css" crc="490001746" ref="rm-1050"/>
     <file name="iefonts_rm-1050.css" crc="4056951253" ref="rm-1050"/>
     <file name="machine-vision.css" crc="4229670982" ref="machine-vision"/>
@@ -121,8 +121,8 @@
     <file name="iefonts_l2o-naval.css" crc="4059681681" ref="l2o-naval"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="3786436056" seo="true" mt="1548248246000"/>
-    <file name="venot_mathieu--cvfr.pdf" crc="4063302755" seo="true" mt="1548248231000"/>
+    <file name="venot_mathieu--cven.pdf" crc="4182540339" seo="true" mt="1548404328000"/>
+    <file name="venot_mathieu--cvfr.pdf" crc="319611368" seo="true" mt="1548404339000"/>
     <file name="venot_mathieu--book.pdf" crc="2062733" seo="true" mt="1544290055000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
     <file name="venot_mathieu-rapportstagelicence.pdf" crc="4139033175" seo="true" mt="1435584775000"/>
@@ -491,8 +491,8 @@
   </folder>
   <file name="index.html" crc="4147666577" seo="true" mt="1545654659730" redirect="true"/>
   <file name="portfolio.html" crc="497823312" seo="true" mt="1545653370081" redirect="true"/>
-  <file name="resume.html" crc="4220552359" seo="true" mt="1548248201270" redirect="true"/>
-  <file name="consulting.html" crc="4135077502" seo="true" mt="1548248421687" redirect="true"/>
+  <file name="resume.html" crc="4095136290" seo="true" mt="1548403882969" redirect="true"/>
+  <file name="consulting.html" crc="4071048710" seo="true" mt="1548408807711" redirect="true"/>
   <file name="links.html" crc="137282236" seo="true" mt="1545639385170" redirect="true"/>
   <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4253116843" seo="true" mt="1539589123709" redirect="true"/>
   <file name="digital-fabrication.html" crc="287217305" seo="true" mt="1539589123709" redirect="true"/>
