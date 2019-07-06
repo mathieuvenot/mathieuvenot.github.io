@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1562408045086">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1562408270372">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="161401194" ref="resume:barch-internship:nemo:spray-hood:portfolio:global-schindler-award-2015:artscience-experimentation-to-human-body:march-internship:digital-fabrication:representation:ship-structures-lab:msc-internship:turbulences:coco-650:index:augmented-reality---immersion-in-3d-virtual-worlds:osaka-competition:windsurfing:freycinet-barge:materialization---structuring:links:xxl-3d-printing:digital-design-literacy-3:rm-1050:consulting:digital-fabrication-2:housing-project:lighting:outlying-visions:sketch:regressive-resolutions-2013:long-project:vr-design-rendering:sailing-yacht-design:maritime-excellences-center:shuffle-rings:image-sampler:l2o-naval:mad-man:robotic---control:advances-in-architectural-geometry:first-35:digital-design-literacy-1:ship-design-loop:structures---materials:regressive-resolutions:algorithm:thesis:gis---cad:river-cruise-vessel:disassembly:mazin-lamps:design-modelling-symposium:diploma:digital-fine-arts:structure---weight-estimate:machine-vision:virtual-lobby:digital-design-literacy-2:light-structure:sheep-vpp:robotic-interactivity:urban-story"/>
@@ -10,7 +10,7 @@
     <file name="iefonts_nemo.css" crc="536396057" ref="nemo"/>
     <file name="spray-hood.css" crc="3821945443" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="4284907898" ref="spray-hood"/>
-    <file name="portfolio.css" crc="228348574" ref="portfolio"/>
+    <file name="portfolio.css" crc="40620724" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="3808230449" ref="portfolio"/>
     <file name="global-schindler-award-2015.css" crc="3792535298" ref="global-schindler-award-2015"/>
     <file name="iefonts_global-schindler-award-2015.css" crc="4231706794" ref="global-schindler-award-2015"/>
@@ -232,7 +232,7 @@
     <file name="2017-04-21.jpg" crc="4028072908" seo="true" ref="index"/>
     <file name="2017ens012intensif_musee_senso_rezo - red.jpg" crc="443071792" seo="true" ref="index"/>
     <file name="dsc_83512.jpg" crc="4019061346" seo="true" ref="index"/>
-    <file name="rendu bague2 final.png" crc="3908245186" ref="index:portfolio" seo="true"/>
+    <file name="rendu bague2 final.png" crc="3790287166" ref="index:portfolio"/>
     <file name="mazinlamplight03.jpg" crc="402827809" seo="true" ref="index"/>
     <file name="locationgrabber03_gismo9_21.jpg" crc="16221372" seo="true" ref="index"/>
     <file name="highresscreenshot00002.jpg" crc="3999985078" ref="index:design-modelling-symposium" seo="true"/>
@@ -292,7 +292,6 @@
     <file name="10514655_10204280269789932_6131904947049381064_n-2.jpg" crc="49031800" ref="portfolio"/>
     <file name="img_3477-u41303-fr.jpg" crc="150680954" ref="portfolio"/>
     <file name="gopr0001-u41287-fr.jpg" crc="60343797" ref="portfolio"/>
-    <file name="présentation2-u42380-fr.jpg" crc="3998479304" ref="portfolio"/>
     <file name="rendu _ d-p.png" crc="3830738258" ref="portfolio"/>
     <file name="3d01.jpg" crc="363697041" ref="portfolio"/>
     <file name="20171222_esquisse_18-3d08b2.jpg" crc="4115741589" ref="portfolio"/>
@@ -510,9 +509,10 @@
     <file name="dot-u42262-m-fr.png" crc="327657704" ref="maritime-excellences-center"/>
     <file name="arrow_right-u42267-fr.png" crc="4092908058" ref="maritime-excellences-center"/>
     <file name="arrow_right-u42267-r-fr.png" crc="4004836838" ref="maritime-excellences-center"/>
+    <file name="pc-u42380-fr.jpg" crc="4193103995" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="484772551" seo="true" mt="1562407986275" redirect="true"/>
-  <file name="portfolio.html" crc="359987215" seo="true" mt="1559039581853" redirect="true"/>
+  <file name="portfolio.html" crc="3802932535" seo="true" mt="1562408247457" redirect="true"/>
   <file name="resume.html" crc="267702788" seo="true" mt="1556880832786" redirect="true"/>
   <file name="consulting.html" crc="4285029757" seo="true" mt="1556880832786" redirect="true"/>
   <file name="links.html" crc="4105180311" seo="true" mt="1556880832786" redirect="true"/>

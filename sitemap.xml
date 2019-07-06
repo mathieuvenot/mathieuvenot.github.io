@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/maritime-excellences-center.html</loc>
-    <lastmod>2019-07-06</lastmod>
+    <loc>http://mathieuvenot.com/sheep-vpp.html</loc>
+    <lastmod>2019-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/sheep-vpp.html</loc>
-    <lastmod>2019-05-28</lastmod>
+    <loc>http://mathieuvenot.com/maritime-excellences-center.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -367,19 +367,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2019-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/resume.html</loc>
     <lastmod>2019-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/rendu%20bague2%20final.png</loc>
+    <loc>http://mathieuvenot.com/portfolio.html</loc>
+    <lastmod>2019-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -391,13 +391,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/stacks_image_666.jpg</loc>
-    <lastmod>2019-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/images/2017-04-21.jpg</loc>
+    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -415,13 +409,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/dsc_83512.jpg</loc>
+    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</loc>
+    <loc>http://mathieuvenot.com/images/nemo-1mono.png</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -469,7 +463,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/nemo-1mono.png</loc>
+    <loc>http://mathieuvenot.com/images/15800137_10211590281411805_5238110828350240211_o%20-%20copy.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -481,7 +475,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/scn_0001.jpg</loc>
+    <loc>http://mathieuvenot.com/images/stacks_image_666.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -937,12 +931,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/images/15800137_10211590281411805_5238110828350240211_o%20-%20copy.jpg</loc>
-    <lastmod>2019-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
     <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -950,6 +938,12 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/images/5-5-6_fea07.jpg</loc>
+    <lastmod>2019-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/images/scn_0001.jpg</loc>
     <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
