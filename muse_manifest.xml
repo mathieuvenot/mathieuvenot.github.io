@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1569483871030">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1571209117238">
   <folder name="css">
     <file name="site_global.css" crc="250539110"/>
     <file name="master_a-master.css" crc="4187303223" ref="resume:barch-internship:nemo:spray-hood:portfolio:global-schindler-award-2015:artscience-experimentation-to-human-body:march-internship:digital-fabrication:representation:ship-structures-lab:msc-internship:turbulences:coco-650:index:augmented-reality---immersion-in-3d-virtual-worlds:osaka-competition:windsurfing:freycinet-barge:materialization---structuring:links:xxl-3d-printing:digital-design-literacy-3:rm-1050:consulting:digital-fabrication-2:housing-project:lighting:outlying-visions:sketch:regressive-resolutions-2013:long-project:vr-design-rendering:sailing-yacht-design:maritime-excellences-center:shuffle-rings:image-sampler:l2o-naval:mad-man:robotic---control:advances-in-architectural-geometry:first-35:digital-design-literacy-1:ship-design-loop:structures---materials:regressive-resolutions:algorithm:thesis:gis---cad:river-cruise-vessel:disassembly:mazin-lamps:design-modelling-symposium:diploma:digital-fine-arts:structure---weight-estimate:machine-vision:virtual-lobby:digital-design-literacy-2:light-structure:sheep-vpp:robotic-interactivity:urban-story"/>
@@ -6,8 +6,8 @@
     <file name="iefonts_resume.css" crc="409074105" ref="resume"/>
     <file name="barch-internship.css" crc="3775717177" ref="barch-internship"/>
     <file name="iefonts_barch-internship.css" crc="189664267" ref="barch-internship"/>
-    <file name="nemo.css" crc="3852258470" ref="nemo"/>
-    <file name="iefonts_nemo.css" crc="536396057" ref="nemo"/>
+    <file name="nemo.css" crc="4272991498" ref="nemo"/>
+    <file name="iefonts_nemo.css" crc="366533496" ref="nemo"/>
     <file name="spray-hood.css" crc="3821945443" ref="spray-hood"/>
     <file name="iefonts_spray-hood.css" crc="4284907898" ref="spray-hood"/>
     <file name="portfolio.css" crc="40620724" ref="portfolio"/>
@@ -30,7 +30,7 @@
     <file name="iefonts_turbulences.css" crc="4025440349" ref="turbulences"/>
     <file name="coco-650.css" crc="513080606" ref="coco-650"/>
     <file name="iefonts_coco-650.css" crc="4283149" ref="coco-650"/>
-    <file name="index.css" crc="2599953" ref="index"/>
+    <file name="index.css" crc="3957794180" ref="index"/>
     <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4083600190" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="iefonts_augmented-reality---immersion-in-3d-virtual-worlds.css" crc="3807549886" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
     <file name="osaka-competition.css" crc="4206899437" ref="osaka-competition"/>
@@ -168,25 +168,25 @@
     <file name="require.js" crc="4159430777" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="276223592" ref="index:portfolio:links"/>
-    <file name="home_n.png" crc="195540747" ref="index:portfolio:links"/>
-    <file name="home_h.png" crc="375260037" ref="index:portfolio:links"/>
-    <file name="home_d.png" crc="298050461" ref="index:portfolio:links"/>
-    <file name="info_n.png" crc="3868368729" ref="index:portfolio:links"/>
-    <file name="info_h.png" crc="4151302484" ref="index:portfolio:links"/>
-    <file name="info_d.png" crc="107259636" ref="index:portfolio:links"/>
-    <file name="work_n.png" crc="53164764" ref="index:portfolio:links"/>
-    <file name="work_h.png" crc="3840438204" ref="index:portfolio:links"/>
-    <file name="work_d.png" crc="3905934363" ref="index:portfolio:links"/>
-    <file name="freelancen.png" crc="4040650890" ref="index:portfolio:links"/>
-    <file name="freelance.png" crc="4245718626" ref="index:portfolio:links"/>
-    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index:portfolio:links"/>
-    <file name="nemov2-04_bw.png" crc="397504776" ref="index:portfolio:links"/>
-    <file name="linkn.png" crc="11545926" ref="index:portfolio:links"/>
-    <file name="link.png" crc="202725025" ref="index:portfolio:links"/>
-    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:portfolio:links"/>
-    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:portfolio:links"/>
-    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:portfolio:links"/>
+    <file name="favicon.ico" crc="276223592" ref="index:portfolio:links:nemo"/>
+    <file name="home_n.png" crc="195540747" ref="index:portfolio:links:nemo"/>
+    <file name="home_h.png" crc="375260037" ref="index:portfolio:links:nemo"/>
+    <file name="home_d.png" crc="298050461" ref="index:portfolio:links:nemo"/>
+    <file name="info_n.png" crc="3868368729" ref="index:portfolio:links:nemo"/>
+    <file name="info_h.png" crc="4151302484" ref="index:portfolio:links:nemo"/>
+    <file name="info_d.png" crc="107259636" ref="index:portfolio:links:nemo"/>
+    <file name="work_n.png" crc="53164764" ref="index:portfolio:links:nemo"/>
+    <file name="work_h.png" crc="3840438204" ref="index:portfolio:links:nemo"/>
+    <file name="work_d.png" crc="3905934363" ref="index:portfolio:links:nemo"/>
+    <file name="freelancen.png" crc="4040650890" ref="index:portfolio:links:nemo"/>
+    <file name="freelance.png" crc="4245718626" ref="index:portfolio:links:nemo"/>
+    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index:portfolio:links:nemo"/>
+    <file name="nemov2-04_bw.png" crc="397504776" ref="index:portfolio:links:nemo"/>
+    <file name="linkn.png" crc="11545926" ref="index:portfolio:links:nemo"/>
+    <file name="link.png" crc="202725025" ref="index:portfolio:links:nemo"/>
+    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:portfolio:links:nemo"/>
+    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:portfolio:links:nemo"/>
+    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:portfolio:links:nemo"/>
     <file name="stacks_image_211.jpg" crc="4031575006" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="stacks_image_215.jpg" crc="3807325114" seo="true" ref="index"/>
@@ -255,13 +255,13 @@
     <file name="339183_4572003097306_1739524510_o - copy.jpg" crc="228515848" seo="true" ref="index"/>
     <file name="290858_2344189963370_6370244_o - copy.jpg" crc="521382383" seo="true" ref="index:windsurfing"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="nemov2-03.png" crc="337580211" ref="index"/>
+    <file name="nemov2-03.png" crc="4224049567" ref="index:nemo" seo="true"/>
     <file name="btn_h-u1434-r-fr.png" crc="3769633633" ref="index"/>
     <file name="btn_d-u1434-m-fr.png" crc="3964317323" ref="index"/>
     <file name="rendu _ s-g - copy-u3439-fr.png" crc="3842765066" ref="index"/>
     <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:portfolio:links"/>
+    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:portfolio:links:nemo"/>
     <file name="git01.png" crc="4224509423" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="sheep.png" crc="360161991" ref="portfolio:sheep-vpp"/>
     <file name="japontest02-u41953-fr.jpg" crc="462973694" ref="portfolio"/>
@@ -475,7 +475,6 @@
     <file name="nemo-1mono-u38371-fr.jpg" crc="3826893228" ref="msc-internship"/>
     <file name="nemo-2multi.jpg" crc="3886558557" ref="msc-internship"/>
     <file name="nemo-3_savitsky-u38370-fr.jpg" crc="3984139405" ref="msc-internship"/>
-    <file name="nemo-1mono-u38531-fr.jpg" crc="498716275" ref="nemo"/>
     <file name="2018-09-26-u41645-fr.png" crc="3984513172" ref="structure---weight-estimate"/>
     <file name="2018-10-03-u41643-fr.png" crc="303707409" ref="structure---weight-estimate"/>
     <file name="neuman01-u41644-fr.jpg" crc="75676644" ref="structure---weight-estimate"/>
@@ -510,8 +509,10 @@
     <file name="arrow_right-u42267-r-fr.png" crc="4004836838" ref="maritime-excellences-center"/>
     <file name="pc-u42380-fr.jpg" crc="4193103995" ref="portfolio"/>
     <file name="nemo-1mono_cover.jpg" crc="4037890238" seo="true" ref="index"/>
+    <file name="nemo-1cover829x429.jpg" crc="332609359" seo="true" ref="index"/>
+    <file name="nemo-1cover-u38531-fr.jpg" crc="236172519" ref="nemo"/>
   </folder>
-  <file name="index.html" crc="326796502" seo="true" mt="1562409123327" redirect="true"/>
+  <file name="index.html" crc="4220618691" seo="true" mt="1571153208507" redirect="true"/>
   <file name="portfolio.html" crc="3802932535" seo="true" mt="1562408247457" redirect="true"/>
   <file name="resume.html" crc="267702788" seo="true" mt="1556880832786" redirect="true"/>
   <file name="consulting.html" crc="4285029757" seo="true" mt="1556880832786" redirect="true"/>
@@ -566,7 +567,7 @@
   <file name="ship-structures-lab.html" crc="89142255" seo="true" mt="1556880832786" redirect="true"/>
   <file name="spray-hood.html" crc="207780950" seo="true" mt="1556880832786" redirect="true"/>
   <file name="msc-internship.html" crc="139158633" seo="true" mt="1556880832786" redirect="true"/>
-  <file name="nemo.html" crc="4025323179" seo="true" mt="1556880832786" redirect="true"/>
+  <file name="nemo.html" crc="4015427592" seo="true" mt="1571209106317" redirect="true"/>
   <file name="structure---weight-estimate.html" crc="4054908396" seo="true" mt="1556880832786" redirect="true"/>
   <file name="river-cruise-vessel.html" crc="80402291" seo="true" mt="1556880832786" redirect="true"/>
   <file name="l2o-naval.html" crc="4236090183" seo="true" mt="1556885129950" redirect="true"/>
