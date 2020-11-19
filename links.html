@@ -10,7 +10,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "links.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "links.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=276223592"/>
@@ -18,10 +18,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=91163874"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3914449975"/>
-  <link rel="stylesheet" type="text/css" href="css/links.css?crc=4189814011" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/links.css?crc=108301927" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_links.css?crc=532016523"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_links.css?crc=142997467"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -77,13 +77,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u2457" href="portfolio.html"><!-- vertical box --><div class="colelem" id="u2459"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u2458-4"><!-- content --><p>PORTFOLIO</p></div></a>
      </div>
      <div class="MenuItemContainer clearfix colelem" id="u5770"><!-- horizontal box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u5771" href="consulting.html"><!-- vertical box --><div class="museBGSize colelem" id="u5772"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5774-4"><!-- content --><p>CONSULTING</p></div></a>
      </div>
      <div class="MenuItemContainer clearfix colelem" id="u38536"><!-- horizontal box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u38537" href="nemo.html"><!-- vertical box --><div class="museBGSize colelem" id="u38540"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u38539-4"><!-- content --><p>NEMO</p></div></a>
      </div>
      <div class="MenuItemContainer clearfix colelem" id="u5877"><!-- horizontal box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u5880" href="links.html"><!-- vertical box --><div class="museBGSize colelem" id="u5883"><!-- content --></div><div class="MenuItemLabel clearfix colelem" id="u5881-4"><!-- content --><p>LINKS</p></div></a>
      </div>
     </nav>
    </div>
@@ -98,7 +98,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p id="u5308-2">Mathieu VENOT</p>
         <p id="u5308-4">[Naval] || {Computation} || Architecture</p>
        </div>
-       <a class="nonblock nontext ImgHover transition grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
+       <a class="nonblock nontext ImgHover transition museBGSize grpelem" id="u2049" href="http://mathieuvenot.com"><!-- content --></a>
       </div>
      </div>
     </div>
@@ -106,85 +106,112 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      
             
     </div>
-    <div class="clearfix colelem" id="u5868-407"><!-- content -->
+    <div class="clearfix colelem" id="u5868-491"><!-- content -->
      <p id="u5868-2">// AGENCIES | OFFICES</p>
      <p id="u5868-3">&nbsp;</p>
-     <p id="u5868-9">- <span><a class="nonblock" href="https://www.facebook.com/pages/category/Athlete/Adrien-Hardy-1504625636478300/" target="_blank">Adrien HARDY</a></span> [2007]</p>
-     <p id="u5868-15">- <span><a class="nonblock" href="http://www.atelierchristiangirard.com/" target="_blank">Atelier Christian Girard</a></span> (Christian GIRARD)</p>
-     <p id="u5868-21">- <span><a class="nonblock" href="http://www.architecte-loyer.com/" target="_blank">Atelier Loyer</a></span> (Philippe LOYER)</p>
-     <p id="u5868-27">- <span><a class="nonblock" href="http://www.arco-marine.fr/" target="_blank">Arco Marine</a></span> [2001]</p>
-     <p id="u5868-33">- <span><a class="nonblock" href="http://www.christophe-barreau.fr/" target="_blank">Christophe BARREAU</a></span> [2011]</p>
-     <p id="u5868-39">- <span><a class="nonblock" href="http://www.clementldgosselin.eu/" target="_blank">Clément GOSSELIN</a></span> [2016]</p>
-     <p id="u5868-53">- <span><a class="nonblock" href="http://dixie-lab.com" target="_blank">Dixie Lab</a></span> (<span><a class="nonblock" href="http://oswaldpfeiffer.com/" target="_blank">Oswald PFEIFFER</a></span> / <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span> / Romain DUBALLET / Kais SHILI) [2016]</p>
-     <p id="u5868-63">- <span><a class="nonblock" href="http://elxir.fr" target="_blank">Elxir</a></span> (<span><a class="nonblock" href="http://philippebompas.com/" target="_blank">Philippe BOMPAS</a></span>) [2017]</p>
-     <p id="u5868-69">- <span><a class="nonblock" href="http://ezct.net/home.php" target="_blank">EZCT Architecture &amp; Design Research</a></span> (Philippe MOREL | Felix AGID | Jelle FERINGA) [2000]</p>
-     <p id="u5868-75">- <span><a class="nonblock" href="http://www.ingenieur-architecte-naval.com/" target="_blank">Frédéric NEUMAN</a></span> [2011]</p>
-     <p id="u5868-81">- <span><a class="nonblock" href="https://graindesail.com/" target="_blank">Grain de Sail</a></span> [2010]</p>
-     <p id="u5868-87">- <span><a class="nonblock" href="http://www.hugoaularge.fr/" target="_blank">Hugo LAURAS</a></span> [2018]</p>
-     <p id="u5868-93">- <span><a class="nonblock" href="https://kevinbloch.fr/" target="_blank">Kévin BLOCH</a></span> [2018]</p>
-     <p id="u5868-99">- <span><a class="nonblock" href="http://www.l2onaval.com/" target="_blank">L2Onaval</a></span> (Loys LECLERCQ) [2014]</p>
-     <p id="u5868-105">- <span><a class="nonblock" href="http://www.nathanaeldorent.com/en/" target="_blank">NDA</a></span> (Nathanael DORENT) [2010]</p>
-     <p id="u5868-111">- <span><a class="nonblock" href="http://noumena.io/" target="_blank">Noumena</a></span> (Aldo SOLLAZZO | Chirag RANGHOLIA | Efilena BASETA | Matteo DI SORA) [2011]</p>
-     <p id="u5868-117">- <span><a class="nonblock" href="http://www.nousengineering.com/" target="_blank">Nous Engineering</a></span> (Elizabeth MAHLOW | Matthew MELNYK | Omar GARZA | Manja VAN DE WORP) [2010]</p>
-     <p id="u5868-123">- <span><a class="nonblock" href="https://oswaldpfeiffer.wordpress.com/" target="_blank">Oswald PFEIFFER</a></span> [2015]</p>
-     <p id="u5868-129">- <span><a class="nonblock" href="https://paul-francois.fr/" target="_blank">Paul FRANCOIS</a></span> [2015]</p>
-     <p id="u5868-135">- <span><a class="nonblock" href="https://www.paulpoinet.com/" target="_blank">Paul POINET</a></span> [2013]</p>
-     <p id="u5868-141">- <span><a class="nonblock" href="http://philippebompas.com/" target="_blank">Philippe BOMPAS</a></span> [2012]</p>
-     <p id="u5868-147">- <span><a class="nonblock" href="http://www.plethora-project.com/" target="_blank">Plethora Project</a></span> (Jose SANCHEZ) [2009]</p>
-     <p id="u5868-165">- <span><a class="nonblock" href="http://sobjexurde.net/" target="_blank">Sobjexurde</a></span> (<span><a class="nonblock" href="http://www.clementldgosselin.eu/" target="_blank">Clément GOSSELIN</a></span> | <span><a class="nonblock" href="http://paulpoi.net/" target="_blank">Paul POINET</a></span> | <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span>) [2013]</p>
-     <p id="u5868-171">- <span><a class="nonblock" href="http://soja-architecture.com/" target="_blank">Soja-Architecture</a></span> (Jean-Aimé SHU) [2013]</p>
-     <p id="u5868-177">- <span><a class="nonblock" href="https://www.stirlingdesign.fr/" target="_blank">Stirling Design International</a></span> [2007]</p>
-     <p id="u5868-183">- <span><a class="nonblock" href="https://oceans.taraexpeditions.org/en/" target="_blank">Tara Expeditions</a></span> [1989]</p>
-     <p id="u5868-189">- <span><a class="nonblock" href="http://www.compmonks.com/wp/" target="_blank">The Computational Monkeys</a></span> (Pierre CUTELLIC) [2012]</p>
-     <p id="u5868-195">- <span><a class="nonblock" href="http://thibaultschwartz.com/" target="_blank">Thibault SCHWARTZ</a></span> [2008]</p>
-     <p id="u5868-201">- <span><a class="nonblock" href="https://vplp.fr/" target="_blank">VPLP</a></span> [1983]</p>
-     <p id="u5868-207">- <span><a class="nonblock" href="http://wao.paris/" target="_blank">WAO</a></span> (Minh Man Nguyen | Clément Duroselle) [2011]</p>
-     <p id="u5868-208">&nbsp;</p>
-     <p id="u5868-209">&nbsp;</p>
-     <p id="u5868-211">// COMPUTATION | PROGRAMMING</p>
-     <p id="u5868-212">&nbsp;</p>
-     <p id="u5868-226">- <span><a class="nonblock" href="http://dixievr.github.io" target="_blank">DixieVR</a></span> (<span><a class="nonblock" href="http://oswaldpfeiffer.com/" target="_blank">Oswald PFEIFFER</a></span> / <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span>) [2015]</p>
-     <p id="u5868-236">- <span><a class="nonblock" href="http://hal.thibaultschwartz.com/" target="_blank">HAL For Grasshopper</a></span> (<span><a class="nonblock" href="http://thibaultschwartz.com/" target="_blank">Thibault SCHWARTZ</a></span>) [2008]</p>
-     <p id="u5868-246">- <span><a class="nonblock" href="https://www.grasshopper3d.com/group/gismo" target="_blank">Gismo</a></span> (<span><a class="nonblock" href="https://smallwhitecloud.wordpress.com/" target="_blank">Djordje Spasic</a></span>) [2017]</p>
-     <p id="u5868-256">- <span><a class="nonblock" href="http://mathieuvenot.com/nemo/" target="_blank">Nemo</a></span> (<span><a class="nonblock" href="http://mathieuvenot.com/" target="_blank">Mathieu VENOT</a></span>) [2018]</p>
+     <p id="u5868-9">- <span><a class="nonblock" href="https://www.acems.fr/" target="_blank">ACEMS</a></span> (Laurent BOUYSSOU) [2015]</p>
+     <p id="u5868-15">- <span><a class="nonblock" href="https://www.facebook.com/pages/category/Athlete/Adrien-Hardy-1504625636478300/" target="_blank">Adrien HARDY</a></span> [2007]</p>
+     <p id="u5868-21">- <span><a class="nonblock" href="https://www.linkedin.com/in/olivier-petit-591b8b42/" target="_blank">Atelier Architecture Navale</a></span> (Olivier PETIT) [2009]</p>
+     <p id="u5868-27">- <span><a class="nonblock" href="http://www.atelierchristiangirard.com/" target="_blank">Atelier Christian Girard</a></span> (Christian GIRARD)</p>
+     <p id="u5868-33">- <span><a class="nonblock" href="http://www.architecte-loyer.com/" target="_blank">Atelier Loyer</a></span> (Philippe LOYER)</p>
+     <p id="u5868-39">- <span><a class="nonblock" href="http://www.arco-marine.fr/" target="_blank">Arco Marine</a></span> [2001]</p>
+     <p id="u5868-45">- <span><a class="nonblock" href="https://jmtabuteau.com/" target="_blank">CAT</a></span> (Jean-Marc TABUTEAU)</p>
+     <p id="u5868-51">- <span><a class="nonblock" href="http://www.brouns.fr/" target="_blank">CBA</a></span> (Jean-Pierre BROUNS | Alain BECHETOILLE | Nina KARLSEDER | Johann VIELLARD) [1981]</p>
+     <p id="u5868-57">- <span><a class="nonblock" href="https://www.linkedin.com/in/c%C3%A9dric-bienassis-2b4a5310b/" target="_blank">CBStructure</a></span> (Cédric BIENASSIS) [2015]</p>
+     <p id="u5868-63">- <span><a class="nonblock" href="http://www.christophe-barreau.fr/" target="_blank">Christophe BARREAU</a></span> [2011]</p>
+     <p id="u5868-69">- <span><a class="nonblock" href="http://www.clementldgosselin.eu/" target="_blank">Clément GOSSELIN</a></span> [2016]</p>
+     <p id="u5868-83">- <span><a class="nonblock" href="http://dixie-lab.com" target="_blank">Dixie Lab</a></span> (<span><a class="nonblock" href="http://oswaldpfeiffer.com/" target="_blank">Oswald PFEIFFER</a></span> / <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span> / Romain DUBALLET / Kais SHILI) [2016]</p>
+     <p id="u5868-93">- <span><a class="nonblock" href="http://elxir.fr" target="_blank">Elxir</a></span> (<span><a class="nonblock" href="http://philippebompas.com/" target="_blank">Philippe BOMPAS</a></span>) [2017]</p>
+     <p id="u5868-99">- <span><a class="nonblock" href="http://ezct.net/home.php" target="_blank">EZCT Architecture &amp; Design Research</a></span> (Philippe MOREL | Felix AGID | Jelle FERINGA) [2000]</p>
+     <p id="u5868-105">- <span><a class="nonblock" href="http://www.ingenieur-architecte-naval.com/" target="_blank">Frédéric NEUMAN</a></span> [2011]</p>
+     <p id="u5868-111">- <span><a class="nonblock" href="https://graindesail.com/" target="_blank">Grain de Sail</a></span> [2010]</p>
+     <p id="u5868-117">- <span><a class="nonblock" href="https://www.gtt.fr/" target="_blank">GTT</a></span> [1994]</p>
+     <p id="u5868-123">- <span><a class="nonblock" href="http://www.hugoaularge.fr/" target="_blank">Hugo LAURAS</a></span> [2018]</p>
+     <p id="u5868-129">- <span><a class="nonblock" href="https://kevinbloch.fr/" target="_blank">Kévin BLOCH</a></span> [2018]</p>
+     <p id="u5868-135">- <span><a class="nonblock" href="http://www.l2onaval.com/" target="_blank">L2Onaval</a></span> (Loys LECLERCQ) [2014]</p>
+     <p id="u5868-141">- <span><a class="nonblock" href="http://l2oimages.com/" target="_blank">L2Oimages</a></span> (Loys LECLERCQ) [2014]</p>
+     <p id="u5868-147">- <span><a class="nonblock" href="http://www.nathanaeldorent.com/en/" target="_blank">NDA</a></span> (Nathanael DORENT) [2010]</p>
+     <p id="u5868-153">- <span><a class="nonblock" href="http://noumena.io/" target="_blank">Noumena</a></span> (Aldo SOLLAZZO | Chirag RANGHOLIA | Efilena BASETA | Matteo DI SORA) [2011]</p>
+     <p id="u5868-159">- <span><a class="nonblock" href="http://www.nousengineering.com/" target="_blank">Nous Engineering</a></span> (Elizabeth MAHLOW | Matthew MELNYK | Omar GARZA | Manja VAN DE WORP) [2010]</p>
+     <p id="u5868-165">- <span><a class="nonblock" href="http://oceanic-assistance.fr/en/" target="_blank">Oceanic Assistance</a></span> (Adrien HARDY | Loys LECLERCQ) [2017]</p>
+     <p id="u5868-171">- <span><a class="nonblock" href="https://oswaldpfeiffer.wordpress.com/" target="_blank">Oswald PFEIFFER</a></span> [2015]</p>
+     <p id="u5868-177">- <span><a class="nonblock" href="https://paul-francois.fr/" target="_blank">Paul FRANCOIS</a></span> [2015]</p>
+     <p id="u5868-183">- <span><a class="nonblock" href="https://www.paulpoinet.com/" target="_blank">Paul POINET</a></span> [2013]</p>
+     <p id="u5868-189">- <span><a class="nonblock" href="http://philippebompas.com/" target="_blank">Philippe BOMPAS</a></span> [2012]</p>
+     <p id="u5868-195">- <span><a class="nonblock" href="http://www.plethora-project.com/" target="_blank">Plethora Project</a></span> (Jose SANCHEZ) [2009]</p>
+     <p id="u5868-213">- <span><a class="nonblock" href="http://sobjexurde.net/" target="_blank">Sobjexurde</a></span> (<span><a class="nonblock" href="http://www.clementldgosselin.eu/" target="_blank">Clément GOSSELIN</a></span> | <span><a class="nonblock" href="http://paulpoi.net/" target="_blank">Paul POINET</a></span> | <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span>) [2013]</p>
+     <p id="u5868-219">- <span><a class="nonblock" href="http://soja-architecture.com/" target="_blank">Soja-Architecture</a></span> (Jean-Aimé SHU) [2013]</p>
+     <p id="u5868-225">- <span><a class="nonblock" href="https://www.stirlingdesign.fr/" target="_blank">Stirling Design International</a></span> [2007]</p>
+     <p id="u5868-231">- <span><a class="nonblock" href="https://oceans.taraexpeditions.org/en/" target="_blank">Tara Expeditions</a></span> [1989]</p>
+     <p id="u5868-237">- <span><a class="nonblock" href="http://www.compmonks.com/wp/" target="_blank">The Computational Monkeys</a></span> (Pierre CUTELLIC) [2012]</p>
+     <p id="u5868-243">- <span><a class="nonblock" href="http://thibaultschwartz.com/" target="_blank">Thibault SCHWARTZ</a></span> [2008]</p>
+     <p id="u5868-249">- <span><a class="nonblock" href="https://vplp.fr/" target="_blank">VPLP</a></span> [1983]</p>
+     <p id="u5868-255">- <span><a class="nonblock" href="http://wao.paris/" target="_blank">WAO</a></span> (Minh Man Nguyen | Clément Duroselle) [2011]</p>
+     <p id="u5868-256">&nbsp;</p>
      <p id="u5868-257">&nbsp;</p>
-     <p id="u5868-258">&nbsp;</p>
-     <p id="u5868-260">// EDUCATION | LEARNING</p>
-     <p id="u5868-261">&nbsp;</p>
-     <p id="u5868-267">- <span><a class="nonblock" href="http://www.aag2016.ch/" target="_blank">Advances in Architectural Geometry 2016</a></span> (AAG) [2008]</p>
-     <p id="u5868-273">- <span><a class="nonblock" href="http://www.area.eu.com/" target="_blank">AREA</a></span> [2015]</p>
-     <p id="u5868-279">- <span><a class="nonblock" href="http://www.ensam.eu/" target="_blank">Arts &amp; Metiers ParisTech</a></span> (ENSAM) [1780]</p>
-     <p id="u5868-285">- <span><a class="nonblock" href="https://kadk.dk/en/CITA" target="_blank">Centre for Information Technology and Architecture</a></span> (CITA | KADK) [2011]</p>
-     <p id="u5868-291">- <span><a class="nonblock" href="http://collectiveknowledge.ning.com/" target="_blank">CollectiveKnowledge</a></span> (ENSAPM) [2016]</p>
-     <p id="u5868-297">- <span><a class="nonblock" href="http://designbydata.org/" target="_blank">Design By Data</a></span> (ENPC) [2015]</p>
-     <p id="u5868-303">- <span><a class="nonblock" href="https://www.design-modelling-symposium.de/" target="_blank">Design Modeling Symposium 2017</a></span> (DMS) [2011]</p>
-     <p id="u5868-309">- <span><a class="nonblock" href="http://dk-digital-knowledge.com/" target="_blank">Digital-Knowledge</a></span> Department (DK | ENSAPM) [2012]</p>
-     <p id="u5868-315">- <span><a class="nonblock" href="http://www.paris-lavillette.archi.fr/" target="_blank">Ecole d'Architecture Paris La Villette</a></span> (ENSAPLV) [1969]</p>
-     <p id="u5868-321">- <span><a class="nonblock" href="http://www.paris-malaquais.archi.fr/" target="_blank">Ecole d'Architecture Paris Malaquais</a></span> (ENSAPM) [2001]</p>
-     <p id="u5868-327">- <span><a class="nonblock" href="http://www.ensta-bretagne.fr/" target="_blank">Ecole Nationale Supérieure de Techniques Avancées Bretagne</a></span> (ENSTA / ENSIETA) [1819]</p>
-     <p id="u5868-333">- <span><a class="nonblock" href="http://pimm.paris.ensam.fr/en" target="_blank">PIMM Laboratory</a></span> (PIMM | ENSAM) [2009]</p>
-     <p id="u5868-339">- <span><a class="nonblock" href="https://kadk.dk/en" target="_blank">Royal Danish Academy of Fine Arts</a></span> (KADK) [2011]</p>
-     <p id="u5868-345">- <span><a class="nonblock" href="http://synthetic-lab.net/" target="_blank">Synthetic-Lab</a></span> (ESBA TALM) [2012]</p>
-     <p id="u5868-346">&nbsp;</p>
-     <p id="u5868-347">&nbsp;</p>
-     <p id="u5868-349">// FABRICATION | SERVICES</p>
-     <p id="u5868-350">&nbsp;</p>
-     <p id="u5868-356">- <span><a class="nonblock" href="http://www.alumarine-shipyard.com/" target="_blank">Alumarine</a></span> [1986]</p>
-     <p id="u5868-362">- <span><a class="nonblock" href="http://www.lefabclub.paris/" target="_blank">leFabClub</a></span> [2015]</p>
-     <p id="u5868-368">- <span><a class="nonblock" href="http://www.lefabshop.fr/" target="_blank">leFabShop</a></span> [2012]</p>
-     <p id="u5868-374">- <span><a class="nonblock" href="http://ndar.com" target="_blank">Ndar</a></span> [2003]</p>
-     <p id="u5868-380">- <span><a class="nonblock" href="http://www.piriou.com/en/" target="_blank">Piriou</a></span> [1965]</p>
-     <p id="u5868-386">- <span><a class="nonblock" href="https://www.sailwood.fr/" target="_blank">SailWood</a></span> [2015]</p>
-     <p id="u5868-392">- <span><a class="nonblock" href="https://sealoft.fr/" target="_blank">SeaLoft</a></span> [2018]</p>
-     <p id="u5868-398">- <span><a class="nonblock" href="http://www.woma.fr/en" target="_blank">WoMa</a></span> [2013]</p>
-     <p id="u5868-404">- <span><a class="nonblock" href="http://www.xtreee.com/" target="_blank">XtreeE</a></span> [2015]</p>
-     <p id="u5868-405">&nbsp;</p>
+     <p id="u5868-259">// COMPUTATION | PROGRAMMING</p>
+     <p id="u5868-260">&nbsp;</p>
+     <p id="u5868-274">- <span><a class="nonblock" href="http://dixievr.github.io" target="_blank">DixieVR</a></span> (<span><a class="nonblock" href="http://oswaldpfeiffer.com/" target="_blank">Oswald PFEIFFER</a></span> / <span><a class="nonblock" href="index.html" target="_blank">Mathieu VENOT</a></span>) [2015]</p>
+     <p id="u5868-284">- <span><a class="nonblock" href="http://hal.thibaultschwartz.com/" target="_blank">HAL For Grasshopper</a></span> (<span><a class="nonblock" href="http://thibaultschwartz.com/" target="_blank">Thibault SCHWARTZ</a></span>) [2008]</p>
+     <p id="u5868-290">- <span><a class="nonblock" href="https://www.numeca.com/product/fine-marine" target="_blank">Fine/Marine</a></span> (Numeca) [2007]</p>
+     <p id="u5868-300">- <span><a class="nonblock" href="https://www.grasshopper3d.com/group/gismo" target="_blank">Gismo</a></span> (<span><a class="nonblock" href="https://smallwhitecloud.wordpress.com/" target="_blank">Djordje Spasic</a></span>) [2017]</p>
+     <p id="u5868-306">- <span><a class="nonblock" href="https://www.sistre-shipdesign-software.com/" target="_blank">Maat Hydro</a></span> (Sistre) [1981]</p>
+     <p id="u5868-316">- <span><a class="nonblock" href="http://mathieuvenot.com/nemo/" target="_blank">Nemo</a></span> (<span><a class="nonblock" href="http://mathieuvenot.com/" target="_blank">Mathieu VENOT</a></span>) [2018]</p>
+     <p id="u5868-322">- <span><a class="nonblock" href="https://orca3d.com/" target="_blank">Orca</a></span> [2008]</p>
+     <p id="u5868-323">&nbsp;</p>
+     <p id="u5868-324">&nbsp;</p>
+     <p id="u5868-326">// EDUCATION | LEARNING</p>
+     <p id="u5868-327">&nbsp;</p>
+     <p id="u5868-333">- <span><a class="nonblock" href="http://www.aag2016.ch/" target="_blank">Advances in Architectural Geometry 2016</a></span> (AAG) [2008]</p>
+     <p id="u5868-339">- <span><a class="nonblock" href="http://www.area.eu.com/" target="_blank">AREA</a></span> [2015]</p>
+     <p id="u5868-345">- <span><a class="nonblock" href="http://www.ensam.eu/" target="_blank">Arts &amp; Metiers ParisTech</a></span> (ENSAM) [1780]</p>
+     <p id="u5868-351">- <span><a class="nonblock" href="https://kadk.dk/en/CITA" target="_blank">Centre for Information Technology and Architecture</a></span> (CITA | KADK) [2011]</p>
+     <p id="u5868-357">- <span><a class="nonblock" href="http://collectiveknowledge.ning.com/" target="_blank">CollectiveKnowledge</a></span> (ENSAPM) [2016]</p>
+     <p id="u5868-363">- <span><a class="nonblock" href="http://designbydata.org/" target="_blank">Design By Data</a></span> (ENPC) [2015]</p>
+     <p id="u5868-369">- <span><a class="nonblock" href="https://www.design-modelling-symposium.de/" target="_blank">Design Modeling Symposium 2017</a></span> (DMS) [2011]</p>
+     <p id="u5868-375">- <span><a class="nonblock" href="http://dk-digital-knowledge.com/" target="_blank">Digital-Knowledge</a></span> Department (DK | ENSAPM) [2012]</p>
+     <p id="u5868-381">- <span><a class="nonblock" href="http://www.paris-lavillette.archi.fr/" target="_blank">Ecole d'Architecture Paris La Villette</a></span> (ENSAPLV) [1969]</p>
+     <p id="u5868-387">- <span><a class="nonblock" href="http://www.paris-malaquais.archi.fr/" target="_blank">Ecole d'Architecture Paris Malaquais</a></span> (ENSAPM) [2001]</p>
+     <p id="u5868-393">- <span><a class="nonblock" href="http://www.ensta-bretagne.fr/" target="_blank">Ecole Nationale Supérieure de Techniques Avancées Bretagne</a></span> (ENSTA / ENSIETA) [1819]</p>
+     <p id="u5868-399">- <span><a class="nonblock" href="http://pimm.paris.ensam.fr/en" target="_blank">PIMM Laboratory</a></span> (PIMM | ENSAM) [2009]</p>
+     <p id="u5868-405">- <span><a class="nonblock" href="https://kadk.dk/en" target="_blank">Royal Danish Academy of Fine Arts</a></span> (KADK) [2011]</p>
+     <p id="u5868-411">- <span><a class="nonblock" href="http://synthetic-lab.net/" target="_blank">Synthetic-Lab</a></span> (ESBA TALM) [2012]</p>
+     <p id="u5868-412">&nbsp;</p>
+     <p id="u5868-413">&nbsp;</p>
+     <p id="u5868-415">// FABRICATION | SERVICES</p>
+     <p id="u5868-416">&nbsp;</p>
+     <p id="u5868-422">- <span><a class="nonblock" href="http://www.alumarine-shipyard.com/" target="_blank">Alumarine</a></span> [1986]</p>
+     <p id="u5868-428">- <span><a class="nonblock" href="https://chantiers-atlantique.com/" target="_blank">Chantiers de l'Atlantique</a></span> [1862]</p>
+     <p id="u5868-434">- <span><a class="nonblock" href="http://www.lefabclub.paris/" target="_blank">leFabClub</a></span> [2015]</p>
+     <p id="u5868-440">- <span><a class="nonblock" href="http://www.lefabshop.fr/" target="_blank">leFabShop</a></span> [2012]</p>
+     <p id="u5868-446">- <span><a class="nonblock" href="http://ndar.com" target="_blank">Ndar</a></span> [2003]</p>
+     <p id="u5868-452">- <span><a class="nonblock" href="http://www.piriou.com/en/" target="_blank">Piriou</a></span> [1965]</p>
+     <p id="u5868-458">- <span><a class="nonblock" href="https://www.plastimer.com/" target="_blank">Plastimer</a></span> [1965]</p>
+     <p id="u5868-464">- <span><a class="nonblock" href="https://www.sailwood.fr/" target="_blank">SailWood</a></span> [2015]</p>
+     <p id="u5868-470">- <span><a class="nonblock" href="http://www.saviboat.fr/" target="_blank">Saviboat</a></span> [1987]</p>
+     <p id="u5868-476">- <span><a class="nonblock" href="https://sealoft.fr/" target="_blank">SeaLoft</a></span> [2018]</p>
+     <p id="u5868-482">- <span><a class="nonblock" href="http://www.woma.fr/en" target="_blank">WoMa</a></span> [2013]</p>
+     <p id="u5868-488">- <span><a class="nonblock" href="http://www.xtreee.com/" target="_blank">XtreeE</a></span> [2015]</p>
+     <p id="u5868-489">&nbsp;</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1397" data-content-above-spacer="1397" data-content-below-spacer="72"></div>
+   <div class="verticalspacer" data-offset-top="1646" data-content-above-spacer="1646" data-content-below-spacer="72"></div>
    <div class="clearfix grpelem" id="u2802-4"><!-- content -->
     <p>All content © 2011-2019 by Mathieu VENOT</p>
    </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/home_h.png?crc=375260037" alt=""/>
+   <img class="preload" src="images/home_d.png?crc=298050461" alt=""/>
+   <img class="preload" src="images/info_h.png?crc=4151302484" alt=""/>
+   <img class="preload" src="images/info_d.png?crc=107259636" alt=""/>
+   <img class="preload" src="images/work_h.png?crc=3840438204" alt=""/>
+   <img class="preload" src="images/work_d.png?crc=3905934363" alt=""/>
+   <img class="preload" src="images/freelance.png?crc=4245718626" alt=""/>
+   <img class="preload" src="images/nemov2-04_bw.png?crc=397504776" alt=""/>
+   <img class="preload" src="images/link.png?crc=202725025" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copyn.png?crc=4071392904" alt=""/>
+   <img class="preload" src="images/1637_1637%20-%20copy%20-%20copy.png?crc=3847620749" alt=""/>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -204,7 +231,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(false);/* body */

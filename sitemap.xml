@@ -740,7 +740,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/links.html</loc>
-    <lastmod>2019-09-26</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -748,6 +748,9 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
