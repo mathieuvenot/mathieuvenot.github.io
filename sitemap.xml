@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2019-10-16</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -150,19 +150,16 @@
       <image:loc>http://mathieuvenot.com/images/dsc_83512.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/rendu%20bague2%20final.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mathieuvenot.com/images/mazinlamplight03.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/locationgrabber03_gismo9_21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/nemo-1mono_cover.jpg</image:loc>
+      <image:loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/nemo-1cover829x429.jpg</image:loc>
+      <image:loc>http://mathieuvenot.com/images/nemo-1mono_cover.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/kawaan.png</image:loc>
@@ -178,9 +175,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/20181205_161025-crop-u41868.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/images/waves01-crop-u41888.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/2019-01-18.png</image:loc>
@@ -207,9 +201,6 @@
       <image:loc>http://mathieuvenot.com/images/campus-centre-recherche.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/13.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mathieuvenot.com/images/img_20170318_0001%20-%20copy.jpg</image:loc>
     </image:image>
     <image:image>
@@ -220,6 +211,18 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/290858_2344189963370_6370244_o%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/nemo-1cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/nemo-2cover829x408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/hylias-hydrogene_091120-crop-u43028.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/20190831_132201-crop-u42955.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -350,7 +353,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/l2o-naval.html</loc>
-    <lastmod>2019-05-03</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -413,7 +416,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/nemo.html</loc>
-    <lastmod>2019-10-16</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -515,7 +518,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/spray-hood.html</loc>
-    <lastmod>2019-05-03</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -683,7 +686,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2019-07-06</lastmod>
+    <lastmod>2020-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -691,6 +694,9 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
@@ -1105,6 +1111,9 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/highresscreenshot00002.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/project_arrow_left.png</image:loc>
