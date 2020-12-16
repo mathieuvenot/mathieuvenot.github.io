@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1608121891662">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1608122431880">
   <folder name="css">
-    <file name="site_global.css" crc="91163874"/>
-    <file name="master_a-master.css" crc="4206960045" ref="maritime-excellences-center:outlying-visions:materialization---structuring:sheep-vpp:housing-project:representation:digital-fabrication:urban-story:robotic-interactivity:turbulences:design-modelling-symposium:osaka-competition:global-schindler-award-2015:ship-design-loop:march-internship:light-structure:sailing-yacht-design:regressive-resolutions:machine-vision:artscience-experimentation-to-human-body:long-project:freycinet-barge:digital-design-literacy-2:robotic---control:first-35:digital-design-literacy-3:rm-1050:disassembly:index:windsurfing:coco-650:portfolio:sketch:structures---materials:ship-structures-lab:digital-design-literacy-1:resume:spray-hood:advances-in-architectural-geometry:digital-fabrication-2:algorithm:msc-internship:nemo:barch-internship:structure---weight-estimate:diploma:river-cruise-vessel:shuffle-rings:thesis:consulting:l2o-naval:lighting:mad-man:links:xxl-3d-printing:digital-fine-arts:augmented-reality---immersion-in-3d-virtual-worlds:image-sampler:virtual-lobby:mazin-lamps:vr-design-rendering:regressive-resolutions-2013:gis---cad"/>
+    <file name="site_global.css" crc="284965949"/>
+    <file name="master_a-master.css" crc="4072844685" ref="maritime-excellences-center:outlying-visions:materialization---structuring:sheep-vpp:housing-project:representation:digital-fabrication:urban-story:robotic-interactivity:turbulences:design-modelling-symposium:osaka-competition:global-schindler-award-2015:ship-design-loop:march-internship:light-structure:sailing-yacht-design:regressive-resolutions:machine-vision:artscience-experimentation-to-human-body:long-project:freycinet-barge:digital-design-literacy-2:robotic---control:first-35:digital-design-literacy-3:rm-1050:disassembly:index:windsurfing:coco-650:portfolio:sketch:structures---materials:ship-structures-lab:digital-design-literacy-1:resume:spray-hood:advances-in-architectural-geometry:digital-fabrication-2:algorithm:msc-internship:nemo:barch-internship:structure---weight-estimate:diploma:river-cruise-vessel:shuffle-rings:thesis:consulting:l2o-naval:lighting:mad-man:links:xxl-3d-printing:digital-fine-arts:augmented-reality---immersion-in-3d-virtual-worlds:image-sampler:virtual-lobby:mazin-lamps:vr-design-rendering:regressive-resolutions-2013:gis---cad"/>
     <file name="maritime-excellences-center.css" crc="3855287071" ref="maritime-excellences-center"/>
     <file name="iefonts_maritime-excellences-center.css" crc="3785238959" ref="maritime-excellences-center"/>
     <file name="outlying-visions.css" crc="3951600164" ref="outlying-visions"/>
@@ -99,8 +99,8 @@
     <file name="iefonts_shuffle-rings.css" crc="4229320806" ref="shuffle-rings"/>
     <file name="thesis.css" crc="3870634906" ref="thesis"/>
     <file name="iefonts_thesis.css" crc="197767566" ref="thesis"/>
-    <file name="consulting.css" crc="504328527" ref="consulting"/>
-    <file name="iefonts_consulting.css" crc="3880297447" ref="consulting"/>
+    <file name="consulting.css" crc="346261700" ref="consulting"/>
+    <file name="iefonts_consulting.css" crc="418054857" ref="consulting"/>
     <file name="l2o-naval.css" crc="161425361" ref="l2o-naval"/>
     <file name="iefonts_l2o-naval.css" crc="4246652553" ref="l2o-naval"/>
     <file name="lighting.css" crc="3818849898" ref="lighting"/>
@@ -169,322 +169,349 @@
     <file name="require.js" crc="4177726516" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="276223592" ref="index:augmented-reality---immersion-in-3d-virtual-worlds"/>
+    <file name="favicon.ico" crc="276223592" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting"/>
     <file name="git01.png" crc="4224509423" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="barch-internship" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="nemo" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
       <caption webpage="mad-man" alt=""/>
       <caption webpage="spray-hood" alt=""/>
+      <caption webpage="digital-fabrication" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
       <caption webpage="rm-1050" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="light-structure" alt=""/>
       <caption webpage="coco-650" alt=""/>
       <caption webpage="first-35" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="links" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="image-sampler" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="nemo" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
       <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
       <caption webpage="global-schindler-award-2015" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="digital-design-literacy-1" alt=""/>
       <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="algorithm" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="image-sampler" alt=""/>
+      <caption webpage="turbulences" alt=""/>
       <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="long-project" alt=""/>
     </file>
     <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="barch-internship" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="nemo" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
       <caption webpage="mad-man" alt=""/>
       <caption webpage="spray-hood" alt=""/>
+      <caption webpage="digital-fabrication" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
       <caption webpage="rm-1050" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="light-structure" alt=""/>
       <caption webpage="coco-650" alt=""/>
       <caption webpage="first-35" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="links" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="image-sampler" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="nemo" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
       <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
       <caption webpage="global-schindler-award-2015" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="digital-design-literacy-1" alt=""/>
       <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
-    </file>
-    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
-      <caption webpage="index" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
       <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="algorithm" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="image-sampler" alt=""/>
+      <caption webpage="turbulences" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="long-project" alt=""/>
+    </file>
+    <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
+      <caption webpage="index" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
     <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:consulting:links:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="barch-internship" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="nemo" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
       <caption webpage="mad-man" alt=""/>
       <caption webpage="spray-hood" alt=""/>
+      <caption webpage="digital-fabrication" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
       <caption webpage="rm-1050" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="light-structure" alt=""/>
       <caption webpage="coco-650" alt=""/>
       <caption webpage="first-35" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="links" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="image-sampler" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="nemo" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
       <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
       <caption webpage="global-schindler-award-2015" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="digital-design-literacy-1" alt=""/>
       <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="algorithm" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="image-sampler" alt=""/>
+      <caption webpage="turbulences" alt=""/>
       <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="long-project" alt=""/>
     </file>
-    <file name="home_n.png" crc="195540747" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="home_n.png" crc="195540747" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="home_h.png" crc="375260037" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="home_h.png" crc="375260037" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="home_d.png" crc="298050461" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="home_d.png" crc="298050461" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="info_n.png" crc="3868368729" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="info_n.png" crc="3868368729" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="info_h.png" crc="4151302484" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="info_h.png" crc="4151302484" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="info_d.png" crc="107259636" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="info_d.png" crc="107259636" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="work_n.png" crc="53164764" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="work_n.png" crc="53164764" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="work_h.png" crc="3840438204" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="work_h.png" crc="3840438204" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="work_d.png" crc="3905934363" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="work_d.png" crc="3905934363" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="freelancen.png" crc="4040650890" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="freelancen.png" crc="4040650890" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="freelance.png" crc="4245718626" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="freelance.png" crc="4245718626" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="nemov2-04_bw(2).png" crc="513917836" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="nemov2-04_bw.png" crc="397504776" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="nemov2-04_bw.png" crc="397504776" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="linkn.png" crc="11545926" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="linkn.png" crc="11545926" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="link.png" crc="202725025" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="link.png" crc="202725025" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:augmented-reality---immersion-in-3d-virtual-worlds"/>
-    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="1637_1637 - copy - copy-u2049-fr.png" crc="3879644" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting"/>
+    <file name="1637_1637 - copy - copyn.png" crc="4071392904" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
-    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:augmented-reality---immersion-in-3d-virtual-worlds">
+    <file name="1637_1637 - copy - copy.png" crc="3847620749" ref="index:augmented-reality---immersion-in-3d-virtual-worlds:consulting">
       <caption webpage="index" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="links" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
     </file>
     <file name="stacks_image_211.jpg" crc="4031575006" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -814,7 +841,7 @@
     <file name="img_1833c.jpg" crc="432665906" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="rendu _ s-g - copy.png" crc="4002895860" ref="consulting:long-project">
+    <file name="rendu _ s-g - copy.png" crc="189004518" ref="consulting:long-project">
       <caption webpage="consulting" alt=""/>
       <caption webpage="long-project" alt=""/>
     </file>
@@ -1286,7 +1313,7 @@
   <file name="index.html" crc="445901223" seo="true" mt="1608117336000" redirect="true"/>
   <file name="portfolio.html" crc="3988997119" seo="true" mt="1608117441276" redirect="true"/>
   <file name="resume.html" crc="224579505" seo="true" mt="1608117480574" redirect="true"/>
-  <file name="consulting.html" crc="4148442576" seo="true" mt="1608117395827" redirect="true"/>
+  <file name="consulting.html" crc="3897755433" seo="true" mt="1608122415904" redirect="true"/>
   <file name="links.html" crc="51278768" seo="true" mt="1608117336000" redirect="true"/>
   <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="4286137149" seo="true" mt="1608121473345" redirect="true"/>
   <file name="digital-fabrication.html" crc="493494082" seo="true" mt="1608121482434" redirect="true"/>
