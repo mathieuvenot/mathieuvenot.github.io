@@ -698,7 +698,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/resume.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -706,6 +706,9 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
@@ -1511,7 +1514,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2021-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1523,7 +1526,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2021-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
