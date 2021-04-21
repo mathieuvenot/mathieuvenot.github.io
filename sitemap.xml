@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/index.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -186,6 +186,9 @@
       <image:loc>http://mathieuvenot.com/images/hylias-hydrogene_091120-crop-u43028.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://mathieuvenot.com/images/2019-01-18.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://mathieuvenot.com/images/japontest02.jpg</image:loc>
     </image:image>
     <image:image>
@@ -218,10 +221,13 @@
     <image:image>
       <image:loc>http://mathieuvenot.com/images/339183_4572003097306_1739524510_o%20-%20copy.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/images/290858_2344189963370_6370244_o%20-%20copy.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mathieuvenot.com/housing-project.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -242,7 +248,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/materialization---structuring.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,7 +269,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/representation.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -284,7 +290,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/maritime-excellences-center.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -305,7 +311,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/vr-design-rendering.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -326,7 +332,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/sheep-vpp.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -347,7 +353,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/l2o-naval.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -368,7 +374,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/river-cruise-vessel.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -389,7 +395,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/image-sampler.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -402,6 +408,9 @@
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://mathieuvenot.com/images/2019-01-18.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://mathieuvenot.com/images/project_arrow_left.png</image:loc>
     </image:image>
     <image:image>
@@ -410,7 +419,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/nemo.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -428,7 +437,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/msc-internship.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -449,7 +458,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/structure---weight-estimate.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -470,7 +479,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/ship-structures-lab.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -491,7 +500,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/sketch.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -512,7 +521,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/spray-hood.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -533,7 +542,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/rm-1050.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -554,7 +563,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/first-35.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -575,7 +584,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/windsurfing.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -588,6 +597,9 @@
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://mathieuvenot.com/images/290858_2344189963370_6370244_o%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://mathieuvenot.com/images/project_arrow_left.png</image:loc>
     </image:image>
     <image:image>
@@ -596,7 +608,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/freycinet-barge.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -617,7 +629,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/long-project.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -638,7 +650,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/coco-650.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -659,7 +671,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/ship-design-loop.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -680,7 +692,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/portfolio.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -698,7 +710,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/resume.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -706,9 +718,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
@@ -722,7 +731,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/consulting.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -732,15 +741,12 @@
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://mathieuvenot.com/links.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -755,7 +761,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/augmented-reality---immersion-in-3d-virtual-worlds.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -763,9 +769,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
@@ -779,7 +782,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-fabrication.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -800,7 +803,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/robotic-interactivity.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -821,7 +824,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/artscience-experimentation-to-human-body.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -842,7 +845,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/regressive-resolutions.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -863,7 +866,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/robotic---control.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -884,7 +887,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-design-literacy-3.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -905,7 +908,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/osaka-competition.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -926,7 +929,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/march-internship.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -947,7 +950,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/barch-internship.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -968,7 +971,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/diploma.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -989,7 +992,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/thesis.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1010,7 +1013,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/mad-man.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1031,7 +1034,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/regressive-resolutions-2013.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1052,7 +1055,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/outlying-visions.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1073,7 +1076,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-design-literacy-1.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1094,7 +1097,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/design-modelling-symposium.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1115,7 +1118,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/sailing-yacht-design.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1136,7 +1139,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/urban-story.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1157,7 +1160,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/turbulences.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1178,7 +1181,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/global-schindler-award-2015.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1199,7 +1202,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/light-structure.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1220,7 +1223,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/machine-vision.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1241,7 +1244,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-design-literacy-2.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1262,7 +1265,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/disassembly.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1283,7 +1286,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/structures---materials.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1304,7 +1307,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/lighting.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1325,7 +1328,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/advances-in-architectural-geometry.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1346,7 +1349,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-fabrication-2.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1367,7 +1370,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/algorithm.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1388,7 +1391,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/shuffle-rings.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1409,7 +1412,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/digital-fine-arts.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1430,7 +1433,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/xxl-3d-printing.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1451,7 +1454,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/virtual-lobby.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1472,7 +1475,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/mazin-lamps.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1493,7 +1496,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/gis---cad.html</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
