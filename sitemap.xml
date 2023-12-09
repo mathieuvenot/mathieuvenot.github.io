@@ -567,13 +567,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/git01.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mathieuvenot.com/images/linkedin.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mathieuvenot.com/images/vimeo.png</image:loc>
+      <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-126x26.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/images/email-logo-black-png-pictures-1.png</image:loc>
@@ -1127,7 +1124,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cven.pdf</loc>
-    <lastmod>2023-06-22</lastmod>
+    <lastmod>2023-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1139,7 +1136,7 @@
   </url>
   <url>
     <loc>http://mathieuvenot.com/assets/venot_mathieu--cvfr.pdf</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2023-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
