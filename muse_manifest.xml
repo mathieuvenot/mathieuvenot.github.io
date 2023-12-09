@@ -1,69 +1,68 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1663954429878">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com" resolutions="1x" timestamp="1702123394549">
   <folder name="css">
-    <file name="site_global.css" crc="3785889684"/>
-    <file name="master_a-master.css" crc="234007077" ref="digital-fabrication:ship-structures-lab:robotic-interactivity:spray-hood:digital-design-literacy-1:artscience-experimentation-to-human-body:msc-internship:regressive-resolutions:nemo:advances-in-architectural-geometry:robotic---control:structure---weight-estimate:digital-fabrication-2:digital-design-literacy-3:river-cruise-vessel:algorithm:osaka-competition:l2o-naval:march-internship:image-sampler:shuffle-rings:barch-internship:vr-design-rendering:lighting:diploma:maritime-excellences-center:xxl-3d-printing:thesis:sheep-vpp:virtual-lobby:mad-man:digital-fine-arts:regressive-resolutions-2013:index:mazin-lamps:outlying-visions:portfolio:gis---cad:housing-project:design-modelling-symposium:materialization---structuring:resume:ship-design-loop:representation:sailing-yacht-design:urban-story:long-project:turbulences:global-schindler-award-2015:freycinet-barge:light-structure:coco-650:machine-vision:first-35:digital-design-literacy-2:consulting:rm-1050:disassembly:windsurfing:structures---materials:augmented-reality---immersion-in-3d-virtual-worlds:sketch"/>
-    <file name="digital-fabrication.css" crc="4175934079" ref="digital-fabrication"/>
-    <file name="ship-structures-lab.css" crc="4133552138" ref="ship-structures-lab"/>
-    <file name="robotic-interactivity.css" crc="208933898" ref="robotic-interactivity"/>
-    <file name="spray-hood.css" crc="493274328" ref="spray-hood"/>
-    <file name="digital-design-literacy-1.css" crc="33786202" ref="digital-design-literacy-1"/>
-    <file name="artscience-experimentation-to-human-body.css" crc="4269663955" ref="artscience-experimentation-to-human-body"/>
-    <file name="msc-internship.css" crc="3899248629" ref="msc-internship"/>
-    <file name="regressive-resolutions.css" crc="488828845" ref="regressive-resolutions"/>
-    <file name="nemo.css" crc="4004302085" ref="nemo"/>
-    <file name="advances-in-architectural-geometry.css" crc="53925863" ref="advances-in-architectural-geometry"/>
-    <file name="robotic---control.css" crc="4042357206" ref="robotic---control"/>
-    <file name="structure---weight-estimate.css" crc="214774570" ref="structure---weight-estimate"/>
-    <file name="digital-fabrication-2.css" crc="461967275" ref="digital-fabrication-2"/>
-    <file name="digital-design-literacy-3.css" crc="249312287" ref="digital-design-literacy-3"/>
-    <file name="river-cruise-vessel.css" crc="3781835845" ref="river-cruise-vessel"/>
-    <file name="algorithm.css" crc="414904732" ref="algorithm"/>
-    <file name="osaka-competition.css" crc="282742175" ref="osaka-competition"/>
-    <file name="l2o-naval.css" crc="506088871" ref="l2o-naval"/>
-    <file name="march-internship.css" crc="154644724" ref="march-internship"/>
-    <file name="image-sampler.css" crc="82114915" ref="image-sampler"/>
-    <file name="shuffle-rings.css" crc="3880290387" ref="shuffle-rings"/>
-    <file name="barch-internship.css" crc="66332018" ref="barch-internship"/>
-    <file name="vr-design-rendering.css" crc="503799278" ref="vr-design-rendering"/>
-    <file name="lighting.css" crc="329002770" ref="lighting"/>
-    <file name="diploma.css" crc="471495249" ref="diploma"/>
-    <file name="maritime-excellences-center.css" crc="137219507" ref="maritime-excellences-center"/>
-    <file name="xxl-3d-printing.css" crc="128841868" ref="xxl-3d-printing"/>
-    <file name="thesis.css" crc="3898189685" ref="thesis"/>
-    <file name="sheep-vpp.css" crc="3971106314" ref="sheep-vpp"/>
-    <file name="virtual-lobby.css" crc="46862" ref="virtual-lobby"/>
-    <file name="mad-man.css" crc="509772320" ref="mad-man"/>
-    <file name="digital-fine-arts.css" crc="271289737" ref="digital-fine-arts"/>
-    <file name="regressive-resolutions-2013.css" crc="156835779" ref="regressive-resolutions-2013"/>
-    <file name="index.css" crc="3913660652" ref="index"/>
-    <file name="mazin-lamps.css" crc="120420907" ref="mazin-lamps"/>
-    <file name="outlying-visions.css" crc="72132870" ref="outlying-visions"/>
-    <file name="portfolio.css" crc="3934407208" ref="portfolio"/>
-    <file name="gis---cad.css" crc="397351047" ref="gis---cad"/>
-    <file name="housing-project.css" crc="260727894" ref="housing-project"/>
-    <file name="design-modelling-symposium.css" crc="3923097762" ref="design-modelling-symposium"/>
-    <file name="materialization---structuring.css" crc="4166326231" ref="materialization---structuring"/>
-    <file name="resume.css" crc="454173509" ref="resume"/>
-    <file name="ship-design-loop.css" crc="4284316611" ref="ship-design-loop"/>
-    <file name="representation.css" crc="4009549005" ref="representation"/>
-    <file name="sailing-yacht-design.css" crc="3797026458" ref="sailing-yacht-design"/>
-    <file name="urban-story.css" crc="4267965486" ref="urban-story"/>
-    <file name="long-project.css" crc="450341487" ref="long-project"/>
-    <file name="turbulences.css" crc="3949390398" ref="turbulences"/>
-    <file name="global-schindler-award-2015.css" crc="3839939473" ref="global-schindler-award-2015"/>
-    <file name="freycinet-barge.css" crc="4112199510" ref="freycinet-barge"/>
-    <file name="light-structure.css" crc="3866800385" ref="light-structure"/>
-    <file name="coco-650.css" crc="3913968267" ref="coco-650"/>
-    <file name="machine-vision.css" crc="168791483" ref="machine-vision"/>
-    <file name="first-35.css" crc="3893674235" ref="first-35"/>
-    <file name="digital-design-literacy-2.css" crc="117822725" ref="digital-design-literacy-2"/>
-    <file name="consulting.css" crc="4001319266" ref="consulting"/>
-    <file name="rm-1050.css" crc="4239173388" ref="rm-1050"/>
-    <file name="disassembly.css" crc="3870190430" ref="disassembly"/>
-    <file name="windsurfing.css" crc="52336659" ref="windsurfing"/>
-    <file name="structures---materials.css" crc="4130933676" ref="structures---materials"/>
-    <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4248968256" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
-    <file name="sketch.css" crc="496113057" ref="sketch"/>
+    <file name="site_global.css" crc="164513936"/>
+    <file name="master_a-master.css" crc="149842072" ref="digital-fabrication:ship-structures-lab:robotic-interactivity:spray-hood:digital-design-literacy-1:artscience-experimentation-to-human-body:msc-internship:regressive-resolutions:nemo:advances-in-architectural-geometry:robotic---control:structure---weight-estimate:digital-fabrication-2:digital-design-literacy-3:river-cruise-vessel:algorithm:osaka-competition:l2o-naval:march-internship:image-sampler:shuffle-rings:barch-internship:vr-design-rendering:lighting:diploma:maritime-excellences-center:xxl-3d-printing:thesis:sheep-vpp:virtual-lobby:mad-man:digital-fine-arts:regressive-resolutions-2013:index:mazin-lamps:outlying-visions:portfolio:gis---cad:housing-project:design-modelling-symposium:materialization---structuring:resume:ship-design-loop:representation:sailing-yacht-design:urban-story:long-project:turbulences:global-schindler-award-2015:freycinet-barge:light-structure:coco-650:machine-vision:first-35:digital-design-literacy-2:rm-1050:disassembly:windsurfing:structures---materials:augmented-reality---immersion-in-3d-virtual-worlds:sketch"/>
+    <file name="digital-fabrication.css" crc="508632897" ref="digital-fabrication"/>
+    <file name="ship-structures-lab.css" crc="3985397293" ref="ship-structures-lab"/>
+    <file name="robotic-interactivity.css" crc="205587638" ref="robotic-interactivity"/>
+    <file name="spray-hood.css" crc="3977998684" ref="spray-hood"/>
+    <file name="digital-design-literacy-1.css" crc="465710197" ref="digital-design-literacy-1"/>
+    <file name="artscience-experimentation-to-human-body.css" crc="471603136" ref="artscience-experimentation-to-human-body"/>
+    <file name="msc-internship.css" crc="207165704" ref="msc-internship"/>
+    <file name="regressive-resolutions.css" crc="3866925340" ref="regressive-resolutions"/>
+    <file name="nemo.css" crc="3964679654" ref="nemo"/>
+    <file name="advances-in-architectural-geometry.css" crc="411181380" ref="advances-in-architectural-geometry"/>
+    <file name="robotic---control.css" crc="3994864516" ref="robotic---control"/>
+    <file name="structure---weight-estimate.css" crc="318201063" ref="structure---weight-estimate"/>
+    <file name="digital-fabrication-2.css" crc="4201848918" ref="digital-fabrication-2"/>
+    <file name="digital-design-literacy-3.css" crc="3842131662" ref="digital-design-literacy-3"/>
+    <file name="river-cruise-vessel.css" crc="4041599563" ref="river-cruise-vessel"/>
+    <file name="algorithm.css" crc="109433425" ref="algorithm"/>
+    <file name="osaka-competition.css" crc="4072504927" ref="osaka-competition"/>
+    <file name="l2o-naval.css" crc="200026578" ref="l2o-naval"/>
+    <file name="march-internship.css" crc="31570289" ref="march-internship"/>
+    <file name="image-sampler.css" crc="270781463" ref="image-sampler"/>
+    <file name="shuffle-rings.css" crc="3810215598" ref="shuffle-rings"/>
+    <file name="barch-internship.css" crc="327334781" ref="barch-internship"/>
+    <file name="vr-design-rendering.css" crc="115122494" ref="vr-design-rendering"/>
+    <file name="lighting.css" crc="3973972764" ref="lighting"/>
+    <file name="diploma.css" crc="4237802121" ref="diploma"/>
+    <file name="maritime-excellences-center.css" crc="4186957178" ref="maritime-excellences-center"/>
+    <file name="xxl-3d-printing.css" crc="3760629478" ref="xxl-3d-printing"/>
+    <file name="thesis.css" crc="3866378527" ref="thesis"/>
+    <file name="sheep-vpp.css" crc="510060284" ref="sheep-vpp"/>
+    <file name="virtual-lobby.css" crc="15537482" ref="virtual-lobby"/>
+    <file name="mad-man.css" crc="241699508" ref="mad-man"/>
+    <file name="digital-fine-arts.css" crc="512402103" ref="digital-fine-arts"/>
+    <file name="regressive-resolutions-2013.css" crc="4226047878" ref="regressive-resolutions-2013"/>
+    <file name="index.css" crc="3943732645" ref="index"/>
+    <file name="mazin-lamps.css" crc="4239248370" ref="mazin-lamps"/>
+    <file name="outlying-visions.css" crc="3932576438" ref="outlying-visions"/>
+    <file name="portfolio.css" crc="3935393967" ref="portfolio"/>
+    <file name="gis---cad.css" crc="3834106100" ref="gis---cad"/>
+    <file name="housing-project.css" crc="177172555" ref="housing-project"/>
+    <file name="design-modelling-symposium.css" crc="138102402" ref="design-modelling-symposium"/>
+    <file name="materialization---structuring.css" crc="464668298" ref="materialization---structuring"/>
+    <file name="resume.css" crc="3797859986" ref="resume"/>
+    <file name="ship-design-loop.css" crc="3908666766" ref="ship-design-loop"/>
+    <file name="representation.css" crc="3922117631" ref="representation"/>
+    <file name="sailing-yacht-design.css" crc="3999659208" ref="sailing-yacht-design"/>
+    <file name="urban-story.css" crc="56530531" ref="urban-story"/>
+    <file name="long-project.css" crc="3812292890" ref="long-project"/>
+    <file name="turbulences.css" crc="4039772382" ref="turbulences"/>
+    <file name="global-schindler-award-2015.css" crc="263505221" ref="global-schindler-award-2015"/>
+    <file name="freycinet-barge.css" crc="263488359" ref="freycinet-barge"/>
+    <file name="light-structure.css" crc="251595019" ref="light-structure"/>
+    <file name="coco-650.css" crc="4275956322" ref="coco-650"/>
+    <file name="machine-vision.css" crc="4042131387" ref="machine-vision"/>
+    <file name="first-35.css" crc="4202074523" ref="first-35"/>
+    <file name="digital-design-literacy-2.css" crc="4252849504" ref="digital-design-literacy-2"/>
+    <file name="rm-1050.css" crc="3884080306" ref="rm-1050"/>
+    <file name="disassembly.css" crc="3824114751" ref="disassembly"/>
+    <file name="windsurfing.css" crc="3815389819" ref="windsurfing"/>
+    <file name="structures---materials.css" crc="507846799" ref="structures---materials"/>
+    <file name="augmented-reality---immersion-in-3d-virtual-worlds.css" crc="4197281794" ref="augmented-reality---immersion-in-3d-virtual-worlds"/>
+    <file name="sketch.css" crc="3802843301" ref="sketch"/>
   </folder>
   <folder name="fonts">
     <file name="questrial-v18-latin-regular.woff" crc="156859455"/>
@@ -80,7 +79,7 @@
     <file name="cabin-v26-latin-700.svg" crc="3887156907"/>
   </folder>
   <folder name="assets">
-    <file name="venot_mathieu--cven.pdf" crc="4254303419" seo="true" mt="1663946047000"/>
+    <file name="venot_mathieu--cven.pdf" crc="4008539124" seo="true" mt="1687415182000"/>
     <file name="venot_mathieu--cvfr.pdf" crc="4005186360" seo="true" mt="1663946063000"/>
     <file name="venot_mathieu--book.pdf" crc="424200116" seo="true" mt="1562929172000"/>
     <file name="venot_mathieu-rapportstagemaster.pdf" crc="4272139814" seo="true" mt="1444316632000"/>
@@ -104,221 +103,219 @@
     <file name="venot-mathieu_stage-rapport.pdf" crc="28548929" seo="true" mt="1535983113000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="museutils.js" crc="3939489907" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portfolio:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="museutils.js" crc="3939489907" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="webpro.js" crc="3856315280" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:portfolio:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
-    <file name="require.js" crc="4177726516" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
+    <file name="require.js" crc="4177726516" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="276223592" ref="index"/>
-    <file name="git01.png" crc="4224509423" seo="true" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="design-modelling-symposium" alt=""/>
+    <file name="git01.png" crc="4224509423" seo="true" ref="resume">
+      <caption webpage="nemo" alt=""/>
       <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="coco-650" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="global-schindler-award-2015" alt=""/>
+      <caption webpage="image-sampler" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="first-35" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
       <caption webpage="representation" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="turbulences" alt=""/>
       <caption webpage="thesis" alt=""/>
       <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="first-35" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="global-schindler-award-2015" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="mad-man" alt=""/>
-      <caption webpage="nemo" alt=""/>
       <caption webpage="structures---materials" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="image-sampler" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
       <caption webpage="algorithm" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="rm-1050" alt=""/>
-      <caption webpage="spray-hood" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
       <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="barch-internship" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="long-project" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="light-structure" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="rm-1050" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="mad-man" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="coco-650" alt=""/>
+      <caption webpage="advances-in-architectural-geometry" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
     </file>
-    <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="coco-650" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="first-35" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="global-schindler-award-2015" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="mad-man" alt=""/>
+    <file name="linkedin.png" crc="4019122910" seo="true" ref="index:portfolio:resume:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
       <caption webpage="nemo" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="long-project" alt=""/>
       <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="global-schindler-award-2015" alt=""/>
       <caption webpage="image-sampler" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="rm-1050" alt=""/>
-      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="first-35" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
       <caption webpage="digital-design-literacy-3" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="turbulences" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="regressive-resolutions-2013" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="algorithm" alt=""/>
       <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
       <caption webpage="barch-internship" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="rm-1050" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="light-structure" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
+      <caption webpage="long-project" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="mad-man" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="coco-650" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="advances-in-architectural-geometry" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="digital-fabrication" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
     </file>
     <file name="email-logo-black-png-pictures-126x26.png" crc="4000076568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="vimeo.png" crc="4281384747" seo="true" ref="index:portfolio:resume:consulting:augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:nemo:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="design-modelling-symposium" alt=""/>
+    <file name="vimeo.png" crc="4281384747" seo="true" ref="resume">
+      <caption webpage="nemo" alt=""/>
       <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="coco-650" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="global-schindler-award-2015" alt=""/>
+      <caption webpage="image-sampler" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="first-35" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
       <caption webpage="representation" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="turbulences" alt=""/>
       <caption webpage="thesis" alt=""/>
       <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="first-35" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="global-schindler-award-2015" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="consulting" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="mad-man" alt=""/>
-      <caption webpage="nemo" alt=""/>
       <caption webpage="structures---materials" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="image-sampler" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
       <caption webpage="algorithm" alt=""/>
-      <caption webpage="sketch" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="shuffle-rings" alt=""/>
-      <caption webpage="rm-1050" alt=""/>
-      <caption webpage="spray-hood" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
       <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
       <caption webpage="barch-internship" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="long-project" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="light-structure" alt=""/>
+      <caption webpage="sketch" alt=""/>
+      <caption webpage="rm-1050" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="shuffle-rings" alt=""/>
+      <caption webpage="regressive-resolutions" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="mad-man" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="coco-650" alt=""/>
+      <caption webpage="advances-in-architectural-geometry" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
     </file>
     <file name="home_n.png" crc="195540747" ref="index">
       <caption webpage="index" alt=""/>
@@ -371,22 +368,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="freelancen.png" crc="4040650890" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="freelance.png" crc="4245718626" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
@@ -560,7 +541,7 @@
     <file name="locationgrabber03_gismo9_21.jpg" crc="16221372" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="highresscreenshot00002.jpg" crc="3999985078" ref="index:design-modelling-symposium">
+    <file name="highresscreenshot00002.jpg" crc="3999985078" ref="index:design-modelling-symposium" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="design-modelling-symposium" alt=""/>
     </file>
@@ -634,7 +615,6 @@
     <file name="nemov2-03-u3449-fr.png" crc="337580211" ref="index"/>
     <file name="btn_h-u1434-r-fr.png" crc="3769633633" ref="index:portfolio"/>
     <file name="btn_d-u1434-m-fr.png" crc="3964317323" ref="index:portfolio"/>
-    <file name="rendu _ s-g - copy-u3439-fr.png" crc="3842765066" ref="index"/>
     <file name="sheep.png" crc="360161991" ref="portfolio:sheep-vpp">
       <caption webpage="sheep-vpp" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -740,126 +720,127 @@
     <file name="img_1833c.jpg" crc="432665906" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="rendu _ s-g - copy.png" crc="189004518" ref="consulting">
+    <file name="rendu _ s-g - copy.png" crc="4002895860" ref="long-project">
       <caption webpage="consulting" alt=""/>
+      <caption webpage="long-project" alt=""/>
     </file>
     <file name="project_arrow_left.png" crc="3926335486" seo="true" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="global-schindler-award-2015" alt=""/>
-      <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="coco-650" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
       <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="first-35" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="mad-man" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="global-schindler-award-2015" alt=""/>
       <caption webpage="image-sampler" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="first-35" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="turbulences" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="regressive-resolutions-2013" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="algorithm" alt=""/>
+      <caption webpage="digital-design-literacy-1" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="long-project" alt=""/>
+      <caption webpage="light-structure" alt=""/>
       <caption webpage="sketch" alt=""/>
       <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
       <caption webpage="shuffle-rings" alt=""/>
       <caption webpage="rm-1050" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
-      <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
-      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="mad-man" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="coco-650" alt=""/>
+      <caption webpage="advances-in-architectural-geometry" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
     </file>
     <file name="project_arrow_right.png" crc="3982479869" seo="true" ref="augmented-reality---immersion-in-3d-virtual-worlds:digital-fabrication:robotic-interactivity:artscience-experimentation-to-human-body:regressive-resolutions:robotic---control:digital-design-literacy-3:osaka-competition:march-internship:barch-internship:diploma:thesis:mad-man:regressive-resolutions-2013:outlying-visions:housing-project:materialization---structuring:representation:urban-story:turbulences:global-schindler-award-2015:light-structure:machine-vision:digital-design-literacy-2:disassembly:structures---materials:digital-design-literacy-1:advances-in-architectural-geometry:digital-fabrication-2:algorithm:shuffle-rings:lighting:xxl-3d-printing:virtual-lobby:digital-fine-arts:mazin-lamps:gis---cad:design-modelling-symposium:ship-design-loop:sailing-yacht-design:long-project:freycinet-barge:coco-650:first-35:rm-1050:windsurfing:sketch:ship-structures-lab:spray-hood:msc-internship:structure---weight-estimate:river-cruise-vessel:l2o-naval:image-sampler:vr-design-rendering:maritime-excellences-center:sheep-vpp">
-      <caption webpage="design-modelling-symposium" alt=""/>
-      <caption webpage="global-schindler-award-2015" alt=""/>
-      <caption webpage="advances-in-architectural-geometry" alt=""/>
-      <caption webpage="coco-650" alt=""/>
-      <caption webpage="thesis" alt=""/>
-      <caption webpage="sailing-yacht-design" alt=""/>
       <caption webpage="digital-fabrication" alt=""/>
-      <caption webpage="sheep-vpp" alt=""/>
-      <caption webpage="representation" alt=""/>
-      <caption webpage="vr-design-rendering" alt=""/>
-      <caption webpage="regressive-resolutions-2013" alt=""/>
-      <caption webpage="first-35" alt=""/>
-      <caption webpage="osaka-competition" alt=""/>
-      <caption webpage="msc-internship" alt=""/>
-      <caption webpage="outlying-visions" alt=""/>
-      <caption webpage="march-internship" alt=""/>
-      <caption webpage="lighting" alt=""/>
-      <caption webpage="robotic-interactivity" alt=""/>
-      <caption webpage="l2o-naval" alt=""/>
-      <caption webpage="diploma" alt=""/>
-      <caption webpage="machine-vision" alt=""/>
-      <caption webpage="digital-fine-arts" alt=""/>
-      <caption webpage="virtual-lobby" alt=""/>
-      <caption webpage="freycinet-barge" alt=""/>
-      <caption webpage="materialization---structuring" alt=""/>
-      <caption webpage="ship-design-loop" alt=""/>
-      <caption webpage="housing-project" alt=""/>
-      <caption webpage="disassembly" alt=""/>
-      <caption webpage="turbulences" alt=""/>
-      <caption webpage="digital-fabrication-2" alt=""/>
-      <caption webpage="structure---weight-estimate" alt=""/>
-      <caption webpage="mad-man" alt=""/>
-      <caption webpage="structures---materials" alt=""/>
-      <caption webpage="gis---cad" alt=""/>
-      <caption webpage="xxl-3d-printing" alt=""/>
-      <caption webpage="robotic---control" alt=""/>
-      <caption webpage="digital-design-literacy-2" alt=""/>
-      <caption webpage="urban-story" alt=""/>
-      <caption webpage="mazin-lamps" alt=""/>
-      <caption webpage="long-project" alt=""/>
-      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
-      <caption webpage="algorithm" alt=""/>
-      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
-      <caption webpage="maritime-excellences-center" alt=""/>
-      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="global-schindler-award-2015" alt=""/>
       <caption webpage="image-sampler" alt=""/>
+      <caption webpage="ship-design-loop" alt=""/>
+      <caption webpage="virtual-lobby" alt=""/>
+      <caption webpage="design-modelling-symposium" alt=""/>
+      <caption webpage="first-35" alt=""/>
+      <caption webpage="mazin-lamps" alt=""/>
+      <caption webpage="msc-internship" alt=""/>
+      <caption webpage="digital-design-literacy-3" alt=""/>
+      <caption webpage="representation" alt=""/>
+      <caption webpage="digital-fabrication-2" alt=""/>
+      <caption webpage="housing-project" alt=""/>
+      <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
+      <caption webpage="l2o-naval" alt=""/>
+      <caption webpage="robotic-interactivity" alt=""/>
+      <caption webpage="turbulences" alt=""/>
+      <caption webpage="thesis" alt=""/>
+      <caption webpage="regressive-resolutions-2013" alt=""/>
+      <caption webpage="structures---materials" alt=""/>
+      <caption webpage="ship-structures-lab" alt=""/>
+      <caption webpage="structure---weight-estimate" alt=""/>
+      <caption webpage="algorithm" alt=""/>
+      <caption webpage="digital-design-literacy-1" alt=""/>
+      <caption webpage="vr-design-rendering" alt=""/>
+      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="robotic---control" alt=""/>
+      <caption webpage="materialization---structuring" alt=""/>
+      <caption webpage="osaka-competition" alt=""/>
+      <caption webpage="maritime-excellences-center" alt=""/>
+      <caption webpage="digital-design-literacy-2" alt=""/>
+      <caption webpage="lighting" alt=""/>
+      <caption webpage="long-project" alt=""/>
+      <caption webpage="light-structure" alt=""/>
       <caption webpage="sketch" alt=""/>
       <caption webpage="regressive-resolutions" alt=""/>
-      <caption webpage="windsurfing" alt=""/>
-      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="river-cruise-vessel" alt=""/>
       <caption webpage="shuffle-rings" alt=""/>
       <caption webpage="rm-1050" alt=""/>
-      <caption webpage="light-structure" alt=""/>
-      <caption webpage="digital-design-literacy-3" alt=""/>
-      <caption webpage="digital-design-literacy-1" alt=""/>
-      <caption webpage="river-cruise-vessel" alt=""/>
-      <caption webpage="barch-internship" alt=""/>
+      <caption webpage="gis---cad" alt=""/>
+      <caption webpage="digital-fine-arts" alt=""/>
+      <caption webpage="spray-hood" alt=""/>
+      <caption webpage="mad-man" alt=""/>
+      <caption webpage="march-internship" alt=""/>
+      <caption webpage="diploma" alt=""/>
+      <caption webpage="urban-story" alt=""/>
+      <caption webpage="machine-vision" alt=""/>
+      <caption webpage="disassembly" alt=""/>
+      <caption webpage="freycinet-barge" alt=""/>
+      <caption webpage="coco-650" alt=""/>
+      <caption webpage="advances-in-architectural-geometry" alt=""/>
+      <caption webpage="sailing-yacht-design" alt=""/>
+      <caption webpage="sheep-vpp" alt=""/>
+      <caption webpage="outlying-visions" alt=""/>
+      <caption webpage="xxl-3d-printing" alt=""/>
+      <caption webpage="artscience-experimentation-to-human-body" alt=""/>
+      <caption webpage="windsurfing" alt=""/>
     </file>
     <file name="20160215_163856.jpg" crc="3965304212" ref="augmented-reality---immersion-in-3d-virtual-worlds">
       <caption webpage="augmented-reality---immersion-in-3d-virtual-worlds" alt=""/>
@@ -1138,9 +1119,6 @@
     <file name="rendu _ d-p - copy (2).png" crc="4248847873" ref="long-project">
       <caption webpage="long-project" alt=""/>
     </file>
-    <file name="rendu _ s-g - copy2.png" crc="4002895860" ref="long-project">
-      <caption webpage="long-project" alt=""/>
-    </file>
     <file name="15800137_10211590281411805_5238110828350240211_o-u36700-fr.jpg" crc="3999431777" ref="freycinet-barge"/>
     <file name="img_0194-u36701-fr.jpg" crc="79334300" ref="freycinet-barge"/>
     <file name="img_1082.jpg" crc="3915883940" ref="freycinet-barge">
@@ -1216,67 +1194,69 @@
     <file name="rendu bague2 final2.png" crc="3790287166" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="3d01 - copy (fhd).jpg" crc="514278683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4152034134" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="portfolio.html" crc="216000392" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="resume.html" crc="164820110" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="consulting.html" crc="3862096867" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="108759905" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-fabrication.html" crc="444283030" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="robotic-interactivity.html" crc="4282338667" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="artscience-experimentation-to-human-body.html" crc="283355189" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="regressive-resolutions.html" crc="506860730" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="robotic---control.html" crc="382473915" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-design-literacy-3.html" crc="3946590540" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="osaka-competition.html" crc="528031484" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="march-internship.html" crc="434462410" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="barch-internship.html" crc="3920987283" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="diploma.html" crc="4004751810" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="thesis.html" crc="46139075" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="mad-man.html" crc="4288890949" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="regressive-resolutions-2013.html" crc="4276437828" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="outlying-visions.html" crc="4279760013" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="housing-project.html" crc="4084240438" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="materialization---structuring.html" crc="3962177977" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="representation.html" crc="3797264993" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="urban-story.html" crc="409006416" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="turbulences.html" crc="55454837" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="global-schindler-award-2015.html" crc="3958896361" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="light-structure.html" crc="3768274232" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="machine-vision.html" crc="253040321" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-design-literacy-2.html" crc="215327316" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="disassembly.html" crc="257472438" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="structures---materials.html" crc="3820445391" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-design-literacy-1.html" crc="35320886" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="advances-in-architectural-geometry.html" crc="4046690945" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-fabrication-2.html" crc="460714936" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="algorithm.html" crc="378542567" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="shuffle-rings.html" crc="3857456302" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="lighting.html" crc="4094737" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="xxl-3d-printing.html" crc="4055350453" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="virtual-lobby.html" crc="242335499" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="digital-fine-arts.html" crc="6522616" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="mazin-lamps.html" crc="4078262813" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="gis---cad.html" crc="4058337396" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="design-modelling-symposium.html" crc="247801131" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="ship-design-loop.html" crc="130116568" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="sailing-yacht-design.html" crc="4101644719" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="long-project.html" crc="270751063" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="freycinet-barge.html" crc="4283003608" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="coco-650.html" crc="126966284" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="first-35.html" crc="142665624" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="rm-1050.html" crc="108604039" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="windsurfing.html" crc="108335509" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="sketch.html" crc="468802893" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="ship-structures-lab.html" crc="3813766645" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="spray-hood.html" crc="77919721" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="msc-internship.html" crc="4029374274" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="nemo.html" crc="381883406" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="structure---weight-estimate.html" crc="3952836571" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="river-cruise-vessel.html" crc="3995934992" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="l2o-naval.html" crc="3801775717" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="image-sampler.html" crc="4117974502" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="vr-design-rendering.html" crc="3913255998" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="maritime-excellences-center.html" crc="4130603823" seo="true" mt="1663954347340" redirect="true"/>
-  <file name="sheep-vpp.html" crc="3941689942" seo="true" mt="1663954347340" redirect="true"/>
+  <file name="index.html" crc="485298183" seo="true" mt="1702123380719" redirect="true"/>
+  <file name="portfolio.html" crc="37616379" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="resume.html" crc="311019971" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="augmented-reality---immersion-in-3d-virtual-worlds.html" crc="3838093283" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-fabrication.html" crc="4091031170" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="robotic-interactivity.html" crc="3928061591" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="artscience-experimentation-to-human-body.html" crc="3853834437" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="regressive-resolutions.html" crc="4087588680" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="robotic---control.html" crc="312538756" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-design-literacy-3.html" crc="136797079" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="osaka-competition.html" crc="75900127" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="march-internship.html" crc="419419447" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="barch-internship.html" crc="75341451" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="diploma.html" crc="290165395" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="thesis.html" crc="4178707333" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="mad-man.html" crc="49509466" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="regressive-resolutions-2013.html" crc="3878721257" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="outlying-visions.html" crc="228949045" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="housing-project.html" crc="322384881" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="materialization---structuring.html" crc="4072443672" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="representation.html" crc="3845227330" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="urban-story.html" crc="170364157" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="turbulences.html" crc="4068758937" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="global-schindler-award-2015.html" crc="425984517" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="light-structure.html" crc="3832639268" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="machine-vision.html" crc="3916582844" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-design-literacy-2.html" crc="174662406" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="disassembly.html" crc="4142494189" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="structures---materials.html" crc="3995338791" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-design-literacy-1.html" crc="305444999" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="advances-in-architectural-geometry.html" crc="3950214516" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-fabrication-2.html" crc="4199714531" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="algorithm.html" crc="3908461202" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="shuffle-rings.html" crc="3792213553" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="lighting.html" crc="292773893" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="xxl-3d-printing.html" crc="4100851627" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="virtual-lobby.html" crc="182855208" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="digital-fine-arts.html" crc="382912665" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="mazin-lamps.html" crc="4178111420" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="gis---cad.html" crc="204314477" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="design-modelling-symposium.html" crc="438673127" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="ship-design-loop.html" crc="283819700" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="sailing-yacht-design.html" crc="3761366932" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="long-project.html" crc="330538903" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="freycinet-barge.html" crc="4080271615" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="coco-650.html" crc="3915279300" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="first-35.html" crc="405567834" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="rm-1050.html" crc="3806292941" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="windsurfing.html" crc="41378798" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="sketch.html" crc="439329299" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="ship-structures-lab.html" crc="181862212" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="spray-hood.html" crc="3994690656" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="msc-internship.html" crc="319591176" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="nemo.html" crc="488843597" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="structure---weight-estimate.html" crc="4286547241" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="river-cruise-vessel.html" crc="4104556320" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="l2o-naval.html" crc="4257493242" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="image-sampler.html" crc="336355127" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="vr-design-rendering.html" crc="326963164" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="maritime-excellences-center.html" crc="3792985179" seo="true" mt="1702123078505" redirect="true"/>
+  <file name="sheep-vpp.html" crc="4026257770" seo="true" mt="1702123078505" redirect="true"/>
 </manifest>
